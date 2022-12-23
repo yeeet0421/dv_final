@@ -1,14 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+
 import WordCloud from './WordCloudYh';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <WordCloud />
-      </header>
-    </div>
+        <WordCloud width = "500px"
+                   height = "500px" />
   );
 }
 
