@@ -1,9 +1,9 @@
 
-import WordCloud from './WordCloudYh';
+import MyWordCloud from './WordCloudYh';
 
 function App() {
   return (
-        <WordCloud width = "500px"
+        <MyWordCloud width = "500px"
                    height = "500px" />
   );
 }
