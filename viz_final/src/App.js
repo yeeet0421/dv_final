@@ -1,6 +1,7 @@
 
 import MyWordCloud from './MyWordCloud';
-import React, { useState } from 'react';
+import IntroFrame from './IntroFrame';
+import React, { useState, useEffect } from 'react';
 
 
 
@@ -71,23 +72,34 @@ const data = [
 
 function App() {
   const [progress, setProgress] = useState(1);
+  const temp = window.innerWidth;
+  console.log(window.innerWidth);
+  const [windowWidth, setWindowWidth] = useState(temp);
+
+  useEffect(() => {
+    const handleResize = () => setWindowWidth(window.innerWidth);
+    window.addEventListener('resize', handleResize);
+    return () => {
+      window.removeEventListener('resize', handleResize);
+    };
+  }, []);
+
+  
+  
   const handleClick = (number) => {
     setProgress(number);
   };
 
 
-    if (progress==1){
+    if (progress===1){
       return(
         <div>
-          <MyWordCloud width = {600}
-                      height = {200}
-                      data = {data} 
-                      //fontWeight = {(data)=>data.value}
-          />
+          <IntroFrame windowWidth = {windowWidth}/>
+          
           <button onClick={()=>handleClick(2)}>Next UI</button>
         </div>
       );
-    } else if (progress==2){
+    } else if (progress===2){
       return(
         <div>
           <MyWordCloud width = {1000}
@@ -98,7 +110,7 @@ function App() {
           <button onClick={()=>handleClick(3)}>Next UI</button>
         </div>
       );
-    } else if (progress==3){
+    } else if (progress===3){
       return(
         <div>
           <MyWordCloud width = {1500}
