@@ -109,3 +109,4 @@ const styles = ({
 }
 
 export default CardDetailPanel;
+
