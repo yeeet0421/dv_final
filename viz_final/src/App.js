@@ -1,5 +1,9 @@
 
 import MyWordCloud from './MyWordCloud';
+import React, { useState } from 'react';
+
+
+
 const data = [
   { text: 'Hey', value: 1000 },
   { text: 'I', value: 500 },
@@ -64,14 +68,48 @@ const data = [
 
 ];
 
+
 function App() {
-  return (
-        <MyWordCloud width = "250"
-                   height = "250"
-                   data = {data} 
-                   //fontWeight = {(data)=>data.value}
-        />
-  );
+  const [progress, setProgress] = useState(1);
+  const handleClick = (number) => {
+    setProgress(number);
+  };
+
+
+    if (progress==1){
+      return(
+        <div>
+          <MyWordCloud width = {600}
+                      height = {200}
+                      data = {data} 
+                      //fontWeight = {(data)=>data.value}
+          />
+          <button onClick={()=>handleClick(2)}>Next UI</button>
+        </div>
+      );
+    } else if (progress==2){
+      return(
+        <div>
+          <MyWordCloud width = {1000}
+                      height = {500}
+                      data = {data} 
+                      //fontWeight = {(data)=>data.value}
+          />
+          <button onClick={()=>handleClick(3)}>Next UI</button>
+        </div>
+      );
+    } else if (progress==3){
+      return(
+        <div>
+          <MyWordCloud width = {1500}
+                      height = {800}
+                      data = {data} 
+                      //fontWeight = {(data)=>data.value}
+          />
+          <button onClick={()=>handleClick(1)}>Next UI</button>
+        </div>
+      );
+    }
 }
 
 export default App;
