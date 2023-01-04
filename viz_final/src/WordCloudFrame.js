@@ -5,7 +5,7 @@ import ImageCard from './ImageCard';
 
 const WordCloudFrame = ({windowWidth, windowHeight, data, setUIProgress, trendNumber}) => {
 
-    const [keyword, setKeyWord] = useState(false);
+    const [keyword, setKeyword] = useState(false);
     //const [cardDetailNumber, setCardDetailNumber] = useState(0);
     const containerStyles = {
         display: "flex"
@@ -30,7 +30,7 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, setUIProgress, trendNu
                     <MyWordCloud height = {windowHeight}
                             width = {keyword===false? windowWidth:windowWidth*0.5}
                             data = {data}
-                            setKeyWord = {setKeyWord}
+                            setKeyword = {setKeyword}
                     />
                 </div>
                 {keyword && <div style={rightDivStyles}>
