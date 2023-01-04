@@ -2,10 +2,12 @@ import React from 'react';
 import { useState } from 'react';
 import MyWordCloud from './MyWordCloud';
 import ImageCard from './ImageCard';
+import VideoList from './VideoList';
 
 const WordCloudFrame = ({windowWidth, windowHeight, data, setUIProgress, trendNumber}) => {
 
     const [keyword, setKeyword] = useState(false);
+    const [videoID, setVideoID] = useState(false);
     //const [cardDetailNumber, setCardDetailNumber] = useState(0);
     const containerStyles = {
         display: "flex"
@@ -34,6 +36,9 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, setUIProgress, trendNu
                     />
                 </div>
                 {keyword && <div style={rightDivStyles}>
+                    <VideoList />
+                </div>}
+                {videoID && <div style={rightDivStyles}>
                     <ImageCard imagePath={"https://i.imgur.com/ymAVFbg.png"}
                             height = {windowHeight}
                             width = {windowWidth}
