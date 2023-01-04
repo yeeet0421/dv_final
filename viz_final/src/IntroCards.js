@@ -5,7 +5,7 @@ const IntroCards = ({toggleVisibility, setCardDetailNumber}) => {
     const handleClick = (number) => {
         setCardDetailNumber(number);
         toggleVisibility(true);
-        console.log("this is a test command");
+        console.log("this is a  command");
     };
     return (
         <Row >
