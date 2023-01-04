@@ -1,12 +1,12 @@
 import React from 'react';
 import { Row, Col, CardPanel } from 'react-materialize';
 
-const IntroCards = ({toggleVisibility, setCardDetailNumber}) => {
-    const handleClick = (number) => {
-        setCardDetailNumber(number);
-        toggleVisibility(true);
-        console.log("this is ommand");
+const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, trendNumber}) => {
+    const handleMouseEnter = (number) => {
+        setTrendNumber(number);
     };
+
+
     return (
         <Row >
             <Col
@@ -14,46 +14,76 @@ const IntroCards = ({toggleVisibility, setCardDetailNumber}) => {
                 s={12}
             >
                 <a href="#" 
-                onClick={() => handleClick(1)}
+                onMouseEnter={() => handleMouseEnter(1)}
+                onClick = {() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: '50%' ,  textAlign : 'center'}}>
-                    <span className="white-text" style={{fontSize: 2 + 'em'}}>
+                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                                                        height : windowHeight*0.12,
+                                                          textAlign : 'center',
+                                                          marginTop: windowHeight*0.07,
+                                                          marginBottom: windowHeight*0.07 }}
+                    >
+                    <span className="white-text" style={{fontSize: 3 + 'em'}}>
                         1st trend
                     </span>
                     </CardPanel>
                 </a>
                 <a href="#" 
-                onClick={() => handleClick(2)}
+                onMouseEnter={() => handleMouseEnter(2)}
+                onClick={() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: '50%' ,  textAlign : 'center'}}>
-                    <span className="white-text" style={{fontSize: 2 + 'em'}}>
+                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                                                        height : windowHeight*0.12,
+                                                          textAlign : 'center',
+                                                          marginTop: windowHeight*0.07,
+                                                          marginBottom: windowHeight*0.07 }}
+                    >
+                    <span className="white-text" style={{fontSize: 3 + 'em'}}>
                         2st trend
                     </span>
                     </CardPanel>
                 </a>
                 <a href="#" 
-                onClick={() => handleClick(3)}
+                onMouseEnter={() => handleMouseEnter(3)}
+                onClick={() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: '50%' ,  textAlign : 'center'}}>
-                    <span className="white-text" style={{fontSize: 2 + 'em'}}>
+                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                                                        height : windowHeight*0.12,
+                                                          textAlign : 'center',
+                                                          marginTop: windowHeight*0.07,
+                                                          marginBottom: windowHeight*0.07 }}
+                    >
+                    <span className="white-text" style={{fontSize: 3 + 'em'}}>
                         3rd trend
                     </span>
                     </CardPanel>
                 </a>
                 <a href="#" 
-                onClick={() => handleClick(4)}
+                onMouseEnter={() => handleMouseEnter(4)}
+                onClick={() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: '50%' ,  textAlign : 'center'}}>
-                    <span className="white-text" style={{fontSize: 2 + 'em'}}>
+                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                                                        height : windowHeight*0.12,
+                                                          textAlign : 'center',
+                                                          marginTop: windowHeight*0.07,
+                                                          marginBottom: windowHeight*0.07 }}
+                    >
+                    <span className="white-text" style={{fontSize: 3 + 'em'}}>
                         4th trend
                     </span>
                     </CardPanel>
                 </a>
                 <a href="#" 
-                onClick={() => handleClick(5)}
+                onMouseEnter={() => handleMouseEnter(5)}
+                onClick={() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: '50%' ,  textAlign : 'center'}}>
-                    <span className="white-text" style={{fontSize: 2 + 'em'}}>
+                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                                                        height : windowHeight*0.12,
+                                                          textAlign : 'center',
+                                                          marginTop: windowHeight*0.07,
+                                                          marginBottom: windowHeight*0.07 }}
+                    >
+                    <span className="white-text" style={{fontSize: 3 + 'em'}}>
                         5th trend
                     </span>
                     </CardPanel>

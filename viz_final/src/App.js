@@ -2,112 +2,55 @@
 import MyWordCloud from './MyWordCloud';
 import IntroFrame from './IntroFrame';
 import React, { useState, useEffect } from 'react';
-
-
-
-const data = [
-  { text: 'Hey', value: 1000 },
-  { text: 'I', value: 500 },
-  { text: 'am', value: 300 },
-  { text: 'yh', value: 100 },
-  { text: 'lin', value: 50 },
-  { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-    { text: 'Hey', value: 1000 },
-    { text: 'lol', value: 200 },
-    { text: 'first impression', value: 800 },
-    { text: 'very cool', value: 1000000 },
-    { text: 'duck', value: 10 },
-
-];
-
+import WordCloudFrame from './WordCloudFrame';
+import data from "./word.js";
 
 function App() {
   const [progress, setProgress] = useState(1);
-  const temp = window.innerWidth;
-  console.log(window.innerWidth);
-  const [windowWidth, setWindowWidth] = useState(temp);
+  const [trendNumber, setTrendNumber] = useState(false);
+  const temp1 = window.innerWidth;
+  const temp2 = window.innerHeight;
+  const [windowWidth, setWindowWidth] = useState(temp1);
+  const [windowHeight, setWindowHeight]= useState(temp2);
 
   useEffect(() => {
-    const handleResize = () => setWindowWidth(window.innerWidth);
+    const handleResize = () => {
+      setWindowWidth(window.innerWidth);
+      setWindowHeight(window.innerHeight);
+    };
     window.addEventListener('resize', handleResize);
     return () => {
       window.removeEventListener('resize', handleResize);
     };
   }, []);
-
   
-  
-  const handleClick = (number) => {
+  const setUIProgress = (number) => {
     setProgress(number);
   };
-
 
     if (progress===1){
       return(
         <div>
-          <IntroFrame windowWidth = {windowWidth}/>
+          <IntroFrame windowWidth = {windowWidth}
+                      windowHeight = {windowHeight*0.9}
+                      setUIProgress = {setUIProgress}
+                      trendNumber = {trendNumber}
+                      setTrendNumber = {setTrendNumber}
+          />
           
-          <button onClick={()=>handleClick(2)}>Next UI</button>
+          <button onClick={()=>setUIProgress(2)}>Next UI</button>
         </div>
       );
     } else if (progress===2){
       return(
         <div>
-          <MyWordCloud width = {1000}
-                      height = {500}
+          <WordCloudFrame windowWidth = {windowWidth}
+                      windowHeight = {windowHeight*0.9}
+                      trendNumber = {trendNumber}
                       data = {data} 
-                      //fontWeight = {(data)=>data.value}
+                      setUIProgress = {setUIProgress}
           />
-          <button onClick={()=>handleClick(3)}>Next UI</button>
+          {/*<button onClick={()=>setUIProgress(3)}>Next UI</button>*/}
         </div>
       );
     } else if (progress===3){
@@ -118,7 +61,7 @@ function App() {
                       data = {data} 
                       //fontWeight = {(data)=>data.value}
           />
-          <button onClick={()=>handleClick(1)}>Next UI</button>
+          <button onClick={()=>setUIProgress(1)}>Next UI</button>
         </div>
       );
     }

@@ -6,10 +6,8 @@ import CloseIcon from '@material-ui/icons/Close';
 
 
 
-const CardDetailPanel =( {width, toggleVisibility, isVisible, cardDetailNumber} ) => {
-console.log("width = ", width );
+const CardDetailPanel =( {width, setTrendNumber, trendNumber} ) => {
 const halfWidth = width*0.5;
-console.log("halfWidth = ", halfWidth);
 const styles = ({
     OuterContainer: {
         position: "fixed",
@@ -65,18 +63,18 @@ const styles = ({
     }
 });
         
-    if(isVisible){
+    if(trendNumber){
         return (
             <div style = {styles.OuterContainer}>
                 {/* <Paper style={styles.paper2} elevation={13}> */}
                 <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width, {height:window.innerHeight-130})} elevation={13}>
                 <div style={styles.rootTitle}>
-                <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>toggleVisibility(false)}>
+                <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>setTrendNumber(false)}>
                     <CloseIcon />
                 </IconButton>
                 </div>
                 <div style = {styles.paper2_UpperContainer}>
-                    <div style={styles.rootTitle}> Trend{cardDetailNumber} Detail Panel</div>
+                    <div style={styles.rootTitle}> Trend{trendNumber} Detail Panel</div>
                 </div>
                 <div height="5"><hr></hr></div>
                 <div style = {styles.paper2_BelowContainer}>

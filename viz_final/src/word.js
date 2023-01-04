@@ -1,32 +1,140 @@
 export default [
-    {
-      text: 'told',
-      value: 64,
-    },
-    {
-      text: 'mistake',
-      value: 11,
-    },
-    {
-      text: 'thought',
-      value: 16,
-    },
-    {
-      text: 'bad',
-      value: 17,
-    },
-    {
-      text: 'correct',
-      value: 10,
-    },
-    {
-      text: 'day',
-      value: 54,
-    },
-    {
-      text: 'prescription',
-      value: 12,
-    },
+  {
+    text: 'told',
+    value: 64,
+  },
+  {
+    text: 'mistake',
+    value: 11,
+  },
+  {
+    text: 'thought',
+    value: 16,
+  },
+  {
+    text: 'bad',
+    value: 17,
+  },
+  {
+    text: 'correct',
+    value: 10,
+  },
+  {
+    text: 'day',
+    value: 54,
+  },
+  {
+    text: 'prescription',
+    value: 12,
+  },{
+    text: 'told',
+    value: 64,
+  },
+  {
+    text: 'mistake',
+    value: 11,
+  },
+  {
+    text: 'thought',
+    value: 16,
+  },
+  {
+    text: 'bad',
+    value: 17,
+  },
+  {
+    text: 'correct',
+    value: 10,
+  },
+  {
+    text: 'day',
+    value: 54,
+  },
+  {
+    text: 'prescription',
+    value: 12,
+  },{
+    text: 'told',
+    value: 64,
+  },
+  {
+    text: 'mistake',
+    value: 11,
+  },
+  {
+    text: 'thought',
+    value: 16,
+  },
+  {
+    text: 'bad',
+    value: 17,
+  },
+  {
+    text: 'correct',
+    value: 10,
+  },
+  {
+    text: 'day',
+    value: 54,
+  },
+  {
+    text: 'prescription',
+    value: 12,
+  },{
+    text: 'told',
+    value: 64,
+  },
+  {
+    text: 'mistake',
+    value: 11,
+  },
+  {
+    text: 'thought',
+    value: 16,
+  },
+  {
+    text: 'bad',
+    value: 17,
+  },
+  {
+    text: 'correct',
+    value: 10,
+  },
+  {
+    text: 'day',
+    value: 54,
+  },
+  {
+    text: 'prescription',
+    value: 12,
+  },{
+    text: 'told',
+    value: 64,
+  },
+  {
+    text: 'mistake',
+    value: 11,
+  },
+  {
+    text: 'thought',
+    value: 16,
+  },
+  {
+    text: 'bad',
+    value: 17,
+  },
+  {
+    text: 'correct',
+    value: 10,
+  },
+  {
+    text: 'day',
+    value: 54,
+  },
+  {
+    text: 'prescription',
+    value: 12,
+  },
     {
       text: 'time',
       value: 77,
