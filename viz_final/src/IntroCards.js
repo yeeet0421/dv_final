@@ -1,12 +1,24 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Row, Col, CardPanel } from 'react-materialize';
 
 const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, trendNumber}) => {
-    const handleMouseEnter = (number) => {
-        setTrendNumber(number);
+    const [classNames, setClassNames] = useState(['teal', 'teal', 'teal', 'teal', 'teal', 'teal']); // Initialize the classNames array with 'teal'
+
+    // Create event handler functions to update the className of the hovered CardPanel
+    const handleMouseEnter = (index) => {
+        const newClassNames = [...classNames]; // Create a copy of the classNames array
+        newClassNames[index] = 'red'; // Update the className of the hovered CardPanel
+        setClassNames(newClassNames); // Update the state with the new classNames array
+
+        setTrendNumber(index);
     };
-
-
+    const handleMouseLeave = (index) => {
+        const newClassNames = [...classNames]; // Create a copy of the classNames array
+        newClassNames[index] = 'teal'; // Update the className of the hovered CardPanel
+        setClassNames(newClassNames); // Update the state with the new classNames array
+    };
+    
+    
     return (
         <Row >
             <Col
@@ -15,9 +27,10 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
             >
                 <a href="#" 
                 onMouseEnter={() => handleMouseEnter(1)}
+                onMouseLeave={() => handleMouseLeave(1)}
                 onClick = {() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                    <CardPanel className={classNames[1]} style={{ width: windowWidth*0.4 ,
                                                         height : windowHeight*0.12,
                                                           textAlign : 'center',
                                                           marginTop: windowHeight*0.07,
@@ -30,24 +43,26 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
                 </a>
                 <a href="#" 
                 onMouseEnter={() => handleMouseEnter(2)}
-                onClick={() => setUIProgress(2)}
+                onMouseLeave={() => handleMouseLeave(2)}
+                onClick = {() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                    <CardPanel className={classNames[2]} style={{ width: windowWidth*0.4 ,
                                                         height : windowHeight*0.12,
                                                           textAlign : 'center',
                                                           marginTop: windowHeight*0.07,
                                                           marginBottom: windowHeight*0.07 }}
                     >
                     <span className="white-text" style={{fontSize: 3 + 'em'}}>
-                        2st trend
+                        2nd trend
                     </span>
                     </CardPanel>
                 </a>
                 <a href="#" 
                 onMouseEnter={() => handleMouseEnter(3)}
-                onClick={() => setUIProgress(2)}
+                onMouseLeave={() => handleMouseLeave(3)}
+                onClick = {() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                    <CardPanel className={classNames[3]} style={{ width: windowWidth*0.4 ,
                                                         height : windowHeight*0.12,
                                                           textAlign : 'center',
                                                           marginTop: windowHeight*0.07,
@@ -60,9 +75,10 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
                 </a>
                 <a href="#" 
                 onMouseEnter={() => handleMouseEnter(4)}
-                onClick={() => setUIProgress(2)}
+                onMouseLeave={() => handleMouseLeave(4)}
+                onClick = {() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                    <CardPanel className={classNames[4]} style={{ width: windowWidth*0.4 ,
                                                         height : windowHeight*0.12,
                                                           textAlign : 'center',
                                                           marginTop: windowHeight*0.07,
@@ -75,9 +91,10 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
                 </a>
                 <a href="#" 
                 onMouseEnter={() => handleMouseEnter(5)}
-                onClick={() => setUIProgress(2)}
+                onMouseLeave={() => handleMouseLeave(5)}
+                onClick = {() => setUIProgress(2)}
                 >
-                    <CardPanel className="teal" style={{ width: windowWidth*0.4 ,
+                    <CardPanel className={classNames[5]} style={{ width: windowWidth*0.4 ,
                                                         height : windowHeight*0.12,
                                                           textAlign : 'center',
                                                           marginTop: windowHeight*0.07,
