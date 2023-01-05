@@ -11,24 +11,17 @@ const schemeCategory10ScaleOrdinal = scaleOrdinal(schemeCategory10);
 
 
 // heighWeight v.s. fontSize unresolved!!!
-const MyWordCloud = ({height, width, data, setKeyword, setUIProgress}) => {
+const MyWordCloud = ({height, width, data, setKeyword, setUIProgress, setVideoID}) => {
     const onWordClick = useCallback((word) => {
         //const temp =  word.syntheticEvent.nativeEvent.srcElement.textContent;
         //console.log(temp);
+        setVideoID(false);
         setKeyword(word.syntheticEvent.nativeEvent.srcElement.textContent);
       }, [setKeyword]);
     const fontSize = useCallback((word) => Math.log2(word.value) * 5, []);
     const rotate = useCallback(() => 0, []);
     const fill = useCallback((d, i) => schemeCategory10ScaleOrdinal(i), []);
     
-    
-    // Use the useState hook to manage the component's state
-    const [cloudWidth, setCloudWidth] = useState(width); // Initialize the width to 500
-
-    // Create a function to handle the resize button click event
-    const handleResizeClick = () => {
-      setCloudWidth(width + 100); // Increase the width by 100 when the button is clicked
-    };
 
 
     return(

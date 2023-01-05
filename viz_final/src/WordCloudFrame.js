@@ -33,10 +33,14 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, setUIProgress, trendNu
                             width = {keyword===false? windowWidth:windowWidth*0.5}
                             data = {data}
                             setKeyword = {setKeyword}
+                            setVideoID = {setVideoID}
                     />
                 </div>
-                {keyword && <div style={rightDivStyles}>
-                    <VideoList />
+                {keyword && (!(videoID)) &&<div style={rightDivStyles}>
+                    <VideoList height = {windowHeight}
+                                width = {windowWidth} 
+                                setVideoID = {setVideoID}
+                    />
                 </div>}
                 {videoID && <div style={rightDivStyles}>
                     <ImageCard imagePath={"https://i.imgur.com/ymAVFbg.png"}
