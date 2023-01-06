@@ -1,0 +1,1714 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "lsTk6gZ0GmDlMIY8YHBQBmp1sgE",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "TW",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hK7ryVtFFjztrpMJaE0iY39lcy4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "imKWuPntelY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T09:52:34Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "【烏俄戰情室】烏克蘭襲俄羅斯基地 擊落碎片奪3命 烏俄戰三種 可能結局 曝光LIVE",
+          "description": "俄羅斯一處空軍基地遭到攻擊，造成三名俄軍陣亡，俄羅斯國防部罕見坦承基地被炸，也指控這是烏克蘭發動的無人機空襲；澤倫斯 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/imKWuPntelY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/imKWuPntelY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/imKWuPntelY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T09:52:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zFMcLwxHYlQyFaBtXRtvoCcAnnU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xwOeuRJwOGU"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T02:03:41Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "烏克蘭無人機再炸俄羅斯空軍基地 烏克蘭呼籲將俄羅斯逐出聯合國  十點不一樣 20221227",
+          "description": "俄國國家通訊社塔斯社廿六日引述國防部報導，距烏克蘭邊界數百公里的俄國恩格斯空軍基地發生爆炸，烏克蘭派出的無人機在低空 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xwOeuRJwOGU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xwOeuRJwOGU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xwOeuRJwOGU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T02:03:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1vqKuHLi-a3dgRUCeex4Mkbjl2k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zzRU9SKCBuo"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T06:16:02Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "普丁想全部吞併! 嗆烏克蘭&quot;和平計畫&quot;瘋狂 俄羅斯卻獅子大開口提停戰條件:兼併4區納版圖  急求盟友助陣 普丁.習近平進行視訊峰會｜【國際局勢】20221230│三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zzRU9SKCBuo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zzRU9SKCBuo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zzRU9SKCBuo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T06:16:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ycqTAO7I7E5E-sFYNPrdMLxkgHY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ugaBRkrpl_s"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-26T03:30:06Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯夜襲血染烏克蘭南部大城赫爾松 中國大陸解放軍無人機航母曝光【TVBS新聞精華】20221225",
+          "description": "烏克蘭南部大城赫爾松平安夜再遭俄羅斯血腥砲轟，至少10人喪命，還有58人受傷。不過才剛從美國要到軍備回來的烏克蘭總統澤倫 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ugaBRkrpl_s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ugaBRkrpl_s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ugaBRkrpl_s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-26T03:30:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "jK2MFJaL2WehmH9Lpd8MTzGaFmg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "DQqlEGP6LQE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T06:31:50Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯最大空襲狂轟烏克蘭 普欽會談 習近平左右為難｜TVBS新聞 2022.12.30【國際+談全球】",
+          "description": "俄羅斯發動最大空襲，69枚巡弋飛彈狂轟烏克蘭全境，白俄羅斯還指控烏克蘭S-300防空飛彈落入白俄境內，要調查是否誤擊。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DQqlEGP6LQE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DQqlEGP6LQE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DQqlEGP6LQE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T06:31:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mPRjXLKmGLo0UFOiSm4cRm3k-7w",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "t_ehxTyaecg"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T13:59:19Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯突發動大規模空襲 烏克蘭各大城遭逾120枚飛彈濫炸｜TVBS新聞",
+          "description": "烏克蘭再度遭到俄軍濫炸，當地29號早上，全國各地都傳出爆炸聲，烏克蘭總統顧問表示，俄羅斯發射了至少120枚飛彈，包括 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/t_ehxTyaecg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/t_ehxTyaecg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/t_ehxTyaecg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T13:59:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gvrcG9MxblZkaj5X_v0ZT4JHERU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c215ofsgCNM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T02:49:27Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "解放軍演秀黑鯊潛艇 美國疣豬機援烏克蘭炸坦克   十點不一樣 20221226",
+          "description": "解放軍東部軍演，曝光高原黑鯊潛艇，獨家公開中國第一艘035G型潛艇內部。美國國會剛剛同意21架綽號「疣豬」Warhog的A-10C ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c215ofsgCNM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c215ofsgCNM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c215ofsgCNM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T02:49:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DhM5IrsJVa5NiHFaGV7EZHhzgcE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XCTwRONjFWI"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-20T06:16:54Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "烏克蘭戰爭300日：俄烏兩國如何攻防和拉鋸？－ BBC News 中文",
+          "description": "自今年2月24日俄羅斯開始入侵烏克蘭以來，已經過去了300天。這期間，兩國軍隊是怎樣進行攻防和拉鋸的？目前俄羅斯仍控制著 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XCTwRONjFWI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XCTwRONjFWI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XCTwRONjFWI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-20T06:16:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QuM6puNKajmQSp6-px-zsU2PAWI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vkXzXXQ9kss"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T08:05:54Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "【烏俄戰情室】69枚飛彈炸烏克蘭 俄軍一盤散沙 停戰條件 俄羅斯:烏克蘭得認4區納入俄羅斯 LIVE",
+          "description": "俄羅斯在周四，對烏克蘭展開最近最大規模的空襲，烏克蘭總統顧問還一度表示，俄軍發射飛彈數量多達120枚！儘管烏克蘭國防部 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vkXzXXQ9kss/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vkXzXXQ9kss/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vkXzXXQ9kss/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T08:05:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "fn90QN9EaCa44vo-rx2DPoZEgT0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "83Vn20Tup_c"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-25T14:00:04Z",
+          "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+          "title": "烏克蘭貪腐爛到根｜澳中尬聊?｜主持人 曹乃琪【新聞特攻隊】2022.12.25",
+          "description": "烏克蘭總統澤倫斯基從開戰以來，一路面對內神通外鬼，不斷被抓耙子出賣，在蘇聯時期留下的蘇維埃遺毒，全國上下都習慣 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/83Vn20Tup_c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/83Vn20Tup_c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/83Vn20Tup_c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "USTV 非凡電視",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-25T14:00:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3fP2VPuHtfo3UysfITb06KkI0w0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "itKoLTavVWA"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T03:05:34Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "拒烏克蘭和平峰會 克里姆林宮喊先承認俄羅斯併吞領土｜TVBS新聞",
+          "description": "對烏克蘭提和平峰會，俄羅斯首度強硬回應。 #烏克蘭#和平峰會#俄羅斯#TVBS新聞#TVBS直播#TVBS新聞網《TVBS 56台》 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/itKoLTavVWA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/itKoLTavVWA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/itKoLTavVWA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T03:05:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oOkKgtILnrb-f8TBNPvI0Nb6GGQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "no54U0X7LwY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-16T02:44:56Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "巴赫姆特激戰! 烏克蘭掌火力優勢 俄羅斯坦克被炸到怕｜十點不一樣20221215",
+          "description": "巴赫姆特，是俄烏地面戰，目前最激烈的地區。烏克蘭手上有西方提供的反坦克武器，俄軍只靠零散步兵作戰，不敢把坦克開到最 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/no54U0X7LwY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/no54U0X7LwY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/no54U0X7LwY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-16T02:44:56Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1PbfZE8wdJ5fQl3x2cMYfiYVjtw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lFY-aSdPMy4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T01:50:34Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "烏克蘭無人機直搗俄軍龍穴! 俄羅斯空軍基地兩度被炸｜十點不一樣20221227@tvbsplus",
+          "description": "俄羅斯軍事基地，再遭到無人機突襲，外界研判，這是烏克蘭再次展現攻擊穿透力，已經可以用無人機，直搗俄羅斯本土。另外烏俄 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lFY-aSdPMy4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lFY-aSdPMy4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lFY-aSdPMy4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T01:50:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1Q-b7MIbzuuO4_dp0s2xgAy09KM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "R_e3DAgL5tk"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-21T22:26:36Z",
+          "channelId": "UCt5zpwa264A0B-gaYtv1IpA",
+          "title": "乌克兰榴弹发射器部队在前线机动作战   美制MK-19榴弹发射器帮助吓阻俄军",
+          "description": "乌克兰士兵使用美制40毫米自动榴弹发射器在托列茨克前线有效打击俄罗斯军队。Mk19每分钟实际射速约60发，最大射程2200米， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/R_e3DAgL5tk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/R_e3DAgL5tk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/R_e3DAgL5tk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "美国之音中文网",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-21T22:26:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cCLRL1Pq04NE739VOwbHXim43TI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cbQoDzNk4r0"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T02:12:07Z",
+          "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+          "title": "海陸空齊轟 俄狂轟烏克蘭逾120枚飛彈｜華視新聞 20221229",
+          "description": "隨著跨年越來越近，俄羅斯又對烏克蘭發動一波飛彈攻擊，烏克蘭軍方表示，俄軍29日上午對烏克蘭發射超過120枚飛彈，對準包括 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cbQoDzNk4r0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cbQoDzNk4r0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cbQoDzNk4r0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "華視新聞 CH52",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T02:12:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "B2gIHEYp_W2g35VaENKgt-TSUbM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CNLBVzeCryE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T09:12:25Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "【俄烏戰情室】俄羅斯外交部長:西方意圖摧毀莫斯科 烏克蘭無人機深入俄羅斯領土轟炸 LIVE",
+          "description": "烏俄戰事遲遲看不到和平曙光，近期澤倫斯基訪美後，拜登承諾加碼軍援，又惹怒俄羅斯，俄外交部長重話批評，是美國與盟友聯手 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CNLBVzeCryE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CNLBVzeCryE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CNLBVzeCryE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T09:12:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cW3oe7cSiE7nBwZG0ROKb8v9dOk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nCYYE5dPBgc"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T03:13:04Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "烏克蘭東部頓巴斯戰線艱難 俄羅斯外交部長對烏克蘭祭出最後通牒｜TVBS新聞20221228",
+          "description": "俄羅斯外交部長對烏克蘭祭出最後通牒，要烏克蘭放棄目前被俄羅斯佔領的領土，同時間，俄軍持續對烏克蘭東部全面施壓，激戰 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nCYYE5dPBgc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nCYYE5dPBgc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nCYYE5dPBgc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T03:13:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HSezshO8pVkYeFx5V-JCWillwqM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GaUQEZnsw1c"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-21T01:58:00Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "秀中華民國國旗 烏克蘭感謝各國義勇軍聲援｜十點不一樣20221220@tvbsplus",
+          "description": "俄羅斯再派出35架無人機轟炸烏克蘭，烏克蘭宣稱擊落了30架，總統澤倫斯基並指控伊朗又提供俄羅斯新一批約250架無人機，勢必 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GaUQEZnsw1c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GaUQEZnsw1c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GaUQEZnsw1c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-21T01:58:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mFJNe_rQMTYiR8kRTyLzt3G_f3A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "p4mbgR5mwpM"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-28T13:00:23Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "烏克蘭俄羅斯局勢：北京居民怎麼看？－ BBC News 中文",
+          "description": "俄羅斯入侵烏克蘭在全球掀起軒然大波，在中國網路上也引發巨大爭議。 一些北京居民分享了他們對此次俄烏衝突的看法。 一位朱 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/p4mbgR5mwpM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/p4mbgR5mwpM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/p4mbgR5mwpM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-28T13:00:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7Y--PUKmOd31yMtOcme8urRq5K8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "faWMboJoHLM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T09:45:00Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "普丁氣瘋！美有意提供烏克蘭&quot;愛國者&quot;防空飛彈系統 俄亮出核彈警告 怒嗆:誰給烏國就打誰！│記者 林羿含│【國際局勢】20221215│三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/faWMboJoHLM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/faWMboJoHLM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/faWMboJoHLM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T09:45:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TtTjPgwMjCnIm_Ofb3M3mofBeRU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pOP-KODNqaE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T03:45:07Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "美國伸援手民眾力挺烏克蘭! 普丁傳有意休兵卻僱瓦格納從北韓進口軍武 說好的協商僅虛晃一招? 澤倫斯基訪美大有斬獲 曝2023年將成俄烏轉捩點｜記者 黃瓊慧｜【國際局勢】20221223｜三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pOP-KODNqaE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pOP-KODNqaE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pOP-KODNqaE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T03:45:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iglzo0P-oyVDs0nWZFFS33Jaiag",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AaQm247PPug"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T03:14:32Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "才嗆想停戰先割地 俄羅斯狂射120枚飛彈轟烏克蘭｜十點不一樣20221229",
+          "description": "俄羅斯周四，又對烏克蘭展開大規模攻擊，對包含基輔在內，多個城市，發射超過120枚飛彈，這次又有能源設施被波及，釀成停電 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AaQm247PPug/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AaQm247PPug/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AaQm247PPug/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T03:14:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hGSfxLyRN52ffVUqDGWWosQjpOA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Xr0-N2LnwLE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T05:51:43Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "俄羅斯精銳&quot;機械兵旅&quot;慘遭團滅全軍覆沒! 俄軍損兵折將程度超過預期 參戰至今恐有10萬俄軍亡 烏克蘭獲西方援助俄多支精銳部隊陣亡｜記者 姚懷真｜【國際局勢】20221218｜三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Xr0-N2LnwLE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Xr0-N2LnwLE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Xr0-N2LnwLE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T05:51:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JLXbmqv_w_0yHaTcOwrskGRMjoU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nVgWPkb2bj4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T04:15:10Z",
+          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+          "title": "69枚飛彈! 俄軍發動最大空襲 烏克蘭人直擊巡弋飛彈炸基輔｜TVBS新聞 @TVBSNEWS01",
+          "description": "俄羅斯在周四，對烏克蘭展開最近最大規模的空襲，烏克蘭總統顧問還一度表示，俄軍發射飛彈數量多達120枚！儘管烏克蘭國防部 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nVgWPkb2bj4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nVgWPkb2bj4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nVgWPkb2bj4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T04:15:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j5dXXi82JJNJ661nBDCZ35yu2l4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jPKzuIPwb5w"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-22T07:37:32Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "澤連斯基旋風訪美 國會演說稱「烏克蘭依然生龍活虎」－ BBC News 中文",
+          "description": "烏克蘭總統澤連斯基週三（12月21日）突訪美國，與美國總統拜登在白宮會晤，並在國會發表演說。我們簡要回顧他的旋風之旅。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jPKzuIPwb5w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jPKzuIPwb5w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jPKzuIPwb5w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-22T07:37:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BYyxts0Z05Kju3BcgwDEJ7goHEI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oO7SUxzebUY"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-30T06:08:04Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "天候差烏克蘭壕溝內泥濘不堪 德國MARS II現身｜TVBS新聞",
+          "description": "俄羅斯近期繼續狂轟烏克蘭，澤倫斯基表示，光過去一個禮拜，南部赫爾松就遭遇200多次的攻擊，並警告俄軍仍然計畫推進烏東， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oO7SUxzebUY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oO7SUxzebUY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oO7SUxzebUY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-30T06:08:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QwzZaN4kiS7e142zgpQm-RNTbmY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HcLifGcPrRM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-10T04:24:10Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "不忍烏克蘭人民苦難 教宗祈禱突淚崩失聲｜TVBS新聞",
+          "description": "俄羅斯持續狂轟烏克蘭，天主教教宗方濟各，週六祈禱時情緒徹底潰堤。 #俄羅斯#烏克蘭#天主教#方濟各#TVBS新聞#TVBS ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HcLifGcPrRM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HcLifGcPrRM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HcLifGcPrRM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-10T04:24:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "c0YaW88ivquCQbeGB8Mo-gIJ4fc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3-G9EM1mpJM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T03:08:29Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "最後通牒! 迫烏克蘭放棄失土 俄羅斯準備跨年大轟炸｜十點不一樣20221228",
+          "description": "俄羅斯下達最後通牒，要烏克蘭放棄所有俄佔地區。另外烏東激戰區「巴赫姆特」，還有俄軍棄守的「赫爾松」以及戰略要地「第聶 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3-G9EM1mpJM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3-G9EM1mpJM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3-G9EM1mpJM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T03:08:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nci2VUmcEQy6K9_FEWVyulGYkeA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZgU3hfiWRnQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T09:59:41Z",
+          "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+          "title": "烏克蘭挺台引小粉紅崩潰！揚言「中國武力支援俄軍」　他冷批：物以類聚－民視新聞",
+          "description": "民視快新聞】影音中心／陳韋如報導烏俄戰爭已經持續十個多月，世界各國都伸出援手，力挺烏克蘭，更有不少志願軍加入戰線， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZgU3hfiWRnQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZgU3hfiWRnQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZgU3hfiWRnQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "民視新聞網 Formosa TV News network",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T09:59:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "uboWNZBN2s8TdFvo7TutiOAMh9E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PQKthaj6rbc"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T02:59:07Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯「大本營」補給橋被炸成兩截! 烏克蘭再換回64戰俘｜十點不一樣20221214",
+          "description": "烏俄戰爭晚間最新消息，雙方再度達成換囚協議，烏克蘭換回64名烏克蘭戰俘，還有一位美國公民也將獲釋。這兩天， 烏克蘭持續對 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PQKthaj6rbc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PQKthaj6rbc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PQKthaj6rbc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T02:59:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "62xTHxtTIyEtyBSltk-Umf-r-9A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "0waSL8Dd_Bg"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T10:30:41Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "【烏俄戰情室】濫炸烏克蘭 4平民死亡含1歲童 俄羅斯精英部隊全軍覆沒 俄羅斯戰敗象徵 LIVE",
+          "description": "俄羅斯大規模空襲，這次朝烏克蘭各大城發射近百枚飛彈，還高調宣布擊中目標。烏克蘭方面則表示，受到攻擊的多數都是發電設備 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0waSL8Dd_Bg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0waSL8Dd_Bg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0waSL8Dd_Bg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T10:30:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Z2_ORSYnopY0nyLqgiqpigO3T9Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "J0tfiHshbPY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-19T10:10:27Z",
+          "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+          "title": "烏克蘭耶誕不寧靜 難民異鄉簡陋過節!｜華視新聞 20221219",
+          "description": "俄羅斯近日再度空襲，烏克蘭基礎設施，許多城市沒水沒電，零下低溫也沒有暖氣可用。連首都基輔都遭到重創。但經過全力搶修， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/J0tfiHshbPY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/J0tfiHshbPY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/J0tfiHshbPY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "華視新聞 CH52",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-19T10:10:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BI_4vT-5uYra65M6NWihGwjSSYA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "j3Pz5-AQj2g"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T13:45:59Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄軍跨年大空襲！烏克蘭攔54枚飛彈 俄羅斯新核潛艦服役｜秦綾謙｜FOCUS全球新聞 20221230",
+          "description": "俄軍#飛彈#軍艦#TVBS新聞#TVBS直播#TVBS新聞網《TVBS 56台》 【TVBS 看板人物】主持人：方念華每周日晚間23:00首播/隔周 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j3Pz5-AQj2g/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j3Pz5-AQj2g/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j3Pz5-AQj2g/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T13:45:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "TMx38BC4cx_0bnCmlr7WW-KqYro",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W2WhCZnhWgw"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-08T11:43:29Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "攔截俄羅斯巡航導彈的烏克蘭戰機飛行員－ BBC News 中文",
+          "description": "最近幾周，俄羅斯對烏克蘭多個城市發動多次巡航導彈和無人機攻擊，造成各地電力中斷，有數十名平民在攻擊中喪生。 BBC採訪一 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W2WhCZnhWgw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W2WhCZnhWgw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W2WhCZnhWgw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-08T11:43:29Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bQBLlRksFmORKOEPxKVu6TFHUbo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "08ANY9EVBCE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-12T13:00:00Z",
+          "channelId": "UCBgdVDkSsiPBVop4-Ms0ihQ",
+          "title": "《烏克蘭美女對台灣麥當勞失望?》McDonald&#39;s Ukraine vs. Taiwan",
+          "description": "不要鬧粉絲團: https://bit.ly/3ACBsDK 請訂閱不要鬧: https://bit.ly/3dTENEM 訂閱第二頻道: https://bit.ly/3jYescr Tanya IG: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/08ANY9EVBCE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/08ANY9EVBCE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/08ANY9EVBCE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Stopkiddinstudio",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-12T13:00:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "1U-BdMd_mlFzfZSXn-JF3JYoPDg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sjM0Fy6Cia4"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-02T04:12:12Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "烏克蘭俄羅斯局勢：烏克蘭記者含淚質問英國首相－ BBC News 中文",
+          "description": "英國首相約翰遜（Boris Johnson）訪問波蘭時，他在一場記者會上接受了一名烏克蘭記者的提問。 這名記者稱自己來自基輔。",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sjM0Fy6Cia4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sjM0Fy6Cia4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sjM0Fy6Cia4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-02T04:12:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BIToEa54rZ_4rgmTVWVkoBC018s",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "tvX0GTUjLUM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T02:19:53Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "烏克蘭再炸俄羅斯空軍基地 俄軍累計陣亡數已突破10萬大關｜TVBS新聞20221227",
+          "description": "俄羅斯軍事基地再遭無人機突襲，造成3人死亡，儘管烏克蘭沒有承認，但外界臆測就是烏克蘭再次利用無人機展現攻擊穿透力，已經 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tvX0GTUjLUM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tvX0GTUjLUM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tvX0GTUjLUM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T02:19:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SY7GHX7SEAjvZScnJiHTyD1mpss",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JVM6duZ9fag"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-12T06:29:14Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "反攻序曲? 烏克蘭坦承射哈馬斯突襲.攻擊俄羅斯傭兵瓦格納總部｜TVBS新聞",
+          "description": "烏克蘭戰場反攻序曲展開，坦承攻擊南部俄佔領地，朝梅利托波爾發射哈馬斯火箭，鎖定的就是俄軍基地。只不過不光是這裡，包括 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JVM6duZ9fag/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JVM6duZ9fag/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JVM6duZ9fag/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-12T06:29:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NeV1_ciSeJO2Inx8fD-G64QanTE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "IFKknxSCb8I"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T12:08:48Z",
+          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+          "title": "前線俄兵棄械投降! 4烏克蘭間諜潛俄境遭殺害｜TVBS新聞@TVBSNEWS01",
+          "description": "烏克蘭外長證實，希望在明年二月底前，舉行和平峰會，希望促成烏俄停戰。另外傳出，烏克蘭間諜滲透到俄羅斯境內，有四人慘遭 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/IFKknxSCb8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/IFKknxSCb8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/IFKknxSCb8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T12:08:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vR1nEjXJ0QhU19jOERSuwIzP7YQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CALlxWwCot4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-16T09:07:51Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "【烏俄戰情室】俄羅斯控烏克蘭40枚火箭砲轟頓內次克 美國軍援愛國者飛彈將成烏克蘭抗俄羅斯轉捩點 LIVE",
+          "description": "烏克蘭東部與南部戰火激烈，親俄官員指控烏克蘭，轟炸俄軍在頓內次克的占領地區，造成至少6位平民受傷；華府最快本周將宣布軍 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CALlxWwCot4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CALlxWwCot4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CALlxWwCot4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-16T09:07:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D99NmoDd68_1jB5OH0n-mCR-uQ0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SabwhKLHnqQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-17T07:11:43Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯正為發動新一波奪取烏克蘭基輔行動做準備 俄軍估明年春天進攻｜TVBS新聞20221216",
+          "description": "烏克蘭武裝部隊總司令扎盧茲尼（Valeriy Zaluzhny）在15日刊登的《經濟學人（Economist）》訪問中警告，俄羅斯正在為發動新一 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SabwhKLHnqQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SabwhKLHnqQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SabwhKLHnqQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-17T07:11:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mfQnEQIgEGDOS7umJ6E2OUSh9Yw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "FUjEvgtXQ5w"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-25T11:00:12Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "烏克蘭俄羅斯局勢懶人包：烏克蘭為何成為俄羅斯與西方之間的衝突前線？－ BBC News 中文",
+          "description": "俄羅斯的坦克已經在烏克蘭土地上長驅直入。 但事情為何發展成今天這一步？BBC記者羅斯·阿特金斯從烏克蘭與俄羅斯的歷史角度 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FUjEvgtXQ5w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FUjEvgtXQ5w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FUjEvgtXQ5w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-25T11:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KVTnTXAk6jQJC-ePeQhqN5BSs2E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lQMrFH1kSBE"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-24T01:27:36Z",
+          "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
+          "title": "俄烏戰爭／遭俄持續空襲 烏克蘭多區停電、基輔3死｜20221124 公視早安新聞",
+          "description": "俄羅斯23日對烏克蘭基礎設施展開新一輪空襲，烏克蘭目前大部分地區停電，目前已知首都基輔3死9傷。 詳細新聞內容請見【公視 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lQMrFH1kSBE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lQMrFH1kSBE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lQMrFH1kSBE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "公視新聞網",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-24T01:27:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FKnDB7Kk11epRtKvKWL38Y2UivA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Q2oTfrergB0"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-17T14:00:11Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "烏克蘭俄羅斯局勢：9歲女童用歌聲呼籲和平－ BBC News 中文",
+          "description": "我看到有小孩在地下室出生。你覺得這正常嗎？對我來說，很不正常。」 9歲的烏克蘭女孩阿梅里亞·波波維奇（Amelia Popovych） ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Q2oTfrergB0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Q2oTfrergB0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Q2oTfrergB0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-17T14:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "T4oYrSxDXGs-0cS_iVkgszVJXXk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O0W0RR9PpGI"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-07T06:42:39Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯轟基輔再斷供電 烏克蘭總統澤倫斯基赴前線過軍人節｜TVBS新聞",
+          "description": "12月6日是烏克蘭的軍人節，澤倫斯基也親自到前線探望士兵，與此同時，俄羅斯不斷轟炸讓好不容易快恢復供電的基輔再斷電， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O0W0RR9PpGI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O0W0RR9PpGI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O0W0RR9PpGI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-07T06:42:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "p1KlU2hXhg9xozc5zPNEIr9Wl7k",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7bokuiN30Bs"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-11T03:49:42Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "俄羅斯75枚飛彈連轟報復! 其中一枚落烏克蘭總統府外  十點不一樣 20221010",
+          "description": "克里米亞大橋遭炸斷，俄羅斯果然展開報復，今天接連朝烏克蘭發射75枚飛彈，首都基輔也是六月以來，首度遭到轟襲，晚間最新 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7bokuiN30Bs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7bokuiN30Bs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7bokuiN30Bs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-11T03:49:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "72g56dWX9jWI9D31tcur11vRPGk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "NYAJFflUkkw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-24T07:00:11Z",
+          "channelId": "UC4sDFz-M69YOiVm5WqWbfGA",
+          "title": "烏克蘭人自製防空武器曝光 有效擊落8成俄羅斯無人機｜Yahoo Hong Kong",
+          "description": "俄烏戰爭開打將近10個月，烏克蘭士兵近日展示一種自製防空武器，並表示有效擊落俄羅斯無人機，平均成功率可以達到80%，某些 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NYAJFflUkkw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NYAJFflUkkw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NYAJFflUkkw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "雅虎香港 Yahoo Hong Kong",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-24T07:00:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "8LoU-52VDRaWl9mVI9wHZNhFFIY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "B-vgoMSSHhM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-08T03:29:09Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "烏克蘭無人機 連2天炸3座俄羅斯軍用機場｜TVBS新聞20221207",
+          "description": "俄羅斯境內不平靜，連續幾天3座俄國軍用機場，疑似遭到烏軍無人機攻擊，對此美國國務卿布林肯表示，不鼓勵也不允許烏克蘭在 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/B-vgoMSSHhM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/B-vgoMSSHhM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/B-vgoMSSHhM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-08T03:29:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mS_dqTViy7L3g6K5xCDDaeNvbeY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "h8dFTAFy1hw"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-18T05:11:08Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "烏克蘭佔30地遭轟炸 指控俄羅斯報復反攻發射多管火箭｜TVBS新聞",
+          "description": "關心烏俄戰情，烏克蘭軍方透露，俄羅斯又攻擊，至少30個地區。 #烏俄#轟炸#火箭#TVBS新聞#TVBS直播#TVBS新聞網《TVBS ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h8dFTAFy1hw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h8dFTAFy1hw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h8dFTAFy1hw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-18T05:11:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K93WcVUPt9f8CZr8HNjjp0CwYEU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SI293qaTIsQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-15T13:00:13Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "烏克蘭俄羅斯局勢：「並非所有俄羅斯人都支持這場戰爭」－ BBC News 中文",
+          "description": "自俄羅斯入侵烏克蘭以來，已有數萬名俄羅斯人前往其他國家。這些人主要是俄羅斯的年輕人及自由主義者，他們對戰爭感到震驚， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SI293qaTIsQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SI293qaTIsQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SI293qaTIsQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-15T13:00:13Z"
+        }
+      }
+    ]
+  }
+  
+  

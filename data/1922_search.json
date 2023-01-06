@@ -1,0 +1,1708 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "xI1fQKaaMBipvDWV2ZWVUEPOkCI",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "TW",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0c4qR5CaaTCbVNcO0Mmiln_toYE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VBlv9r5AfaA"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-21T12:48:00Z",
+          "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
+          "title": "&quot;快篩2條線&quot;陽性怎麼辦? 正解曝:打1922錯了!│中視新聞 20220421",
+          "description": "本土疫情持續攀升，許多民眾自行快篩但萬一篩出兩條線是陽性下一步該怎麼辦呢?有網友PO文抱怨打1922 電話被轉來轉去，無限鬼 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "中視新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-21T12:48:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "npmkXH-vyRKn4uzVWn-_SJiZyxQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mEsccQphoXo"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-10T10:50:03Z",
+          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+          "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+          "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mEsccQphoXo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mEsccQphoXo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mEsccQphoXo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-10T10:50:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9Xit6Qgen9RF6zE30wIGahIlaWA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m_m_JEfniH8"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-07T13:00:19Z",
+          "channelId": "UC2jLmaz6u5b1ZFq2nhOwJ1Q",
+          "title": "Predictions for 2022 (published in 1922)",
+          "description": "What did people in 1922 imagine life today would be like? This newspaper article from May 7, 1922 will give you all the answers.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m_m_JEfniH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m_m_JEfniH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m_m_JEfniH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The 100 Years Late Newsletter",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-07T13:00:19Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "3il6kRU3vU_YYDpZrUVN3NnKSPY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "g-x_kZp8RGs"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-28T04:00:16Z",
+          "channelId": "UCKNmqLwTBTYN3gtu66l1o3w",
+          "title": "【凡人修仙传】仙界篇：1922集 改造      凡人修仙传剧情讲解 凡人修仙分析 凡人修仙传原著小说解析 凡人修仙传小说解读",
+          "description": "凡人修仙传Mortal's Journey 仙界篇1901集-2000集，播放列表： ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/g-x_kZp8RGs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/g-x_kZp8RGs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/g-x_kZp8RGs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "元瑶动漫解说",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-28T04:00:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "i_8RVfoBU4hO0_PI1qVP5VSDf6o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pXcNsPxKQt0"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-07T00:45:01Z",
+          "channelId": "UCt5ordBDhqa0jTVxMjy1agQ",
+          "title": "武神主宰 第1922集：会这么好心",
+          "description": "武神主宰.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pXcNsPxKQt0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pXcNsPxKQt0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pXcNsPxKQt0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "一秋漫画-解说",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-07T00:45:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "G9ZuCihugo69EUAaypKeJTSHHa4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kqtYS8IcLdM"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-28T13:30:22Z",
+          "channelId": "UCafy77HuV0-_xXEnmNQxCyQ",
+          "title": "1922 (2017) | Movie Explained in Bangla | Haunting Realm",
+          "description": "1922 (2017) | Movie Explained in Bangla | Haunting Realm 1922 (2017) Horror Movie Explained in Bangla Vlog Channel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kqtYS8IcLdM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kqtYS8IcLdM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kqtYS8IcLdM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Haunting Realm",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-28T13:30:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D8HgEHhrnaBDh7NHgPW1KYzOWQo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eUAKlIns29M"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-11T09:17:45Z",
+          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+          "title": "「公權力解釋有很多種」 陳時中：我講1922「無指揮權」 @東森新聞 CH51",
+          "description": "衛福部長陳時中，先前稱1922防疫專線，沒有公權力，讓外界相當疑惑，畢竟兩年多來，防疫影片都教育民眾，疫情相關問題， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eUAKlIns29M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eUAKlIns29M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eUAKlIns29M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "東森新聞 CH51",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-11T09:17:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iZ08z004DbD8nqZVCN7o2ivQD-o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PamPMegFPug"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-10T10:50:06Z",
+          "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+          "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+          "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PamPMegFPug/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PamPMegFPug/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PamPMegFPug/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS選新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-10T10:50:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "C9w6xfJ8jfTHUZ8XP9hNtgTgnK0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bc0jNwYwsGw"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-21T07:52:48Z",
+          "channelId": "UCJpnzDtccw5AUM02YxL8zUA",
+          "title": "FUAN DOMIN LAGU PSHT TIMOR LESTE SATU ABAD 1922 2022🇹🇱✊",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bc0jNwYwsGw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bc0jNwYwsGw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bc0jNwYwsGw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Piter Stories",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-21T07:52:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "9DtsHNEF2lSPSIy6IKVRJitH5N4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "f1gbSrfTMro"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T19:28:57Z",
+          "channelId": "UC4wOd-OGys-RKbv9FYFGRvA",
+          "title": "Best Inventions From 1922 - 100 Years Ago ⏳ w OnlyJayus - #Shorts",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f1gbSrfTMro/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f1gbSrfTMro/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f1gbSrfTMro/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "onlyjayus",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T19:28:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rjRupJRMOxG0HGSf5BeuZqmJft0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yMDZSxTD_HE"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-17T15:04:10Z",
+          "channelId": "UCjZ8XslmPPDR7oiDaSvklXQ",
+          "title": "رجل شيطان سيطر على تفكير ابنه واقنعه يساعده يقتل امه معا 1922",
+          "description": "اسم الفيلم 1922 #مراجعة_افلام مشاهده اقوى #فيلم فى ٨ دقايق رعب اكشن كوميدي رومانسي #افلام مجانيه افلام اجنبى ماتنسوش تشتروك ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yMDZSxTD_HE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yMDZSxTD_HE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yMDZSxTD_HE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "abdallah ahmed",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-17T15:04:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "o8afa0xRd99Tgrk72FO_fnYgWWc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "AM-FaKR7EnU"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-21T07:24:09Z",
+          "channelId": "UCgbOdVTbWqCD-4ZkQm4jAqg",
+          "title": "Μαρία Ευθυμίου Ελλάδα και κόσμος πριν και μετά το 1922",
+          "description": "Ελλάδα και κόσμος πριν και μετά το 1922 Μαρία Ευθυμίου Καθηγήτρια Ιστορίας Τρίτη 28 Σεπτεμβρίου 2022, Κτήριο Γενικής ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AM-FaKR7EnU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AM-FaKR7EnU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AM-FaKR7EnU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ΕΡΤ Αιγαίου",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-21T07:24:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "oO4cHUDvgKLC_u95sZFAg5fESEg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2DLRXscxcT0"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-08T11:47:39Z",
+          "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+          "title": "解密1922 全台6據點!客服外包接線後轉件｜華視新聞 20220608",
+          "description": "想要了解疫情狀況，或是有感染疑慮想要通報症狀，現在很多人都知道，要直接撥打1922防疫專線。不過您知道嗎？其實1922專線 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2DLRXscxcT0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2DLRXscxcT0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2DLRXscxcT0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "華視新聞 CH52",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-08T11:47:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RW6uJhR5CNYka_byqX-_ENM7FqE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "aYW94H7_FZ8"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-30T02:30:00Z",
+          "channelId": "UCJt70bYtQzBYG3m__cOQemw",
+          "title": "仙武帝尊 第二部｜永恒之门 1922-1923集 |",
+          "description": "看剧情发表评论简介：神魔混战，万界崩塌，只有永恒仙域，长存世间。万古后，一尊名为赵云的战神，凝练了天地玄黄，重铸了 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aYW94H7_FZ8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aYW94H7_FZ8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aYW94H7_FZ8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "小七談動漫",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-30T02:30:00Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VZ99JlCCLr2DvZTKlR1qv-BPrFg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dmr3QhCTWB4"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-18T16:50:01Z",
+          "channelId": "UCCYhaH52lUEmfUjX-_OBAHg",
+          "title": "XX yüzillik. Faktlar, hadisələr və insanlar - 1922-ci il",
+          "description": "https://www.facebook.com/ictimai.tv/ https://www.instagram.com/ictimaitv.official/ https://itv.az/ #ictimaitv #video #televiziya #baku ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dmr3QhCTWB4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dmr3QhCTWB4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dmr3QhCTWB4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "İCTİMAİ TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-18T16:50:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "t1mbPs8HHlFl5ng13tzXeiSDnlU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wldboma5ktA"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-27T09:00:33Z",
+          "channelId": "UC0PsUG07plnP_uQQS9djFVQ",
+          "title": "같은 22년생이라고 반모하면 안돼요~ 1922년 생이에요~┃Show Me Some Respect, I&#39;m a Century Older Than Yall ;p",
+          "description": "진정한 100세 시대를 살고 계신 찐이 나타났다 2030 자취러들 보고 배워야 할 101살 정근 할머니의 나 혼자 산다! 삼시 세끼 건강하게 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wldboma5ktA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wldboma5ktA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wldboma5ktA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "우와한 비디오",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-27T09:00:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hnd1yxq9VAJuXoYtmOFvEqwLurA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "N1A6g6-fb00"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T11:09:54Z",
+          "channelId": "UC9jrFcpwCVDf3r98oT9TmYQ",
+          "title": "[Live Concert] 1922 HEREDIUM 2022, The NEW OLD OVERTURE CONCERT (22.12.30 Fri 18:00 KST)",
+          "description": "더 뉴 올드 오버추어 콘서트 이벤트 링크 바로가기 https://forms.gle/qq3cqCbcry5TyBPJ9 1922 HEREDIUM 2022, The NEW OLD ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/N1A6g6-fb00/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/N1A6g6-fb00/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/N1A6g6-fb00/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Let's Clay",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T11:09:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "iMUDTzzUSbSOH8f6K_DJV4XytHc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gv9xEYLVYUU"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-20T02:33:23Z",
+          "channelId": "UCoHSemrpDtNO-EulmETHfhw",
+          "title": "ataka malu iha kampung alor 77 vs 1922",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gv9xEYLVYUU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gv9xEYLVYUU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gv9xEYLVYUU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "karakter Dunia",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-20T02:33:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JRt7Ew0ZGipDRiRUGjFA4DTM_wE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WFuISotQpfM"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-23T02:57:52Z",
+          "channelId": "UCMd2fV2b3h9_kx_mMth6RsQ",
+          "title": "斗破苍穹神之炎帝1922集：再生变故",
+          "description": "斗气大陆的源气为什么会枯竭？ 千万年前的斗帝为何离奇消失？ 萧家斗帝血脉为什么会枯竭？ 陌生的异界，萧炎又会给我们带来 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WFuISotQpfM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WFuISotQpfM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WFuISotQpfM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "动漫剪刀手",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-23T02:57:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vAy1gHFsOZcykqsD6R7PKYy0CFQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "VN-qLsv0paA"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-29T14:59:24Z",
+          "channelId": "UCqoGR_EedlhKDVuWNwYWRbg",
+          "title": "Futurist From 1922 Makes Weirdly Accurate Predictions For 2022",
+          "description": "Sign up for a 14-day free trial and enjoy all the amazing features MyHeritage has to offer. If you decide to continue your ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VN-qLsv0paA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VN-qLsv0paA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VN-qLsv0paA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Voices of the Past",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-29T14:59:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gXBb7NhKyHwJWDkuNweF0tIkz8A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Olwg6PQQ0KU"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-11T14:20:52Z",
+          "channelId": "UCDyEhXL9moXkbU-CQ38Ir7w",
+          "title": "Отец и сын бросают МАТЬ в колодец, на съедение КРЫСАМ - ЛЮДОЕДАМ [краткий пересказ]",
+          "description": "Фильм «1922» не для слабонервных. Это мрачная адаптация романа Стивена Кинга, рассказывающая о преступлении ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Olwg6PQQ0KU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Olwg6PQQ0KU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Olwg6PQQ0KU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "КЛИФФХЭНГЕР",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-11T14:20:52Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JNuMRFu_mGB-FVxbp3wHW1RFIyQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "We_e3jKHr9Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-03-07T21:41:28Z",
+          "channelId": "UCu4mLnMhcEf88vR2q5vm6qA",
+          "title": "Μικρασιάτες Πρόσφυγες στην Ελλάδα πριν και μετά το 1922",
+          "description": "Οι μικρασιάτες πρόσφυγες αποτέλεσαν το 1/5 του πληθυσμού της Ελλάδας και η αποκατάστασή τους ήταν ένα ανεπανάληπτο ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/We_e3jKHr9Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/We_e3jKHr9Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/We_e3jKHr9Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "DocFlix",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-03-07T21:41:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-RtvnOI-SJA3RhOxKTujE7ok_4E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RVkKMhE5ejE"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-20T17:22:51Z",
+          "channelId": "UC-2fOzTrDHZIyBbhIe-p5aw",
+          "title": "Πρόσφυγες του 1922 - Η Ζωή Μετά - Ε01",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RVkKMhE5ejE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RVkKMhE5ejE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RVkKMhE5ejE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "giviper",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-20T17:22:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wFgivgObq0qC1y5HZ-PQDDqAHao",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bPknZNXpOY8"
+        },
+        "snippet": {
+          "publishedAt": "2022-05-19T21:00:14Z",
+          "channelId": "UCjvO9OjMSsaZxVKhMwVCpiQ",
+          "title": "Charlie Parr | &quot;1922 Blues&quot; | Western AF",
+          "description": "Western AF Present Charlie Parr | \"1922 Blues\" Charlie Parr's music seems to have always been around. In particular we could ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bPknZNXpOY8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bPknZNXpOY8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bPknZNXpOY8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Western AF",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-05-19T21:00:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "g763TObIwuZg8vMMb2bUDJWC58g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WZ02-Plo4X8"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-08T06:13:57Z",
+          "channelId": "UCR_rOSn19L5Fan4y-1qkChQ",
+          "title": "Case 1922 (2022) 密案1922 - Movie Trailer - Far East Films",
+          "description": "Starring: Zhang Yaqi (张亚奇), Patrick (钟星辉), Li Jiaxuan (李佳璇), Ruan Xiaowei (阮晓伟), Zhang Qiang (张强), and Zhang Tianle ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WZ02-Plo4X8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WZ02-Plo4X8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WZ02-Plo4X8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Far East Films",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-08T06:13:57Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "G9tyaoPFjHt37ZucbCh2bFKZBwk",
+        "id": {
+          "kind": "youtube#channel",
+          "channelId": "UCycesrM6KSb-4hBunkgPe7Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-05T17:09:21Z",
+          "channelId": "UCycesrM6KSb-4hBunkgPe7Q",
+          "title": "Tatag Snex 1922",
+          "description": "Salam Persaudaraan. Ini adalah Channel Ke 3 Tatag Snex, dibangun tanggal 5 Juli 2022. Channel khusus untuk Publikasi ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://yt3.ggpht.com/SRS6gd9NE3W7DkmnOWT-Dy99MMHqgYw-WZAk2kjbESPgz3CAF0zeb4p1oV7P5VCNNkKl9FRgCg=s88-c-k-c0xffffffff-no-rj-mo"
+            },
+            "medium": {
+              "url": "https://yt3.ggpht.com/SRS6gd9NE3W7DkmnOWT-Dy99MMHqgYw-WZAk2kjbESPgz3CAF0zeb4p1oV7P5VCNNkKl9FRgCg=s240-c-k-c0xffffffff-no-rj-mo"
+            },
+            "high": {
+              "url": "https://yt3.ggpht.com/SRS6gd9NE3W7DkmnOWT-Dy99MMHqgYw-WZAk2kjbESPgz3CAF0zeb4p1oV7P5VCNNkKl9FRgCg=s800-c-k-c0xffffffff-no-rj-mo"
+            }
+          },
+          "channelTitle": "Tatag Snex 1922",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-05T17:09:21Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "J4PvfhwVcf4YE5bpcW-pGS6LODU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9okZ5M8wOM8"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-07T13:00:12Z",
+          "channelId": "UCKUL3EyuAEaJUYH_kib15dg",
+          "title": "A Semana de Arte Moderna de 1922 | Contexto e Motivações | Paranoia ou Mistificação",
+          "description": "CONHEÇA NOSSO CURSO COMPLETO: http://www.seliga.com.br SIGA A GENTE NO INSTAGRAM: ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9okZ5M8wOM8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9okZ5M8wOM8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9okZ5M8wOM8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Se Liga - Enem e Vestibulares",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-07T13:00:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bYDsAFEeJZH8zDDzqY7TXaCyNMw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KOG6qyZWS1k"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T16:00:09Z",
+          "channelId": "UC9dGqMAPJRpA7M0oSdgtQgg",
+          "title": "Mark Kermode reviews Häxan (1922) | BFI Player",
+          "description": "a masterpiece – a piece of thrillingly sensationalist cinema slyly masquerading as a historical documentary…” Watch on BFI ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KOG6qyZWS1k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KOG6qyZWS1k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KOG6qyZWS1k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BFI",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T16:00:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QxzEA21uVuBIt8yRCmT3oWdpXEk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zEUSzG2gFM8"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-18T22:42:45Z",
+          "channelId": "UCPTLGIbXwc0BSefw-eLGRxA",
+          "title": "Your new smile is here - ☎️ 786-452-1922",
+          "description": "Dental Desing Smile - Miami Contact us: ☎️ 786-452-1922 contact@dentaldesignsmile.com.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zEUSzG2gFM8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zEUSzG2gFM8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zEUSzG2gFM8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Dental Design Smile",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-18T22:42:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JdF1h31aNX0B8LHT4Bg5K-3ySf8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BvTpaErt_WI"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-11T10:26:50Z",
+          "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+          "title": "侯友宜問「1922能幫什麼」 陳時中:連你都不知?｜TVBS新聞",
+          "description": "1922到底具不具有公權力? 新北市長侯友宜喊話，希望中央把1922功能講清楚，不然民眾不知道功能，防疫指揮官陳時中回應，如果 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BvTpaErt_WI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BvTpaErt_WI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BvTpaErt_WI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS選新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-11T10:26:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PmzZDyqzz7FgKvkUzkvzokamjpE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PNCvjA1rMCQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-07T11:09:48Z",
+          "channelId": "UCshwRhftzkiov5wKR7M_LsQ",
+          "title": "What does the 1922 Committee do and who is in it?",
+          "description": "The 1922 Committee is back in the headlines amid suggestions it could force Boris Johnson to resign as prime minister if he ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PNCvjA1rMCQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PNCvjA1rMCQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PNCvjA1rMCQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Independent",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-07T11:09:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qNNiKR4fGZLJSgKcpWQ2ZH2uJ8o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lWVdvRb2y8I"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-11T06:43:46Z",
+          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+          "title": "CDC定調&quot;1922不具公權力&quot;  藍營批陳時中說謊",
+          "description": "公權力#指揮中心#陳時中1922到底有沒有公權力，引爆朝野激烈論戰，為了追查「恩恩案」的通報環節哪裡出了問題，國民黨立委 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "台視新聞 TTV NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-11T06:43:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "a_pu_2U3iQidDqFCQJbN-GCO8EY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ubyCGWXr3h8"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-12T17:00:37Z",
+          "channelId": "UC_53VGoH_0XLFmYVpGMvhvg",
+          "title": "SEMANA DE ARTE MODERNA (1922) | Resumo de Literatura para o Enem",
+          "description": "Curso Enem Gratuito: https://goo.gl/2rebsa Resumo completo: https://bit.ly/33fHOwY ✔️ Simulado: https://bit.ly/38L4rsj ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ubyCGWXr3h8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ubyCGWXr3h8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ubyCGWXr3h8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Curso Enem Gratuito",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-12T17:00:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FUa3pq5Ej3hLtvlHzulXSZ0t0_M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ec3MlsQcnxk"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-10T12:34:54Z",
+          "channelId": "UCnh9PGs_Od9i3ey1MmSazVA",
+          "title": "Clip CANTE JONDO, GRANADA 1922, de José Sánchez-Montes | Panorama Andaluz",
+          "description": "Granada, 1922. Nada menos que Manuel de Falla y Federico García Lorca organizan un Concurso del Cante Jondo. Falla, que ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ec3MlsQcnxk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ec3MlsQcnxk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ec3MlsQcnxk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Festival de Sevilla",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-10T12:34:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "75z3Jvkw_Rnm_Yx-bGD-JMAozpU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "oB-x65NjHcU"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-26T03:46:06Z",
+          "channelId": "UCZyJqKOo0zkCQLRBl2XyTIw",
+          "title": "ASIA MAP 2022 vs 1922 vs 1700 vs 1270",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/oB-x65NjHcU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/oB-x65NjHcU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/oB-x65NjHcU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "History Guy",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-26T03:46:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "R7dFl30w0rurNOxKS6K4b70PhQo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PKLov46Q6YI"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-03T22:06:32Z",
+          "channelId": "UCFyNAPz9HEJJTU2GNa21bHQ",
+          "title": "Semana de Arte Moderna de 1922",
+          "description": "Olá pessoas, Em fevereiro de 2022 a Semana de Arte Moderna faz cem anos, por isso resolvi fazer este vídeo para falar um ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PKLov46Q6YI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PKLov46Q6YI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PKLov46Q6YI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Profa Anelize",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-03T22:06:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "T8JAPbo3p1CLYr7N21ercLM32UU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jUdLaYTe35E"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-29T08:19:09Z",
+          "channelId": "UCifnFdTYxNT-3WZo5krqGLQ",
+          "title": "Military Ranking 2022 Vs 1922 #shorts #history #world #country",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jUdLaYTe35E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jUdLaYTe35E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jUdLaYTe35E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ExploitHistory",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-29T08:19:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hEGFlEA5e878Y-vPzfEDCANhmwU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3FaonQTqXfI"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-18T00:49:42Z",
+          "channelId": "UCj8-ETRly0cSwe30N4hx4SQ",
+          "title": "SH Chanal | Grand Theft Auto V | find another place |#1922",
+          "description": "gamming #streamer #SHChanal, #livestreamgrandtheftautov , #grandtheftautov #livestream SH Chanal | Grand Theft Auto V ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3FaonQTqXfI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3FaonQTqXfI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3FaonQTqXfI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SH Chanal",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-18T00:49:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "_z1ocpv8-c8639sBpdn2jEYDLHM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YBxS77cg1Ts"
+        },
+        "snippet": {
+          "publishedAt": "2022-02-10T00:30:22Z",
+          "channelId": "UC3FW22U-kHcu6z8GjmBynJQ",
+          "title": "9 février 1922",
+          "description": "Aujourd'hui même, il y a 100 ans, près de 500 femmes se sont rendues au parlement de Québec pour demander d'accorder aux ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YBxS77cg1Ts/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YBxS77cg1Ts/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YBxS77cg1Ts/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Assemblée nationale du Québec",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-02-10T00:30:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6JypE2n0Dw-3LgWB9fEzmGU82oM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xZ6bghkCIsY"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-08T00:32:36Z",
+          "channelId": "UChBS1bbaJEglYBnEFaC7g8w",
+          "title": "1922 Silver Dollar History",
+          "description": "Did you know there's a 1922 silver dollar worth over $140000? It was produced at the Philadelphia Mint in 'high relief', and was ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xZ6bghkCIsY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xZ6bghkCIsY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xZ6bghkCIsY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Attic Capital",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-08T00:32:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ejsRc2IPQe3V_3L2rczpcGk1tdE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yLhc5Jzxw58"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-09T06:34:22Z",
+          "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
+          "title": "1922花143分鐘轉送恩恩?! 專家:指揮中心大甩鍋│#中視新聞 20220609",
+          "description": "新北中和兩歲男童恩恩染疫病逝，恩恩爸怎麼都想不通，當時孩子都昏迷了，他通報1922求助，但1922橫向聯繫，竟然花了143分鐘 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yLhc5Jzxw58/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yLhc5Jzxw58/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yLhc5Jzxw58/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "中視新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-09T06:34:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dssP0CvPARL9h5TdwD6uLw1-0Hs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SIotJsAvgJs"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-11T21:46:50Z",
+          "channelId": "UCBsZK9qBZ2vUtkKWHwZCXNA",
+          "title": "Habemus Papam | compilation 1922-2013",
+          "description": "1. Pius XI | Achille Ratti 6 February 1922 Annuntio vobis gaudium magnum: Habemus Papam! Eminentissimum ac ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SIotJsAvgJs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SIotJsAvgJs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SIotJsAvgJs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The Pope is also a Man",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-11T21:46:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Brrld-OAHFgYYoeymkyi3sG3Zmg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "w4ZmSKMah74"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-14T05:12:13Z",
+          "channelId": "UCmHgxU394HiIAsN1fMegqzw",
+          "title": "Πρόσφυγες του 1922 - Η ζωή μετά (Α&#39; Μέρος) | Trailer | 14/09/2022",
+          "description": "Δείτε όλες τις εκπομπές του ΣΚΑΪ στο http://www.skaitv.gr/",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/w4ZmSKMah74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/w4ZmSKMah74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/w4ZmSKMah74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "SKAI.gr",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-14T05:12:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0A_it0FNW1fKvsQ-BSWsmlpXiwg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gbMTez9R4TM"
+        },
+        "snippet": {
+          "publishedAt": "2022-01-24T20:22:24Z",
+          "channelId": "UCvdwhh_fDyWccR42-rReZLw",
+          "title": "Artistas falam sobre a Semana de Arte Moderna de 1922",
+          "description": "Inspirado nas ideias do Modernismo, a Semana de Arte Moderna de 1922 completa 100 anos em fevereiro. À CNN, artistas falam ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gbMTez9R4TM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gbMTez9R4TM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gbMTez9R4TM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "CNN Brasil",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-01-24T20:22:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VKiPtAWw04IT0FLrSvr1OhxS2xQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JXskIh-tafM"
+        },
+        "snippet": {
+          "publishedAt": "2022-04-08T14:51:26Z",
+          "channelId": "UCywuq7AxUM4uYrVmSFm3Ezw",
+          "title": "Paris in Springtime - c.1922 | AI Enhanced Colorized Film w/sound",
+          "description": "Time travel back 100 years to the Paris markets on April 20th 1922. AI colorized and upscaled to 4k 60 fps clarity with added ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JXskIh-tafM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JXskIh-tafM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JXskIh-tafM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "glamourdaze",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-04-08T14:51:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "wCZ2rRGFH_yDnI6ZJ8g2su4IzHk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "HYBghDCy_tw"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-27T12:30:07Z",
+          "channelId": "UCxJcrDUc8awRSLzLbnIiAmQ",
+          "title": "Bhabi Ji Ghar Par Hai | Ep - 1922 | Webisode | Oct, 20 2022 | Vidisha,Neha,Shubhangi | And TV",
+          "description": "Watch Full Episode click here ▻ https://zee5.onelink.me/RlQq/4dc51042 Click Here to Subscribe Channel ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/HYBghDCy_tw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/HYBghDCy_tw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/HYBghDCy_tw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "And TV",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-27T12:30:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "OldOPVHYhBS_v0Mj0cW2d-xAqyk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "a6KAVJxQp3U"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T18:27:30Z",
+          "channelId": "UCmgnsaQIK1IR808Ebde-ssA",
+          "title": "Joe Biden Forgets Which Century He&#39;s In: “In 1922…”",
+          "description": "President Joe Biden appeared to forget which century he was in during a campaign speech over the weekend, referring to life “in ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/a6KAVJxQp3U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/a6KAVJxQp3U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/a6KAVJxQp3U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Breitbart News",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T18:27:30Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5Lhc9XS4OrjGU4epfVOipeqDHV8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "RK--TJwSkms"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-10T05:30:05Z",
+          "channelId": "UCNVCxlC0LukDmnQ38ThVwgg",
+          "title": "เมียที่ตายไปนานกลับมาเยี่ยม..สามีทรพีที่ฆ่าเธออย่างโหดเหี้ยม | สปอยหนัง 1922 (2017)",
+          "description": "สมัครเป็นสมาชิกของช่องนี้เพื่อเข้าถึงสิทธิพิเศษต่างๆ https://www.youtube.com/channel/UCNVCxlC0LukDmnQ38ThVwgg/join บริการ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RK--TJwSkms/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RK--TJwSkms/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RK--TJwSkms/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "อ้วนน้อยซอยหนึ่ง สตูดิโอ",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-10T05:30:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xxq_VFgRTvRHQcFhdKENwXaM2a4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "bFAWG51MW3w"
+        },
+        "snippet": {
+          "publishedAt": "2022-06-12T11:25:36Z",
+          "channelId": "UCoDrMoHzrJynyHiajw9tmFw",
+          "title": "50 копеек 1922 года.",
+          "description": "Кулинария,приготовление блюд на любой вкус.Нумизматика и бонистика всё о деньгах,увлекательно и интересно!",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/bFAWG51MW3w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/bFAWG51MW3w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/bFAWG51MW3w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "johnRSM",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-06-12T11:25:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zz5wGRc6MxevZKuUVlg6maoipcI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m14tO5rLIIY"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-12T15:00:53Z",
+          "channelId": "UCIdmhiDqrTaGErxsEads1KA",
+          "title": "Charlie Parr teaches me 1922 Blues | How to play 1922 Blues in 3 MINUTES",
+          "description": "Charlie Parr popped back in the studio, but this time to show me how to play 1922 blues! This is a rapid-fire look-see into Charlie's ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m14tO5rLIIY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m14tO5rLIIY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m14tO5rLIIY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "kyle orla stringworks",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-12T15:00:53Z"
+        }
+      }
+    ]
+  }
+  
+  

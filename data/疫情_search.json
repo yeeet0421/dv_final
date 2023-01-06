@@ -1,0 +1,1714 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "WZ2ysqviHw9jV7wDnUffwI8oebs",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "TW",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xCfKv5IgEfD6xrOQjPJ2L3h35JA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "djI4ja5Da8E"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T01:51:01Z",
+          "channelId": "UC8I3-FAdFC-S9NyT204lTIw",
+          "title": "中國疫情大爆發疫情變異了嗎？ #shorts",
+          "description": "今日專家Jonathan Liu 加拿大公立學院中醫教授+中醫、針灸教學和臨床20餘年-- ▻ 觀看更多： Jonathan Liu｜直播精選- ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/djI4ja5Da8E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/djI4ja5Da8E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/djI4ja5Da8E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "健康1+1 · 直播",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T01:51:01Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "UnInXs_PjRtPQ3E-1Him_5vOdeQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "CKQNeHk0kH8"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T10:00:05Z",
+          "channelId": "UCUn77_F5A65HViL9OEvIpLw",
+          "title": "中國疫情爆發 退燒藥大缺貨 | 瀾教短EP49 #shorts",
+          "description": "蒼藍鴿精選作品及健康好物推薦▷ https://portaly.cc/bluepigeon 加入Youtube會員支持科普頻道▷ https://reurl.cc/j7lLdn 訂閱LBRY ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CKQNeHk0kH8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CKQNeHk0kH8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CKQNeHk0kH8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "蒼藍鴿的醫學天地",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T10:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lkOfqf_G4lRTBLOjR3fqve9QMug",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TpMcW9H9DG4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T01:49:51Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "中國大陸疫情如野火燎原 網傳官方預估四億人感染｜十點不一樣20221227",
+          "description": "大陸放寬防疫管制後疫情大爆發，老年患者激增，疫情究竟有多嚴重？網路上流傳一份衛健委的內部資料，指出大陸全國已有4億人 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TpMcW9H9DG4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TpMcW9H9DG4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TpMcW9H9DG4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T01:49:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RHJFaE_kBEg7L-G9Y7m3xt5hiwc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OEjl6kDVTZU"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T10:58:16Z",
+          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+          "title": "第三波疫情確定開始！ 重複確診率攀升至5% @newsebc",
+          "description": "跨年、春節快到了，但是新冠肺炎疫情升溫，指揮官王必勝宣布邁入第三波疫情，而且不妙的是，次世代疫苗覆蓋率只有12%，還是 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OEjl6kDVTZU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OEjl6kDVTZU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OEjl6kDVTZU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "東森新聞 CH51",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T10:58:16Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "E_72k8B80yfFvnzmM7dzOqEKfwk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "yUoUhnxTRcA"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T13:29:26Z",
+          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+          "title": "疫情升溫! 本土+24427例&quot;較上週同期增43%&quot;",
+          "description": "疫情#本土#升溫來關心疫情! 中央流行疫情指揮中心今天(27)公布，國內新增2.4萬例本土個案，比上週二增加約43%，隔了40天再度 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yUoUhnxTRcA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yUoUhnxTRcA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yUoUhnxTRcA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "台視新聞 TTV NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T13:29:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "paKcK-dnAMdbPJFK_sy0GxzP9gY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2qA8kTWksE4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T07:08:10Z",
+          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+          "title": "第三波疫情起  指揮中心：大型活動全程戴口罩【健康資訊】",
+          "description": "本土#疫情#口罩2022.12.29【健康資訊】國內第三波疫情來襲，醫師黃高彬指出，等明年1月8日中國徹底解封，台灣將受到波及， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2qA8kTWksE4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2qA8kTWksE4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2qA8kTWksE4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "台視新聞 TTV NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T07:08:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "D7oWbjd1KSyWjwqNvp8-pQGbHz4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "gtiMIWsGck0"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T11:58:12Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "以色列跟進管制中國客入境! WHO籲北京疫情&quot;透明化&quot;曝黑數 疑患者不滿醫護人員起衝突! 網友酸現場宛如戰場│記者 楊駿宗│【國際局勢】20221231│三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gtiMIWsGck0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gtiMIWsGck0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gtiMIWsGck0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T11:58:12Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "rTRbyQUCUDsgxjbTOkD8YCkJHiA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lHVnKKXCwto"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-26T07:59:33Z",
+          "channelId": "UCl3aKvzB7uC5mTlVEWiCogA",
+          "title": "高峰在2月！第三波疫情要來了 王必勝：單日確診落在3萬左右",
+          "description": "今日熱門新聞:https://bit.ly/2Srrrrs 訂閱新聞雲頻道:https://bit.ly/2FOmiBe 加入頻道會員:https://bit.ly/3cvq3Z2 LIVE／研議限購含 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lHVnKKXCwto/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lHVnKKXCwto/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lHVnKKXCwto/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "ETtoday新聞雲",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-26T07:59:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LDb5_peQLpju4QEz3T8z1MvwZFg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pWW6UelnEMo"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T14:56:49Z",
+          "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+          "title": "大陸疫情如野火燎原 網傳官方預估四億人感染｜十點不一樣20221227@tvbsnews02",
+          "description": "大陸放寬防疫管制後疫情大爆發，老年患者激增，疫情究竟有多嚴重？網路上流傳一份衛健委的內部資料，指出大陸全國已有4億人 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pWW6UelnEMo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pWW6UelnEMo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pWW6UelnEMo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS選新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T14:56:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VwRyFkLS88qvlERAf5edyD_6icM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "JUe6X-uq_iY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T04:46:43Z",
+          "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+          "title": "第三波疫情真的來了！　高峰時間點曝光...赴日本遊須備3寶－民視新聞",
+          "description": "【民視即時新聞】台灣疫情進入第3波至在升溫，本土單日破2.7萬例攀，境外移入226例更創3個月新高，醫界提醒要審慎因應，因為 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JUe6X-uq_iY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JUe6X-uq_iY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JUe6X-uq_iY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "民視新聞網 Formosa TV News network",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T04:46:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "nFcT6SSB3UZJINZvpwN_0-017DE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YoaaV0Z6Nfo"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T03:50:47Z",
+          "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
+          "title": "#三立最新 疫情變類流感化？最快春節後降級 疫苗擬年打2劑常態化 醫師:接種.防疫配套得規劃│記者 蔡駿琪│【LIVE大現場】20221231│三立新聞台",
+          "description": "三立新聞#三立LIVE新聞➲新台灣加油https://goo.gl/Hthr3e ➲前進新台灣https://reurl.cc/6egpy ➲驚爆新聞線爆內幕追 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YoaaV0Z6Nfo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YoaaV0Z6Nfo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YoaaV0Z6Nfo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立LIVE新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T03:50:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bfkLTMG3WiQ0ltsqAvzkPyJOTaU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4rqCBftO_Po"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-24T09:00:05Z",
+          "channelId": "UCBuHkb1AS_yRQ71meFNQ3VQ",
+          "title": "《北京疫情大爆炸！中國進入地獄模式！130多個變異株入侵！迎接中國最慘烈戰鬥！專家估四億人確診！》【2022.12.24『年代向錢看』週末精選】",
+          "description": "積極讓全民染疫！中國要在「習登基前」走出疫情？！ 美機構預測！中國1/3人口將染疫！美國務院表擔憂？！ 疫情海嘯來臨！",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4rqCBftO_Po/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4rqCBftO_Po/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4rqCBftO_Po/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "年代向錢看",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-24T09:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "viROF_KQkFhrKgEckrXr5RTw01Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "87JlLTAhLR4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T07:00:02Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "將近7億人已染疫! 中國疫情崩盤&quot;棺木爆量.方艙淪停屍間&quot; 拒絕公布死亡黑數? 傳官方禁止家屬登記&quot;死於新冠&quot;│記者 黃語暄│【國際局勢】20221228│三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/87JlLTAhLR4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/87JlLTAhLR4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/87JlLTAhLR4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T07:00:02Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "kD0iI0U7TALj7DhKf2WPhbhXOm8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "lvcmIWMyfjI"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T22:33:51Z",
+          "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+          "title": "中國疫情亂象！入境者不滿強制隔離　與警爆發激烈衝突－民視新聞",
+          "description": "【民視即時新聞】民視新聞／綜合報導中國即將開放民眾出國旅遊，但海歸中國人及外國遊客入境，卻還是要關5天，在機場與警方 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lvcmIWMyfjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lvcmIWMyfjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lvcmIWMyfjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "民視新聞網 Formosa TV News network",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T22:33:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "KSMNbF-RuSkNyIbTZ2fsC_gjY4I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9KXAO5rD83M"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T14:51:43Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "中國新冠疫情爆發式蔓延，醫院超負荷運轉－ BBC News 中文",
+          "description": "在中國西部城市重慶的一家殯儀館內，工作人員正馬不停蹄地處理送來的遺體。運載死者的靈車和轎車在停車場排起長隊，家屬們 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9KXAO5rD83M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9KXAO5rD83M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9KXAO5rD83M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T14:51:43Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "DAR8cxT1BLVgY4sPjblvEPpXt14",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "I1At6oBpAPo"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T12:47:28Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "中國的三年抗疫：如何從「清零」走向「與病毒共存」－ BBC News 中文",
+          "description": "新冠疫情爆發已經三週年，中國曾試圖通過快速封控和大規模檢測來杜絕新冠疫情的蔓延。這也被稱為「清零」政策。 不少中國民眾 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/I1At6oBpAPo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/I1At6oBpAPo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/I1At6oBpAPo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T12:47:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "o1qJ081GsFLIODOTWOguHpxV88g",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "T7yIcRTFXC0"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T03:51:32Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "#iNEWS最新 指揮中心擬春節後疫情降為第四類 疫苗年打2劑變常態化 醫師:接種.防疫配套得規劃│記者 蔡駿琪│【台灣要聞】20221231│三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T7yIcRTFXC0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T7yIcRTFXC0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T7yIcRTFXC0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T03:51:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ODBqJN6NoZkJhc_Rs6IrZ7gOG4Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hcN6b6wxI1w"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T01:23:38Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "中國出現新變種病毒?! 疫情仍讓中國境內人心惶惶 女子確診臉頰斑駁脫皮 山西青少年確診腫嘴唇 醫師:疑藥物過敏｜記者 黃瓊慧｜【國際局勢】20221223｜三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hcN6b6wxI1w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hcN6b6wxI1w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hcN6b6wxI1w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T01:23:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BXsTHvy9UMz-5J3KNqfUHzHWEjw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Zfp-SSj4Jm8"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T06:30:25Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/12/29 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Zfp-SSj4Jm8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Zfp-SSj4Jm8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Zfp-SSj4Jm8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T06:30:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Dq97FJCkDSIy6qMvBw_Th67Bpto",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "7OzYdwxhZos"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-08T06:30:11Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/12/8 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7OzYdwxhZos/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7OzYdwxhZos/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7OzYdwxhZos/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-08T06:30:11Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "LAsbmCkL36DxcsIw699c_HGuENg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2ArJSP4hedE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-30T14:00:08Z",
+          "channelId": "UC8I3-FAdFC-S9NyT204lTIw",
+          "title": "疫情爆發和解封之間的微妙關係；病毒基因測序是全球健康的關鍵；不同地區症狀差異 |（2022.12.30） 健康1+1 · 直播",
+          "description": "疫情當前，為何不同地區有不同的症狀？病毒基因測序是全球健康的關鍵，如何度過疫情？疫情期間的心理調適。 Time Code: 00:23 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2ArJSP4hedE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2ArJSP4hedE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2ArJSP4hedE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "健康1+1 · 直播",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-30T14:00:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5TqTLWZw7LyUImawrvpDhjDKVtw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XaJs-QmOdHg"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-25T13:29:24Z",
+          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+          "title": "新冠、流感、RSV疫情 美孩童面臨&quot;三重威脅&quot;",
+          "description": "新冠病毒#流感#RSV 美國目前除了新冠、流感，還出現了RSV疫情，兩歲以下嬰幼兒是高危險族群。RSV呼吸道融合病毒疫情每年 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XaJs-QmOdHg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XaJs-QmOdHg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XaJs-QmOdHg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "台視新聞 TTV NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-25T13:29:24Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "qC_M_DD3gRbejv9vv__sdhzmjH4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6KzFY8WaCpE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-22T10:26:31Z",
+          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+          "title": "+19798例「疫情升溫」 過年返鄉「邊境」不加嚴｜TVBS新聞@TVBSNEWS01",
+          "description": "國內疫情升溫態勢不變，緊接著農曆也是返台旺季，指揮中心強調不會加嚴管理，大陸目前流行的BF.7，指揮中心也表示免疫逃脫 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6KzFY8WaCpE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6KzFY8WaCpE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6KzFY8WaCpE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS NEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-22T10:26:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "b_KeFzz04nrbOJbWVL8W9qKRZpk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "QtbkbnB4J5Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-20T15:09:41Z",
+          "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+          "title": "中國疫情突蓋牌？ BBC記者爆北京千萬人染疫！大量病患竟在遺體旁候診！？【關鍵時刻】20221220-3 劉寶傑 姚惠珍",
+          "description": "中國殯儀館「屍滿為患」！ 從醫院太平間、殯儀館、火葬場都排滿待處理大體！ 【最新上傳】最新時事不漏 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/QtbkbnB4J5Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/QtbkbnB4J5Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/QtbkbnB4J5Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "關鍵時刻",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-20T15:09:41Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2OyzFAKIF9Pc6d8I4-xB6wmvCE4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "W_51T00tQHI"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-23T06:27:33Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/11/23 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心11月23日14:00記者會出席名單由左到右指揮中心羅一鈞醫療應變組副組長指揮中心周志浩疫情監測組組長 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/W_51T00tQHI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/W_51T00tQHI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/W_51T00tQHI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-23T06:27:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "hfagHItLtruNPWFRhBLoPCJms4I",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "wzsAIwPkUfI"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-26T03:04:59Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "中國大陸鬆綁後港疫情急升 本周全球人均確診第一 TVBS文茜的世界周報 20221225 X 富蘭克林‧國民的基金",
+          "description": "《TVBS 56台》 【TVBS 看板人物】主持人：方念華每周日晚間23:00首播/隔周日上午10:00 重播訂閱官方 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wzsAIwPkUfI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wzsAIwPkUfI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wzsAIwPkUfI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-26T03:04:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "A8Tbkt_eWOt2RJgl1xXAcwMJfkU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "6UHf_Zb4wpE"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-24T06:42:05Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/10/24 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心10月24日14:00記者會出席名單由左到右指揮中心莊人祥發言人指揮中心王必勝指揮官指揮中心羅一鈞醫療 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6UHf_Zb4wpE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6UHf_Zb4wpE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6UHf_Zb4wpE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-24T06:42:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "anAghyL8wZNGlRY7XTQh4QCUoIk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "KlWTl6boYuk"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-02T06:32:03Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/11/2 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/KlWTl6boYuk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/KlWTl6boYuk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/KlWTl6boYuk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-02T06:32:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "aRheSS9Ux9a_fJ8dZr2WuEKIpfg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eSuEQL0em8c"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-25T10:06:40Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "【本周國際大事】變異株XBB傳播快 占全美病例18%　疫情蓋不住 青島 東莞自揭確診數LIVE",
+          "description": "新冠疫情仍在全球延燒，根據美國CDC最新數據，Omicron亞型變異株XBB病例已激增到占全美約18%；中國國家衛健委的會議紀錄 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eSuEQL0em8c/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eSuEQL0em8c/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eSuEQL0em8c/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-25T10:06:40Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "lsYgasVHv1XG9_9l6dmbn7_EReM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "c8SNbcMrtIw"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-13T06:42:14Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/9/13 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心9月13日14:00記者會出席名單由左到右指揮中心莊人祥發言人指揮中心王必勝指揮官指揮中心羅一鈞醫療應變 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c8SNbcMrtIw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c8SNbcMrtIw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c8SNbcMrtIw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-13T06:42:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bcDxhTGwsANCwszBSMZCm15ZVpU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GGxQcr8-CV8"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-05T06:34:44Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/10/5 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心10月5日14:00記者會出席名單由左到右指揮中心羅一鈞醫療應變組副組長指揮中心周志浩疫情監測組組長指揮 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GGxQcr8-CV8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GGxQcr8-CV8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GGxQcr8-CV8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-05T06:34:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mzHw_zj053xYgt-pZP11XxSwCZE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "_cACKcP_yZE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T06:31:50Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/12/15 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_cACKcP_yZE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_cACKcP_yZE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_cACKcP_yZE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T06:31:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "l8AAnudtyV5K2s4BApmCuG5n7sg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-2hgoe6GhCc"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-16T06:27:05Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/9/16 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心9月16日14:00記者會出席名單由左到右指揮中心羅一鈞醫療應變組副組長指揮中心周志浩疫情監測組組長指揮 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-2hgoe6GhCc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-2hgoe6GhCc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-2hgoe6GhCc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-16T06:27:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JzdCIAYJpsrrQE3YHlZmZSl8NaY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "XsgYSFhBBm4"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-28T12:31:03Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "20大後疫情回潮 各地嚴格封控 怪象頻傳 ｜方念華｜FOCUS全球新聞 20221028",
+          "description": "20大#疫情#中國#封控#TVBS新聞#TVBS直播#TVBS新聞網《TVBS 56台》 【TVBS 看板人物】主持人：方念華每周日晚間23:00 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/XsgYSFhBBm4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/XsgYSFhBBm4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/XsgYSFhBBm4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-28T12:31:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YQOqNfQzmCBuq7lxSWJWlS44u30",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qnOnPKndG4k"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-25T06:30:09Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/8/25 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qnOnPKndG4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qnOnPKndG4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qnOnPKndG4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-25T06:30:09Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "d__tMPCvdw5vHbhY0RbRVV2tTas",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jQGeBgyNSfo"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-15T13:57:23Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "疫情升溫要清零又要放寬 中國大陸防疫陷矛盾｜方念華｜FOCUS全球新聞 20221115",
+          "description": "大陸#防疫政策#清零#TVBS新聞#TVBS直播#TVBS新聞網《TVBS 56台》 【TVBS 看板人物】主持人：方念華每周日晚間23:00首播/ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jQGeBgyNSfo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jQGeBgyNSfo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jQGeBgyNSfo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-15T13:57:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xxiM-ZktHyaDT7fozavCoQ-wLmo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "YciNuWDzA50"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-31T14:42:04Z",
+          "channelId": "UC4bokYuSrVGpI6_WYv7Gdbw",
+          "title": "20天恐2.8億人染疫，中國快速解封後疫情將如何發展？｜國際大風吹 Ep. 247",
+          "description": "訂閱頻道：https://bit.ly/32WHzlI ✓加入會員支持我們：https://bit.ly/2PtaTM4 ✓加入我們IG帳號國際大 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/YciNuWDzA50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/YciNuWDzA50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/YciNuWDzA50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "The News Lens 關鍵評論網",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-31T14:42:04Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4JgrJLyXv29K3KSdhvrKcUlxCOs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Z4YbOVFL1kc"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-01T06:33:13Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/11/1 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Z4YbOVFL1kc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Z4YbOVFL1kc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Z4YbOVFL1kc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-01T06:33:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2PvMt3BIEn7_6K2WExOf4ozsYVc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "eLgQIVtwqpo"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-19T06:23:18Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/9/19 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心9月19日14:00記者會出席名單由左到右指揮中心羅一鈞醫療應變組副組長指揮中心周志浩疫情監測組組長指揮 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/eLgQIVtwqpo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/eLgQIVtwqpo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/eLgQIVtwqpo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-19T06:23:18Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "PcjZG3k-NDSADTk1I8-TIzf4Wes",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ilb00bUjImw"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-21T07:36:50Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "中國大陸疫情清零害人 貴州半夜轉運隔離車禍27死｜TVBS新聞",
+          "description": "中國大陸的防疫政策，又掀起批評聲浪，日前，一輛半夜開出貴州省貴陽縣的官方巴士，載著要去異地隔離的人，結果路上翻車， ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ilb00bUjImw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ilb00bUjImw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ilb00bUjImw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-21T07:36:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "gQjT8UNzNHJ-r22KIjBNq61uSjM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2O6N9i1f0v0"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-17T06:32:45Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/10/17 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "中央流行疫情指揮中心10月17日14:00記者會出席名單由左到右指揮中心羅一鈞醫療應變組副組長指揮中心周志浩疫情監測組組長 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2O6N9i1f0v0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2O6N9i1f0v0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2O6N9i1f0v0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-17T06:32:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dRrJfHperYpSVoU-XyzjKZjnTVw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sFKnZYPRaPE"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-29T15:00:22Z",
+          "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+          "title": "中國疫情「螺旋式激增」全境爆發 飛義大利班機竟52%乘客確診嚇壞全球！？【關鍵時刻】20221229-1 劉寶傑 黃世聰 李正皓 吳子嘉 林庭瑀 林廷輝",
+          "description": "美媒：蘋果和特斯拉因中國多變慘遭重創「疫彈」斷供應鏈美股四大全崩！？ 中國疫情「螺旋式激增」全境爆發飛義大利班機竟52% ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sFKnZYPRaPE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sFKnZYPRaPE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sFKnZYPRaPE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "關鍵時刻",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-29T15:00:22Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4DNgE1HblIvzWx8u8Odp0X512tE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "zVY5BfiBwsI"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-07T11:00:44Z",
+          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+          "title": "中國大幅放寬疫情防控措施 告別全員核酸檢測和集中隔離－ BBC News 中文",
+          "description": "中國政府發佈進一步放寬疫情防控的多條新措施。實施近三年的大規模核酸檢測、集中隔離和健康碼等標誌性防疫手段在大多數場合 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zVY5BfiBwsI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zVY5BfiBwsI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zVY5BfiBwsI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "BBC News 中文",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-07T11:00:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "K0P_kVaC671ciHR22cNurZoN0D0",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "k37L-t-JF0I"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-18T13:00:34Z",
+          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+          "title": "海南疫情仍嚴峻 單日衝破2千例.創新高｜方念華｜FOCUS全球新聞 20220818",
+          "description": "疫情#海南#確診#TVBS新聞#TVBS直播#TVBS新聞網《TVBS 56台》 【TVBS 看板人物】主持人：方念華每周日晚間23:00首播/隔周 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/k37L-t-JF0I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/k37L-t-JF0I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/k37L-t-JF0I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TVBS 優選頻道",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-18T13:00:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "5CVKwwh68H3Ll8CuT_QUcMY3yTg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "45ZLgReSS3s"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-28T06:37:08Z",
+          "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
+          "title": "【#PLive】20221128 中央流行疫情指揮中心記者會（1400）",
+          "description": "中央流行疫情指揮中心今（28）日14:00記者會，由防疫人員說明疫情及防疫作為等事宜。 ｜編輯／陳廷威— 分享・按讚・追蹤— ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/45ZLgReSS3s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/45ZLgReSS3s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/45ZLgReSS3s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "公視新聞網",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-28T06:37:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Za9lXAC629S_YWi_JewMHLVo0wM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2i2730fbqSg"
+        },
+        "snippet": {
+          "publishedAt": "2022-10-11T06:27:49Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/10/11 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2i2730fbqSg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2i2730fbqSg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2i2730fbqSg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-10-11T06:27:49Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xyAaf-ZtHuM6e-IrE6297VB6s9E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "m3LiDrOvNPI"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-02T06:22:23Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/8/2 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/m3LiDrOvNPI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/m3LiDrOvNPI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/m3LiDrOvNPI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-02T06:22:23Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "YBqrSuUIAlpeDGWRZvQ1HW4aumg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZppaVoZQuHk"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-28T06:51:28Z",
+          "channelId": "UCYkldEK001GxR884OZMFnRw",
+          "title": "曾讚「中國疫情控制太好」移居上海　吳尊全家中標「7症狀纏身」崩潰｜鏡週刊",
+          "description": "藝人吳尊全家今年3月從汶萊舉家移居上海，當時曾大讚中國「疫情控制太好」並接種中國疫苗，然而隨著中國解封疫情爆增，吳尊 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZppaVoZQuHk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZppaVoZQuHk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZppaVoZQuHk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "鏡週刊",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-28T06:51:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EQX-3_OXpndqV2I1nVGKlpfXm4U",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "UzaogIreq3Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-26T06:24:28Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/8/26 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/UzaogIreq3Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/UzaogIreq3Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/UzaogIreq3Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-26T06:24:28Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NrzYJV1uCbTsKWX3iKxhXf5BfZc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "2gNuNbQfD10"
+        },
+        "snippet": {
+          "publishedAt": "2022-07-21T06:40:41Z",
+          "channelId": "UCyh91eTE9jA3ykg8W3_v3DQ",
+          "title": "2022/7/21 14:00 中央流行疫情指揮中心嚴重特殊傳染性肺炎記者會",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2gNuNbQfD10/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2gNuNbQfD10/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2gNuNbQfD10/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "衛生福利部疾病管制署",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-07-21T06:40:41Z"
+        }
+      }
+    ]
+  }
+  
+  

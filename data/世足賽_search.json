@@ -1,0 +1,1714 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "j8jFQp9fJWbkkl3tFkh7QuO9Wyo",
+    "nextPageToken": "CDIQAA",
+    "regionCode": "TW",
+    "pageInfo": {
+      "totalResults": 842231,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "etag": "QQKXsJ4Gkgy3MjI4f4Y-h-W4fNk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "22qjrlv7myM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T18:34:07Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】PK大戰頂尖對決！阿根廷4:2勝出奪下世界盃冠軍！",
+          "description": "PK大戰頂尖對決！ 由姆巴佩&梅西兩位重量級第一點揭開序幕相隔16年再見的冠軍賽PK大戰沒有讓大家失望！ 有阿根廷4點全部踢進 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/22qjrlv7myM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/22qjrlv7myM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/22qjrlv7myM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T18:34:07Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HTekkvRslrC4rwVTfPPPIJWqVSg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xFcETLUwdxU"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-13T22:02:13Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】梅西破門追平傳奇！阿根廷3球勇闖決賽/愛爾達電視20221214",
+          "description": "卡達世足賽四強戰阿根廷和克羅埃西亞的交手率先登場靠著梅西(Lionel Messi)一進球一助攻搭配阿瓦雷茲(Julian Alvarez)演出梅開二 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xFcETLUwdxU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xFcETLUwdxU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xFcETLUwdxU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-13T22:02:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "x_cTWRdjfWNW5suNS7ZVDWYg0x8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZVh6pmas4dk"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-19T07:14:51Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】神劇本...梅西要回領先、姆巴佩追平，絕對是史上最精彩延長賽！",
+          "description": "神劇本真的太鬼了這劇情... 絕對是史上最精彩延長賽！ 108分鐘#梅西的過線補進118分鐘#姆巴佩的帽子戲法看到心臟好痛啊.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZVh6pmas4dk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZVh6pmas4dk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZVh6pmas4dk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-19T07:14:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SpoEkxusWr4nK0L9Os3BoaktGGE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "rUmaJfa2jK4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T17:07:32Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】驚天動地97秒！姆巴佩力挽狂瀾 梅開二度扳平戰局！",
+          "description": "驚天動地97秒#姆巴佩一球在腳，希望無窮！ 先是穩穩踢進12碼罰球再上演超神凌空抽射進球！ 一個人在97秒之內把法國從0:2的 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rUmaJfa2jK4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rUmaJfa2jK4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rUmaJfa2jK4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T17:07:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2dAk7nA4-5yw6K_yyiI2qD8d-Yc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "izedw_4tU5Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T20:09:44Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】阿根廷PK擊敗法國 梅西高捧大力神盃/愛爾達電視20221219",
+          "description": "2022卡達世足賽終極決戰阿根廷和法國踢出一場史詩級戰役藍白軍團巨星梅西梅開二度而高盧雄雞頭號戰將姆巴佩更是演出帽子戲法 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/izedw_4tU5Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/izedw_4tU5Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/izedw_4tU5Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T20:09:44Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "djgZ16XQFj5rRylx5aVvDBrXl1Q",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "htabvYrGiNg"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-13T21:03:47Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】梅西超級神助攻！ 一人飛奔近半場、追平馬拉度納紀錄",
+          "description": "梅西太神了！超級神助攻！ 一個人帶球將近整個半場啊～ 梅西自己從右路一整條突破到禁區邊更是靠著超精湛技巧幌過對手帶到底線 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/htabvYrGiNg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/htabvYrGiNg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/htabvYrGiNg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-13T21:03:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "CS5HuUHFDH1AdIb9Ojx11g3ioJ8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jUB-Q5WWU1I"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-23T10:38:37Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】卡達世足十大好球 各國菁英精銳盡出/愛爾達電視20221223",
+          "description": "卡達世足完美落幕各國聯賽也正要重啟在這之前趕快跟著我們腳步重溫本屆十足的十大好球！",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jUB-Q5WWU1I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jUB-Q5WWU1I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jUB-Q5WWU1I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-23T10:38:37Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GnxYu04ckDWIVRPItaxiNYJgt3A",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "-A5mKTZ1n5I"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T15:47:38Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】#梅西 成為史上首位世足每一階段都有進球的男人！",
+          "description": "球給#梅西！！！ 法國DEMBELE從後面勾倒天使DI MARIA、造成犯規！ 而12碼交給隊長#梅西穩穩操刀， 完全騙過守門Hugo ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-A5mKTZ1n5I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-A5mKTZ1n5I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-A5mKTZ1n5I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T15:47:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GCDnrf23jHBYWMEnEWs4vK7JRdc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sfX_2XVOt7M"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-13T20:02:20Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】金靴獎我來了！梅西罰進12碼 追平姆巴佩本屆進球數",
+          "description": "金靴獎我來了！ 克國門神一次禁區內犯規讓梅西獲得了12碼罰球機會力道強勁、角度刁鑽、梅西進球！ 這顆12碼讓梅西本屆進球數 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sfX_2XVOt7M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sfX_2XVOt7M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sfX_2XVOt7M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-13T20:02:20Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SNeuTodvJvW6KOJDrdLMgYiiQDA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "F9lKadWfH_Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-18T16:20:53Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】天使降臨 阿根廷簡單、快如閃電的防守反擊",
+          "description": "天使降臨阿根廷簡單、快如閃電的#防守反擊直接撕裂法國防線！ 效力義甲尤文圖斯的Angel Di Maria 靠著簡單五腳的直塞球拉出 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/F9lKadWfH_Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/F9lKadWfH_Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/F9lKadWfH_Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-18T16:20:53Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "FTEJxRvoixKsNUMXEDqwggXhjGw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GC38846tgNY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-24T11:02:33Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】卡達世足賽張力十足 回顧十大經典時刻/愛爾達電視20221224",
+          "description": "2022卡達世足賽精彩落幕過程中也締造無數個人及球隊的紀錄都讓許多球迷印象深刻接下來讓我們一起來回顧卡達世足賽的十大經典 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GC38846tgNY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GC38846tgNY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GC38846tgNY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-24T11:02:33Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "j4sdWSiYufj5b4u4raD3RQ3amdY",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "SdUnK-vowgw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-14T21:52:42Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】5分鐘「閃電進球」法國2：0贏球晉決賽/愛爾達電視20221215",
+          "description": "卡達世足賽四強戰衛冕軍法國交手摩洛哥高盧雄雞開賽靠著(Theo HERNANDEZ)第五分鐘就進球一路保持領先最終以2比0擊敗亞特 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SdUnK-vowgw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SdUnK-vowgw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SdUnK-vowgw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-14T21:52:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "cEHURmaTzCIpYvHtl_O-u6lIBZE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MyQgc0K3680"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-20T11:06:08Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】梅西真的太神啦！卡達世足Top10回顧/愛爾達電視20221220",
+          "description": "2022卡達世界盃小獅王梅西彷彿上帝降臨一般的表現率領阿根廷高舉大力神盃也讓全台球迷陷入瘋現在就讓我們一起來回顧梅西本屆 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MyQgc0K3680/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MyQgc0K3680/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MyQgc0K3680/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-20T11:06:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "WM3-oz_i8p9D5mb2Q92u-Conpv4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "8f5XRb0nOmg"
+        },
+        "snippet": {
+          "publishedAt": "2022-08-14T10:00:05Z",
+          "channelId": "UCliw_WSEGu55GcWCZj7_FIA",
+          "title": "梅西最不可思议一球，直接轰动整个足坛，被其他教练拿来反复研究",
+          "description": "哈喽！大家好这里是阿清体坛！ 正式入驻YouTube平台啦！ 分享最新最热的体育赛事，回归最经典的夺冠瞬间！ 喜欢我就多多订阅 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/8f5XRb0nOmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/8f5XRb0nOmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/8f5XRb0nOmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "阿清体坛",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-08-14T10:00:05Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "HxTjm1oe2f39EXgRqiIWHM4WiN8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "1dRQG9OcQN4"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-21T17:17:08Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【卡達世足看愛爾達】英格蘭6球狂轟伊朗 本屆世足首場開紅盤",
+          "description": "7分鐘精華英格蘭今天火力全開，連續兩屆世界盃小組賽都上演狂轟6球劇本...！ #世足鎖定愛爾達#FIFAWConELTA - 2022 FIFA世界 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1dRQG9OcQN4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1dRQG9OcQN4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1dRQG9OcQN4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-21T17:17:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xb_vQDPNRmKexSSqSfdyEpiw4zI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZY806DpQDWU"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-10T18:34:14Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】 C羅落下男兒淚！ 摩洛哥勝葡萄牙晉四強/愛爾達電視20221211",
+          "description": "卡達世界盃足球賽八強最強黑馬摩洛哥靠著En Nesyri頭錘破網以1：0擊敗葡萄牙勇闖四強不但締造隊史紀錄更成為世界盃史上第一支 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZY806DpQDWU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZY806DpQDWU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZY806DpQDWU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-10T18:34:14Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "0FTsMlK-rQ2qWPr9wDfzr46iLP4",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "hG6knqfHBOo"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-09T18:47:34Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】PK大戰的王者！克羅埃西亞超強抗壓 淘汰奪冠熱門巴西！",
+          "description": "PK大戰的王者克羅埃西亞超強的抗壓能力！ 門神LIVAKOVIC擋下對手第一點率先敲響森巴軍團的第一聲喪鐘接著克國1至4點穩穩操 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hG6knqfHBOo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hG6knqfHBOo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hG6knqfHBOo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-09T18:47:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "-lXp5ZhmK4_sxKDm9RlnjDn3NQI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jO7GE6dzjiw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-19T01:25:42Z",
+          "channelId": "UCKs2nbiCJbfN_U_QShakr7A",
+          "title": "阿根廷PK贏法國奪大力神盃　梅西世足最終戰完美收尾｜2022世足｜世界盃足球賽｜冠軍｜看新聞",
+          "description": "訂閱頻道好片不漏看：https://bit.ly/3iPX6h1 看更多☛ 貓咪各種亂入卡達世足賽現場：https://youtu.be/R7xEVtsuGYE C羅最後一舞 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jO7GE6dzjiw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jO7GE6dzjiw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jO7GE6dzjiw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "即新聞",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-19T01:25:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "EupY88M8U34PbhMR4qwmFlxlnSQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3u_miwrCXSc"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-19T12:01:10Z",
+          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+          "title": "2022卡達世足賽10大難忘鏡頭! 沙國首戰大爆冷 擊敗阿根廷成看點 梅西精彩助攻隊友 成世足賽名場面│記者 姚懷真｜【國際局勢】20221219│三立iNEWS",
+          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3u_miwrCXSc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3u_miwrCXSc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3u_miwrCXSc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "三立iNEWS",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-19T12:01:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sFF4uNnUfKY_MJ_-OEcFTXeb9zs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "9FEdF1vNgU4"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-20T18:24:42Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】韓國天團BTS柾國演唱世足主題曲《足球夢想家 The Dreamers》",
+          "description": "本屆FIFA世界盃™ 主題曲揭曉啦～～ 來自韓國天團#BTS 柾國演唱主題曲《足球夢想家The Dreamers》 動感舞蹈+動人旋律，開始 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9FEdF1vNgU4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9FEdF1vNgU4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9FEdF1vNgU4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-20T18:24:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "xM9mVQxYcP_3McpqsGxIJCnHnVs",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Ai1iP-kKphA"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-25T09:38:55Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】卡達世足賽神級防守 回顧精選十大好球/愛爾達電視20221225",
+          "description": "聖誕節要來回顧卡達世足賽為期一個月的賽程裡除了頂尖球星的進球精彩絕倫之外還有不少世界級防守令人回味無窮趕快跟著我們的 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Ai1iP-kKphA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Ai1iP-kKphA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Ai1iP-kKphA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-25T09:38:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "NT_lrYBGDZ7dcQJC3DTjY0GP0DM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "BToIXc93vpI"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-19T12:00:13Z",
+          "channelId": "UCz0cEfjyBLS6-RBV-LzD3ug",
+          "title": "｜世界杯來臨還只知道梅西和C羅？ 帶你認識當今足壇最火熱的足球明星們｜2022 世界杯十大球星 feat.幣安世足賽",
+          "description": "幣安#幣安世足挑戰賽#足球#世界杯#梅西#C羅幣安足球挑戰賽參與 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BToIXc93vpI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BToIXc93vpI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BToIXc93vpI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "沙發人物誌",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-19T12:00:13Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ixftHgTTDAmU-QhFMvKl9UqH_ac",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cFNh5cLf3tg"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-24T22:13:38Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】理查利森超帥抽射 梅開二度巴西首勝/愛爾達電視20221125",
+          "description": "2022卡達世界盃足球賽G組戰況世界排名第一的巴西首戰塞爾維亞巴西靠著理查利森(RICHARLISON)單場梅開二度還在比賽中上演 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cFNh5cLf3tg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cFNh5cLf3tg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cFNh5cLf3tg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-24T22:13:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "unvkd0x9tQvqwOIB-lp2PBcb3xM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TxxCFBCyZ2Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-27T10:13:26Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】卡達世足賽各種眼淚 回顧十大心碎時刻/愛爾達電視20221227",
+          "description": "接下來讓我們繼續回到卡達世足賽的經典時刻過去幾天我們分別整理了熱血進球強悍防守還有歡樂的慶祝時刻今天則要帶大家來回顧 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TxxCFBCyZ2Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TxxCFBCyZ2Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TxxCFBCyZ2Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-27T10:13:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "Gk2TZc5d0wsjaAo4B66C_QwrN_E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "LbHzMOFWFH4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-26T09:54:03Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】世足賽熱血慶祝動作 十大經典帶您回顧/愛爾達電視20221226",
+          "description": "頭條焦點先來回顧令人回味無窮的2022卡達世足賽除了有精采進球和美技防守外球員們場上的慶祝動作也是許多人關注的焦點馬上一 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LbHzMOFWFH4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LbHzMOFWFH4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LbHzMOFWFH4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-26T09:54:03Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "ag3SJaYon-aVUCObkQDH6pteBRA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MbDVxMd1Pxs"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-24T19:13:55Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】C羅連五屆世界盃進球 葡萄牙3：2勝迦納/愛爾達電視20221125",
+          "description": "2022卡達世界盃足球賽H組葡萄牙首戰迦納下半場兩隊上演進球大戰C羅(Cristiano Ronaldo)也在這場比賽貢獻一個進球葡萄牙終場 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MbDVxMd1Pxs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MbDVxMd1Pxs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MbDVxMd1Pxs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-24T19:13:55Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "6_BxWETPbb3_fbNU6hb0V_BQWmM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "Qbxt54AYE1Q"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-13T20:11:31Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】防守反擊來得太快！阿根廷成功的一次轉換進攻！",
+          "description": "一切來得太快！ 克羅埃西亞還在角球戰術配合阿根廷已經攔截傳球轉換進攻了！ 小將前鋒Julian ALVAREZ 一個人從中場一條鞭殺入 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Qbxt54AYE1Q/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Qbxt54AYE1Q/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Qbxt54AYE1Q/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-13T20:11:31Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "O2a6UysVgqRn59Ggjqoz3bo5kBg",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "sF8rvmOq8R0"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-09T22:53:47Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】阿根廷續命成功 PK大戰門將神撲救！！",
+          "description": "阿根廷成功續命！隊史第五度闖進四強！ 門神Damian MARTINEZ扮演致勝關鍵先是擋下荷蘭隊長Virgil VAN DIJK 替阿根廷注入強心 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/sF8rvmOq8R0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/sF8rvmOq8R0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/sF8rvmOq8R0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-09T22:53:47Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vkK3nCnmSzsqMrIR8M2Rv4Q2b5E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "fIDCfJOzETw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-21T07:37:42Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】法媒質疑梅西進球無效 官方打臉回應/愛爾達電視20221221",
+          "description": "卡達世界盃雖然已經結束了但是話題持續延燒法國在冠軍戰不敵阿根廷最終屈居亞軍隨後有法國媒體報導阿根廷替補球員違規進場 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fIDCfJOzETw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fIDCfJOzETw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fIDCfJOzETw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-21T07:37:42Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "zzBZUoT8rzLufC4tSXisFM79oxw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "32qickBmpjc"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-09T21:27:25Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】#梅西 助攻、進球都沒問題 世足生涯第10顆進球出爐！！！",
+          "description": "今晚焦點就是#辣個男人#梅西先是完美助攻給隊友， 上天掉下來的12碼機會小組賽踢丟，這次就成功雪恥！ - 2022 FIFA世界盃™ ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/32qickBmpjc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/32qickBmpjc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/32qickBmpjc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-09T21:27:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "GePQSwPoMtl6ls_AMqFzLZRT9vU",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pRgem5aEgig"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-17T18:38:50Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】魔笛不留遺憾！克羅埃西亞2：1奪季軍/愛爾達電視20221218",
+          "description": "關心卡達世足季軍戰克羅埃西亞和摩洛哥於小組賽後再度狹路相逢兩隊沒踢出外界預期的神盾級大戰反而早早都在比賽前十分鐘就 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pRgem5aEgig/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pRgem5aEgig/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pRgem5aEgig/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-17T18:38:50Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "2vYAfZ6spHfXNwsNODHeQF-Dsnc",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "TnFknNGZO-4"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-01T21:34:34Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】日本大逆轉的奇蹟擊敗西班牙！堅忍不放棄的藍武士",
+          "description": "日本大逆轉的奇蹟！！！！ 堅忍不放棄的藍武士， 再次上演令人起雞皮疙瘩的逆轉戲碼啊～ 先靠著扳平功臣#堂安律， 再靠著三笘薰 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TnFknNGZO-4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TnFknNGZO-4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TnFknNGZO-4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-01T21:34:34Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "r71bg6ewBkb_YmDQUxpqYd4ZtDE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "nfgrKzLLUjM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-16T11:14:27Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】梅西紀錄製造機 冠軍賽繼續刷新歷史/愛爾達電視20221216",
+          "description": "至於12月18日晚間卡達世足賽冠軍戰即將登場阿根廷交手法國陣中當家巨星梅西(Lionel Messi)最後一舞表現備受關注第五度來到 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nfgrKzLLUjM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nfgrKzLLUjM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nfgrKzLLUjM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-16T11:14:27Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SXIHcKdnUIpP1yuLt9zZ1w4A1i8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "xBfh3Chvo6U"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-05T22:43:54Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】巴西上半場狂進四球 淘汰南韓晉級八強/愛爾達電視20221206",
+          "description": "2022卡達世界盃™太極虎南韓在16強對決森巴軍團巴西沒想到巴西開賽不到15分鐘就接連踢進2球甚至上半場就轟進4球終場以4：1 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xBfh3Chvo6U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xBfh3Chvo6U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xBfh3Chvo6U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-05T22:43:54Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "sSgy3RG5ooDbRZ72Mg-l4BObXbI",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "PuRz5-s2jbQ"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-09T20:06:45Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】克羅埃西亞就是要PK 擊敗巴西進四強/愛爾達電視20221210",
+          "description": "2022FIFA世界盃八強淘汰賽，格子軍團克羅埃西亞交手森巴軍團巴西，比賽以1：1進入PK大戰，克羅埃西亞前四點都進球，靠著 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PuRz5-s2jbQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PuRz5-s2jbQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PuRz5-s2jbQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-09T20:06:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "7UXQoU47AerrAiXle1JvFFnVRLQ",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "OC_EKQec5u8"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-26T22:33:45Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】梅西強勢破門！阿根廷首勝保住一線生機/愛爾達電視20221127",
+          "description": "世界盃足球賽小組賽C組阿根廷對決墨西哥兩隊都有著輸不得的壓力結果阿根廷靠著梅西Lionel Messi跟費南德茲Enzo Fernandez ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OC_EKQec5u8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OC_EKQec5u8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OC_EKQec5u8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-26T22:33:45Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "43pb3yYYy7aXiJNVcX2f82K-w9E",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "pSbY9pZzEJA"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-26T21:40:25Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】梅西超遠爆射、太帥太神了！阿根廷救世主來了！",
+          "description": "梅西超、遠、爆、射！太帥太神了！ 這個距離全場球迷都驚呆... 角度刁鑽連墨西哥吳鎮宇也擋不住， 果然還是要靠MESSI當阿根廷 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/pSbY9pZzEJA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/pSbY9pZzEJA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/pSbY9pZzEJA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-26T21:40:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "SdNhifpMGu6nnrARUVMJV25npss",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4A3znj83C-Y"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-19T05:32:38Z",
+          "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+          "title": "阿根廷奪下世足賽冠軍　尊榮遊行宛如嘉年華會－民視新聞",
+          "description": "【民視即時新聞】阿根廷奪下世足賽冠軍後，主辦國卡達就以最尊榮的方式來安排行程，全隊在球場獲頒大力士神盃後，全隊坐上 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4A3znj83C-Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4A3znj83C-Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4A3znj83C-Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "民視新聞網 Formosa TV News network",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-19T05:32:38Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "RiAvjZYv7iuDTxPy3hvrHB61loE",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "MHAmwRc1WFM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T10:46:35Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】姆巴佩進球回顧 閃電速度化身破門機器/愛爾達電視20221215",
+          "description": "2022卡達世界盃衛冕軍法國距離連霸只剩最後一步本屆世界盃進攻端有姆巴佩(Kylian Mbappé)化身最強進球機器不但兩度單場梅開 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MHAmwRc1WFM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MHAmwRc1WFM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MHAmwRc1WFM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T10:46:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JnwCok_afCt8G0Qg9NyKVC5v6ic",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "mjRAdB8L_rU"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-06T18:26:46Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】慘遭摩洛哥門神完封！西班牙PK大戰噩夢重演！",
+          "description": "門神一夫當關摩洛哥門將Yassine BOUNOU有多神？ 包含今日對上西班牙的PK大戰在內出賽4場比賽沒讓對手進任何一顆球！",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mjRAdB8L_rU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mjRAdB8L_rU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mjRAdB8L_rU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-06T18:26:46Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "bf5XbnJQM7EH1wNcr6MwtysPpfo",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jTMumsKS3hs"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-23T15:36:48Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】 日本後來居上逆轉德國 收下3分關鍵積分",
+          "description": "森保監督神調度日本在0-1劣勢下先由#三笘薰串連#南野拓實、#堂安律補刀緊接著#淺野拓磨單刀再度破門幫助日本後來居上逆轉 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jTMumsKS3hs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jTMumsKS3hs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jTMumsKS3hs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-23T15:36:48Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4IzHXS76oZafol-qAaEGE_SGs3M",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "P3JEhfZahWY"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-14T09:03:32Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】四強吞敗賽後痛哭 魔笛心碎球迷不捨/愛爾達電視20221214",
+          "description": "克羅埃西亞零比三不敵阿根廷止步四強比賽第81分鐘名將Luka Modric被換下場賽後掩面痛哭的畫面令球迷心碎卡達世足也可能是魔 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P3JEhfZahWY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P3JEhfZahWY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P3JEhfZahWY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-14T09:03:32Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "VfA4diokPx1Dq9X_SAVIIyLjNV8",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "dCIcwBq6wQs"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-11T10:35:26Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】法國2：1淘汰英格蘭 續朝衛冕路挺進/愛爾達電視20221211",
+          "description": "卡達世界盃足球賽™最後一張四強門票爭奪戰由英格蘭和法國上演頂尖對決結果三獅軍團隊長Harry Kane 下半場第二度操刀12碼罰球 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dCIcwBq6wQs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dCIcwBq6wQs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dCIcwBq6wQs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-11T10:35:26Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "BBqGZyw0HVQ2MmL-RAOY4ohkTGk",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "vTFDyEzUckw"
+        },
+        "snippet": {
+          "publishedAt": "2022-11-23T16:45:51Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】日本旅德國腳建功 小組賽擊退強敵德國/愛爾達電視20221124",
+          "description": "世界盃足球賽不斷爆出冷門，日本藍武士在卡達世界盃小組賽第一戰交手德國，儘管德國靠罰球率先破門，不過下半場日本靠著兩名 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vTFDyEzUckw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vTFDyEzUckw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vTFDyEzUckw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-11-23T16:45:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "JT6kR45Lm-wOB4skbKLqEsHPg4o",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "qPHvE67o7T8"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-05T19:26:35Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】世足首場PK大戰！克羅埃西亞勝日本進八強/愛爾達電視20221206",
+          "description": "2022卡達世界盃16強日本隊交手上一屆亞軍克羅埃西亞兩隊上下半場各進一球結果1：1平手局面踢完延長賽還是無法分出高下最後 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qPHvE67o7T8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qPHvE67o7T8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qPHvE67o7T8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-05T19:26:35Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "dB-tYiqoIRMFmqbYFbfPecnNpTw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "jYr_JPXIHrw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-10T01:47:36Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】血流成河 黃牌滿天飛全紀錄 改寫FIFA世界盃史上單場最多黃牌紀錄!",
+          "description": "嗶嗶嗶~嗶嗶嗶#血流成河全紀錄！ 火爆場面、清板凳、哨音滿天飛！ #不按牌理出牌#一言不合就給牌- 八強戰阿根廷vs荷蘭兩隊吃牌 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jYr_JPXIHrw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jYr_JPXIHrw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jYr_JPXIHrw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-10T01:47:36Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "4iILNjTuxq4uRg-7EfCzCGnFRek",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "O09ykIfKWOg"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-06T21:37:25Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【2022 FIFA世界盃™】新星的誕生！世足首位帽子戲法的男人Ramos！",
+          "description": "新星的誕生！今晚最火燙#帽子戲法的男人！ 他是效力本菲卡21歲的Goncalo Ramos 初次先發就證明了：我，是葡萄牙未來的棟樑！",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O09ykIfKWOg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O09ykIfKWOg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O09ykIfKWOg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-06T21:37:25Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "vuaoRNtvUhfrqs_xXcN4hqRqiaw",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "cwVderhV9cw"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-15T10:42:06Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】世足賽吸睛 MOD瀏覽次數衝破1.3億次/愛爾達電視20221215",
+          "description": "世界盃足球賽即將迎來最高潮的冠軍決戰在中華電信MOD的世足專區也早就突破1.3億次的瀏覽量接下來法國對決阿根廷法國將挑戰 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cwVderhV9cw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cwVderhV9cw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cwVderhV9cw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-15T10:42:06Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "w1g5dGXivNT6jmjCwvA28KZgmZM",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "kO1VtC3Ozek"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-13T23:04:59Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】梅西超越戰神！成阿根廷世界盃進球王/愛爾達電視20221214",
+          "description": "阿根廷順利晉級冠軍戰而當家球神梅西(Lionel Messi)在四強戰中也締造無數紀錄包括踢進世界盃生涯第11球超越「戰神」巴提斯圖 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kO1VtC3Ozek/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kO1VtC3Ozek/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kO1VtC3Ozek/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-13T23:04:59Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "etag": "mrvbhrTP-oZGSKg2knHpZcNhkFA",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "ZvojF5XQhVM"
+        },
+        "snippet": {
+          "publishedAt": "2022-12-03T22:26:21Z",
+          "channelId": "UCCQvP4hsRW9emj0meGk15jg",
+          "title": "【世足快報】梅西一千場出賽進球 阿根廷前進八強/愛爾達電視20221204新聞",
+          "description": "35歲的Lionel Messi生涯第一千場出賽，就在卡達世界盃16強淘汰賽，阿根廷面對澳大利亞靠著Messi上半場破門取得領先，終場 ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZvojF5XQhVM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZvojF5XQhVM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZvojF5XQhVM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "愛爾達體育家族 ELTA Sports",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-12-03T22:26:21Z"
+        }
+      }
+    ]
+  }
+  
+  
