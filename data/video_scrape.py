@@ -28,7 +28,7 @@ def init(): #initialize authentication
         api_service_name, api_version, credentials=credentials)
     return youtube
 
-def vids(youtube, vid): # get video infos
+def get_vids_info(youtube, vid): # get video infos
     # Disable OAuthlib's HTTPS verification when running locally.
     # *DO NOT* leave this option enabled in production.
 
@@ -144,22 +144,19 @@ def main(youtube, keyword, method):
     if method == 'vid':
         f = open(keyword + '_search.json')
         data = json.load(f)
-        vids_info = []
-        for i in data['items']:
-            if i['id']['kind'] == "youtube#video":
-                vids_info.append(vids(youtube,i['id']['videoId']))
-        vids_dict = {}
-        vids_dict['info'] = vids_info
+        vids = list(data.keys())
+        vids_info = {}
+        for vid in vids:
+
+            vids_info[vid] = (get_vids_info(youtube, vid))
         with open(keyword+'_vid.json', 'w', encoding='utf-8') as f:
-            json.dump(vids_dict, f, ensure_ascii=False, indent=4)
+            json.dump(vids_info, f, ensure_ascii=False, indent=4)
     
     elif method == 'comment':
         f = open(keyword + '_vid.json')
         data = json.load(f)
         coms_dict = {}
-        for video in data['info']:
-            vid = video['items'][0]['id']
-            print(vid)
+        for vid in data:
             # test_vid = 'm14tO5rLIIY'
             comments = download_comments(youtube, vid)
             if len(comments) == 0:

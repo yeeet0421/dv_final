@@ -1,1714 +1,3810 @@
 {
-    "kind": "youtube#searchListResponse",
-    "etag": "SsoNbnTHhsT5z8NX1UT_D5LoaPE",
-    "nextPageToken": "CDIQAA",
-    "regionCode": "TW",
-    "pageInfo": {
-      "totalResults": 1000000,
-      "resultsPerPage": 50
-    },
-    "items": [
-      {
+    "Owke6Quk7T0": {
         "kind": "youtube#searchResult",
         "etag": "CwYXgGKJiQ9kAVEG4ybgTHmEgJw",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "Owke6Quk7T0"
+            "kind": "youtube#video",
+            "videoId": "Owke6Quk7T0"
         },
         "snippet": {
-          "publishedAt": "2022-10-04T13:31:55Z",
-          "channelId": "UCa32OtZqhDqDqCHeWO477qg",
-          "title": "台灣地震監視(地震速報、強震即時警報)",
-          "description": "地震無法有效預測，請勿在聊天室發表、轉載、引用或暗喻任何有關地震預測相關言論或文章，以免觸犯氣象法或是社會秩序維護法 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Owke6Quk7T0/default_live.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-10-04T13:31:55Z",
+            "channelId": "UCa32OtZqhDqDqCHeWO477qg",
+            "title": "台灣地震監視(地震速報、強震即時警報)",
+            "description": "地震無法有效預測，請勿在聊天室發表、轉載、引用或暗喻任何有關地震預測相關言論或文章，以免觸犯氣象法或是社會秩序維護法 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Owke6Quk7T0/default_live.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Owke6Quk7T0/mqdefault_live.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Owke6Quk7T0/hqdefault_live.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Owke6Quk7T0/mqdefault_live.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Owke6Quk7T0/hqdefault_live.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台灣地震監視",
-          "liveBroadcastContent": "live",
-          "publishTime": "2022-10-04T13:31:55Z"
+            "channelTitle": "台灣地震監視",
+            "liveBroadcastContent": "live",
+            "publishTime": "2022-10-04T13:31:55Z"
         }
-      },
-      {
+    },
+    "RIEqR09F6QQ": {
         "kind": "youtube#searchResult",
         "etag": "s_FEb4qUsBlE9GqndMq4JPqUJVI",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "RIEqR09F6QQ"
+            "kind": "youtube#video",
+            "videoId": "RIEqR09F6QQ"
         },
         "snippet": {
-          "publishedAt": "2022-12-15T09:44:55Z",
-          "channelId": "UCIU8ha-NHmLjtUwU7dFiXUA",
-          "title": "6.2地震！花蓮機車行老闆沒跑　監視器拍下「1舉動」惹哭網 #shorts ｜三立新聞網 SETN.com",
-          "description": "觀看【三立即時新聞】重大消息不斷更新：http://bit.ly/36jnhEA ◎訂閱【三立新聞網YouTube】看新聞直播：http://bit.ly/2W7jK6E ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/RIEqR09F6QQ/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-12-15T09:44:55Z",
+            "channelId": "UCIU8ha-NHmLjtUwU7dFiXUA",
+            "title": "6.2地震！花蓮機車行老闆沒跑　監視器拍下「1舉動」惹哭網 #shorts ｜三立新聞網 SETN.com",
+            "description": "觀看【三立即時新聞】重大消息不斷更新：http://bit.ly/36jnhEA ◎訂閱【三立新聞網YouTube】看新聞直播：http://bit.ly/2W7jK6E ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/RIEqR09F6QQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/RIEqR09F6QQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/RIEqR09F6QQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/RIEqR09F6QQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/RIEqR09F6QQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "三立新聞網SETN",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-15T09:44:55Z"
+            "channelTitle": "三立新聞網SETN",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T09:44:55Z"
         }
-      },
-      {
+    },
+    "-BbWc_Y7DNA": {
         "kind": "youtube#searchResult",
         "etag": "a2uLJ7FOufAf7Uiy0ywOcTWFuGA",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "-BbWc_Y7DNA"
+            "kind": "youtube#video",
+            "videoId": "-BbWc_Y7DNA"
         },
         "snippet": {
-          "publishedAt": "2022-12-24T04:00:00Z",
-          "channelId": "UC0YAgB-kCdyxBX1lB-oS7cg",
-          "title": "玉山單攻突遇芮氏規模6.2大地震！慘遭落石群擊中...",
-          "description": "12月15日是我們的夢靨...當天在玉山登頂前遭遇6.2級大地震，瞬間被成千上萬的落實攻擊... 感謝當天所以幫助我們的大家！由衷感恩 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-BbWc_Y7DNA/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-12-24T04:00:00Z",
+            "channelId": "UC0YAgB-kCdyxBX1lB-oS7cg",
+            "title": "玉山單攻突遇芮氏規模6.2大地震！慘遭落石群擊中...",
+            "description": "12月15日是我們的夢靨...當天在玉山登頂前遭遇6.2級大地震，瞬間被成千上萬的落實攻擊... 感謝當天所以幫助我們的大家！由衷感恩 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-BbWc_Y7DNA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-BbWc_Y7DNA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-BbWc_Y7DNA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-BbWc_Y7DNA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-BbWc_Y7DNA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "旅遊真台灣 Travel North Taiwan",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-24T04:00:00Z"
+            "channelTitle": "旅遊真台灣 Travel North Taiwan",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-24T04:00:00Z"
         }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "62_pkbAJ-EWlUOTXtSmrrMTmwqo",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "TcQqnFKHY0w"
-        },
-        "snippet": {
-          "publishedAt": "2022-09-19T01:57:52Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】最新》震到芭比Q了...烤肉到一半瞬間狂奔@newsebc",
-          "description": "昨天下午發生地震，各地陸續傳出災情，當時有民眾正在烤肉，烤到一半什麼都不管、就先逃，過程中還差點摔倒。 訂閱【東森 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/TcQqnFKHY0w/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/TcQqnFKHY0w/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/TcQqnFKHY0w/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T01:57:52Z"
-        }
-      },
-      {
+    },
+    "5Tsrn270Syo": {
         "kind": "youtube#searchResult",
         "etag": "FcTqNM9Ni2rBn7apABgKVJpHoJE",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "5Tsrn270Syo"
+            "kind": "youtube#video",
+            "videoId": "5Tsrn270Syo"
         },
         "snippet": {
-          "publishedAt": "2022-11-22T02:46:36Z",
-          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
-          "title": "大地震有前兆？AI模型盼預測地震降低災害【發現科學】",
-          "description": "AI #地震#大數據2022.11.22【發現科學】AI大數據有望幫助我們提早預測地震。中研院聯手國網中心，以中央大學劉正彥教授的研究 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/5Tsrn270Syo/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-11-22T02:46:36Z",
+            "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+            "title": "大地震有前兆？AI模型盼預測地震降低災害【發現科學】",
+            "description": "AI #地震#大數據2022.11.22【發現科學】AI大數據有望幫助我們提早預測地震。中研院聯手國網中心，以中央大學劉正彥教授的研究 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5Tsrn270Syo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5Tsrn270Syo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5Tsrn270Syo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/5Tsrn270Syo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/5Tsrn270Syo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台視新聞 TTV NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-11-22T02:46:36Z"
+            "channelTitle": "台視新聞 TTV NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-22T02:46:36Z"
         }
-      },
-      {
+    },
+    "qZSFESOXFdY": {
         "kind": "youtube#searchResult",
         "etag": "wsZpn8kwAI9RZJoXEjUhmLTscpk",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "qZSFESOXFdY"
+            "kind": "youtube#video",
+            "videoId": "qZSFESOXFdY"
         },
         "snippet": {
-          "publishedAt": "2022-09-21T06:48:56Z",
-          "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
-          "title": "918地震後送暖 玉里麵店特意開店讓救難隊吃麵│中視新聞 20220921",
-          "description": "18號大地震發生時、監視器拍下花蓮一間知名玉里麵店家，店裡瘋狂搖晃的驚恐畫面。地震後、店家雖然暫停營業、不過遇到找不到 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qZSFESOXFdY/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-21T06:48:56Z",
+            "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
+            "title": "918地震後送暖 玉里麵店特意開店讓救難隊吃麵│中視新聞 20220921",
+            "description": "18號大地震發生時、監視器拍下花蓮一間知名玉里麵店家，店裡瘋狂搖晃的驚恐畫面。地震後、店家雖然暫停營業、不過遇到找不到 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qZSFESOXFdY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qZSFESOXFdY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qZSFESOXFdY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qZSFESOXFdY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qZSFESOXFdY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "中視新聞",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-21T06:48:56Z"
+            "channelTitle": "中視新聞",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-21T06:48:56Z"
         }
-      },
-      {
+    },
+    "PVB-y48tMVQ": {
         "kind": "youtube#searchResult",
         "etag": "uRgxNOvlj_4Z33AKxvHkobaMEe0",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "PVB-y48tMVQ"
+            "kind": "youtube#video",
+            "videoId": "PVB-y48tMVQ"
         },
         "snippet": {
-          "publishedAt": "2022-09-19T11:36:46Z",
-          "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
-          "title": "地震前詭異聲響...卓溪山發出&quot;低沈山嗚&quot; 登山學員曝地震當下&quot;人被甩出去&quot; 更直擊地震前天空異相! 藍白色地震光干擾無線電│記者 戴偉臣 王彥婷│【台灣要聞】20220919│三立iNEWS",
-          "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/PVB-y48tMVQ/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-19T11:36:46Z",
+            "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+            "title": "地震前詭異聲響...卓溪山發出&quot;低沈山嗚&quot; 登山學員曝地震當下&quot;人被甩出去&quot; 更直擊地震前天空異相! 藍白色地震光干擾無線電│記者 戴偉臣 王彥婷│【台灣要聞】20220919│三立iNEWS",
+            "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PVB-y48tMVQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PVB-y48tMVQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PVB-y48tMVQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/PVB-y48tMVQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/PVB-y48tMVQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "三立iNEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T11:36:46Z"
+            "channelTitle": "三立iNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T11:36:46Z"
         }
-      },
-      {
+    },
+    "IarHtjJuH6Q": {
         "kind": "youtube#searchResult",
         "etag": "Vk2SxxrTrq_2z9F2ekK2wj7umdg",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "IarHtjJuH6Q"
+            "kind": "youtube#video",
+            "videoId": "IarHtjJuH6Q"
         },
         "snippet": {
-          "publishedAt": "2022-10-05T11:00:10Z",
-          "channelId": "UC0UN_9ETd4_M_ZlkIncA18g",
-          "title": "921大地震23週年，台灣沉痛且深刻的一天。｜回望921｜公視 #獨立特派員 第770集 20221005",
-          "description": "花東917關山、918池上的強震，讓中央山脈活動斷層的調查，再度引起關注與討論。地震學家們利用AI地震偵測系統偵測發現，這次 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IarHtjJuH6Q/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-10-05T11:00:10Z",
+            "channelId": "UC0UN_9ETd4_M_ZlkIncA18g",
+            "title": "921大地震23週年，台灣沉痛且深刻的一天。｜回望921｜公視 #獨立特派員 第770集 20221005",
+            "description": "花東917關山、918池上的強震，讓中央山脈活動斷層的調查，再度引起關注與討論。地震學家們利用AI地震偵測系統偵測發現，這次 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IarHtjJuH6Q/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IarHtjJuH6Q/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IarHtjJuH6Q/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IarHtjJuH6Q/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IarHtjJuH6Q/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "公共電視-獨立特派員 PTS INNEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-10-05T11:00:10Z"
+            "channelTitle": "公共電視-獨立特派員 PTS INNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-05T11:00:10Z"
         }
-      },
-      {
+    },
+    "dANeHTGYyFI": {
         "kind": "youtube#searchResult",
         "etag": "uQNeUFKf6XAczMCwGuZXGdXD_zw",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "dANeHTGYyFI"
+            "kind": "youtube#video",
+            "videoId": "dANeHTGYyFI"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T16:00:20Z",
-          "channelId": "UCIECJyQ6meDyN-UnVHgXAMA",
-          "title": "【妹子們住20樓地震一甩嚇哭 下秒全打給男友最後超心酸..】IG｜lu416_、mark_pianist、22k_meme_yoshi、s.ljbmc",
-          "description": "後面那句最可怕   (白編) #創作授權【IG｜lu416_、mark_pianist、22k_meme_yoshi、s.ljbmc】 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/dANeHTGYyFI/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T16:00:20Z",
+            "channelId": "UCIECJyQ6meDyN-UnVHgXAMA",
+            "title": "【妹子們住20樓地震一甩嚇哭 下秒全打給男友最後超心酸..】IG｜lu416_、mark_pianist、22k_meme_yoshi、s.ljbmc",
+            "description": "後面那句最可怕   (白編) #創作授權【IG｜lu416_、mark_pianist、22k_meme_yoshi、s.ljbmc】 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/dANeHTGYyFI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/dANeHTGYyFI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/dANeHTGYyFI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/dANeHTGYyFI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/dANeHTGYyFI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台灣達人秀",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T16:00:20Z"
+            "channelTitle": "台灣達人秀",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T16:00:20Z"
         }
-      },
-      {
+    },
+    "20WXKH_G6vM": {
         "kind": "youtube#searchResult",
         "etag": "kqlx932Th91UCcbVi06z8k-MlCE",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "20WXKH_G6vM"
+            "kind": "youtube#video",
+            "videoId": "20WXKH_G6vM"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T00:35:40Z",
-          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-          "title": "專家:這個地震很奇怪! 近50年這地區地震很少｜TVBS新聞",
-          "description": "地震#地區#震央#TVBS新聞#TVBS直播#TVBS新聞網○訂閱【TVBS國際+】第一時間掌握全球新聞脈動  https://tvbs.pse.is/44d3yw ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/20WXKH_G6vM/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T00:35:40Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "專家:這個地震很奇怪! 近50年這地區地震很少｜TVBS新聞",
+            "description": "地震#地區#震央#TVBS新聞#TVBS直播#TVBS新聞網○訂閱【TVBS國際+】第一時間掌握全球新聞脈動  https://tvbs.pse.is/44d3yw ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/20WXKH_G6vM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/20WXKH_G6vM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/20WXKH_G6vM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/20WXKH_G6vM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/20WXKH_G6vM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T00:35:40Z"
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T00:35:40Z"
         }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "YtS6YTdO7NaNNG2fYImJeaVjd6g",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "57k99Toksq4"
-        },
-        "snippet": {
-          "publishedAt": "2022-12-31T05:58:43Z",
-          "channelId": "UCNsidkYpIAQ4QaufptQBPHQ",
-          "title": "【LIVE】昼の最新気象ニュース・地震情報 2022年12月31日(土)／大晦日は穏やかな空〈ウェザーニュースLiVE〉",
-          "description": "【最新の天気に関する情報】 お天気アプリ「ウェザーニュース」からも随時最新情報をお伝えしています ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/57k99Toksq4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/57k99Toksq4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/57k99Toksq4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "ウェザーニュース",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-31T05:58:43Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "D6Auzm4XDlZlCWaq3UKUi5sqv4w",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "FAJMYWQEE7I"
-        },
-        "snippet": {
-          "publishedAt": "2022-09-06T06:37:40Z",
-          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
-          "title": "四川地震新影片曝 地動山搖 道路裂 如災難片｜TVBS新聞",
-          "description": "這次規模6.8的川震屬於淺層地震，許多民眾拍下地動山搖，恐怖的地震瞬間。除了大面積山崩，街道劇烈搖晃，震央附近的村莊建築 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/FAJMYWQEE7I/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/FAJMYWQEE7I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/FAJMYWQEE7I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS 優選頻道",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-06T06:37:40Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "CXHm5fuT_nUaFE_5LKPHVcwzDp8",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "lhQJRSnyEx4"
-        },
-        "snippet": {
-          "publishedAt": "2022-12-15T12:25:24Z",
-          "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
-          "title": "受花蓮外海規模6.2地震影響 玉山落石砸傷山友｜20221215 公視晚間新聞",
-          "description": "今（15）日中午的12時03分，花蓮外海發生規模6.2地震，全台有感。氣象局分析，地震原因是因為逆衝型的地質破裂，而能量是 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/lhQJRSnyEx4/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/lhQJRSnyEx4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/lhQJRSnyEx4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "公視新聞網",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-15T12:25:24Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "DqOVYipcghiMI12skXAsk4vBU58",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "WUukiY3jYqc"
-        },
-        "snippet": {
-          "publishedAt": "2022-09-17T14:38:43Z",
-          "channelId": "UCFsNxYnUEs4tcqyddJhW43g",
-          "title": "（地震）和橙橙聊天到一半突然地震!!2022/9/17",
-          "description": "地震每週二四六晚上18:30準時上片~ 訂閱喪屍老爸：https://goo.gl/Dsyej5 訂閱喪屍老爸生活頻道：https://is.gd/InjMrh 喪屍老 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/WUukiY3jYqc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/WUukiY3jYqc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/WUukiY3jYqc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "喪屍老爸",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-17T14:38:43Z"
-        }
-      },
-      {
+    },
+    "eKxwyc61Jbk": {
         "kind": "youtube#searchResult",
         "etag": "duet_GPWAHQeYdjPZ8jfdofg7bA",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "eKxwyc61Jbk"
+            "kind": "youtube#video",
+            "videoId": "eKxwyc61Jbk"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T12:43:20Z",
-          "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
-          "title": "雙北「山腳斷層」被點名最危險 若地震台北盆地恐多處陷落｜20220920 公視晚間新聞",
-          "description": "花東地區大地震造成各地災損，針對全台共有36條活動斷層，橫跨台北、新北的「山腳斷層」，被點名最危險。氣象局地震中心表示 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/eKxwyc61Jbk/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T12:43:20Z",
+            "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
+            "title": "雙北「山腳斷層」被點名最危險 若地震台北盆地恐多處陷落｜20220920 公視晚間新聞",
+            "description": "花東地區大地震造成各地災損，針對全台共有36條活動斷層，橫跨台北、新北的「山腳斷層」，被點名最危險。氣象局地震中心表示 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eKxwyc61Jbk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eKxwyc61Jbk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eKxwyc61Jbk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/eKxwyc61Jbk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/eKxwyc61Jbk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "公視新聞網",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T12:43:20Z"
+            "channelTitle": "公視新聞網",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T12:43:20Z"
         }
-      },
-      {
+    },
+    "P9jHRVkVAfU": {
         "kind": "youtube#searchResult",
         "etag": "gEQx28h4xavRWHBuFQdsAirCaIg",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "P9jHRVkVAfU"
+            "kind": "youtube#video",
+            "videoId": "P9jHRVkVAfU"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T02:42:33Z",
-          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
-          "title": "進入「活躍期」還會再震一個月   亞洲地震頻 未來必有「強震」? | 十點不一樣 20220919",
-          "description": "中央氣象局表示，未來2天仍有規模5以上餘震，目前餘震發生頻率及規模已有降低的趨勢。今年規模6以上地震高於平均值，以地震 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/P9jHRVkVAfU/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T02:42:33Z",
+            "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+            "title": "進入「活躍期」還會再震一個月   亞洲地震頻 未來必有「強震」? | 十點不一樣 20220919",
+            "description": "中央氣象局表示，未來2天仍有規模5以上餘震，目前餘震發生頻率及規模已有降低的趨勢。今年規模6以上地震高於平均值，以地震 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/P9jHRVkVAfU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/P9jHRVkVAfU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/P9jHRVkVAfU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/P9jHRVkVAfU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/P9jHRVkVAfU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS 優選頻道",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T02:42:33Z"
+            "channelTitle": "TVBS 優選頻道",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T02:42:33Z"
         }
-      },
-      {
+    },
+    "ctz9mlRtju4": {
         "kind": "youtube#searchResult",
         "etag": "aua8ILDP9h6hz1BqXMjaTA4F_28",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "ctz9mlRtju4"
+            "kind": "youtube#video",
+            "videoId": "ctz9mlRtju4"
         },
         "snippet": {
-          "publishedAt": "2022-09-19T08:30:13Z",
-          "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
-          "title": "台灣台東6.8級地震：大橋斷裂、房屋倒塌，未來幾天或仍有餘震－ BBC News 中文",
-          "description": "9月19日早10時許，台灣花蓮發生顯著有感地震，芮氏規模5.9（里氏、黎克特制5.9級）。 前一日（18日）台東發生規模6.8強震， ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ctz9mlRtju4/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-19T08:30:13Z",
+            "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+            "title": "台灣台東6.8級地震：大橋斷裂、房屋倒塌，未來幾天或仍有餘震－ BBC News 中文",
+            "description": "9月19日早10時許，台灣花蓮發生顯著有感地震，芮氏規模5.9（里氏、黎克特制5.9級）。 前一日（18日）台東發生規模6.8強震， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ctz9mlRtju4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ctz9mlRtju4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ctz9mlRtju4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ctz9mlRtju4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ctz9mlRtju4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "BBC News 中文",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T08:30:13Z"
+            "channelTitle": "BBC News 中文",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T08:30:13Z"
         }
-      },
-      {
+    },
+    "AqddxTP9-N4": {
         "kind": "youtube#searchResult",
         "etag": "5blb2vwyGD8_XgGTl15llLvHzDo",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "AqddxTP9-N4"
+            "kind": "youtube#video",
+            "videoId": "AqddxTP9-N4"
         },
         "snippet": {
-          "publishedAt": "2022-12-23T21:32:15Z",
-          "channelId": "UCa32OtZqhDqDqCHeWO477qg",
-          "title": "2022年12月24日 臺東縣池上鄉地震(地震速報、強震即時警報)",
-          "description": "跳至地震速報發佈時間點00:14 此次地震與速報相關資訊https://eew.ee/1110319 ○○ 影片內容○○ 左上方的水瓶與懸掛物是用來 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/AqddxTP9-N4/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-12-23T21:32:15Z",
+            "channelId": "UCa32OtZqhDqDqCHeWO477qg",
+            "title": "2022年12月24日 臺東縣池上鄉地震(地震速報、強震即時警報)",
+            "description": "跳至地震速報發佈時間點00:14 此次地震與速報相關資訊https://eew.ee/1110319 ○○ 影片內容○○ 左上方的水瓶與懸掛物是用來 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AqddxTP9-N4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AqddxTP9-N4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AqddxTP9-N4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/AqddxTP9-N4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/AqddxTP9-N4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台灣地震監視",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-23T21:32:15Z"
+            "channelTitle": "台灣地震監視",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-23T21:32:15Z"
         }
-      },
-      {
+    },
+    "I4rioyzkWfc": {
         "kind": "youtube#searchResult",
         "etag": "uOLMBxqSeOrMCyx6FnRIb9gTmig",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "I4rioyzkWfc"
+            "kind": "youtube#video",
+            "videoId": "I4rioyzkWfc"
         },
         "snippet": {
-          "publishedAt": "2022-07-27T07:40:30Z",
-          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
-          "title": "發震潛勢分析  50年內規模7.0地震 發生率破5成",
-          "description": "地震#發震機率#斷層昨天(26)氣象局的臉書粉絲專頁，公布了這一張「未來50年台灣發震機率圖」，引發民眾討論！這是台灣地震 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/I4rioyzkWfc/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-07-27T07:40:30Z",
+            "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+            "title": "發震潛勢分析  50年內規模7.0地震 發生率破5成",
+            "description": "地震#發震機率#斷層昨天(26)氣象局的臉書粉絲專頁，公布了這一張「未來50年台灣發震機率圖」，引發民眾討論！這是台灣地震 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/I4rioyzkWfc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/I4rioyzkWfc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/I4rioyzkWfc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/I4rioyzkWfc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/I4rioyzkWfc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台視新聞 TTV NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-27T07:40:30Z"
+            "channelTitle": "台視新聞 TTV NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-07-27T07:40:30Z"
         }
-      },
-      {
+    },
+    "40F0U1hAYdY": {
         "kind": "youtube#searchResult",
         "etag": "TAQ1tQ8Tx7bXn_siNc2NfY3vT5M",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "40F0U1hAYdY"
+            "kind": "youtube#video",
+            "videoId": "40F0U1hAYdY"
         },
         "snippet": {
-          "publishedAt": "2022-09-19T04:06:01Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】差三天...池上6.8強震跟921「三數據」超雷同！ 學者示警下個大震恐在這 @東森新聞 CH51",
-          "description": "【台東地震】驚魂星期日18號下午震不停國家警報狂響【台東地震】最新》差3天池上6.8強震跟921大地震時間、深度超接近【地震 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/40F0U1hAYdY/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-19T04:06:01Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】差三天...池上6.8強震跟921「三數據」超雷同！ 學者示警下個大震恐在這 @東森新聞 CH51",
+            "description": "【台東地震】驚魂星期日18號下午震不停國家警報狂響【台東地震】最新》差3天池上6.8強震跟921大地震時間、深度超接近【地震 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/40F0U1hAYdY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/40F0U1hAYdY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/40F0U1hAYdY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/40F0U1hAYdY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/40F0U1hAYdY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T04:06:01Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T04:06:01Z"
         }
-      },
-      {
+    },
+    "UkiPCPxkoiM": {
         "kind": "youtube#searchResult",
         "etag": "ECwAdfTioEFTE6N_KyJQXWFx-0o",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "UkiPCPxkoiM"
+            "kind": "youtube#video",
+            "videoId": "UkiPCPxkoiM"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T08:23:46Z",
-          "channelId": "UCg8EwsqYmiw7G267xxPyXsg",
-          "title": "6.8地震撼動全台！北捷停駛畫面曝  乘客驚：比昨天大｜NOWnews",
-          "description": "地震#6.8 #台東#桃園#停駛#北捷詳細報導:https://www.nownews.com/news/5935644 ─【NOWnews今日新聞】─ ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/UkiPCPxkoiM/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T08:23:46Z",
+            "channelId": "UCg8EwsqYmiw7G267xxPyXsg",
+            "title": "6.8地震撼動全台！北捷停駛畫面曝  乘客驚：比昨天大｜NOWnews",
+            "description": "地震#6.8 #台東#桃園#停駛#北捷詳細報導:https://www.nownews.com/news/5935644 ─【NOWnews今日新聞】─ ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UkiPCPxkoiM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UkiPCPxkoiM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UkiPCPxkoiM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/UkiPCPxkoiM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/UkiPCPxkoiM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "NOWnews",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T08:23:46Z"
+            "channelTitle": "NOWnews",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T08:23:46Z"
         }
-      },
-      {
+    },
+    "CgRALtmMCjo": {
         "kind": "youtube#searchResult",
         "etag": "k8wUe83YFxExpm4CbmvauhS7wcQ",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "CgRALtmMCjo"
+            "kind": "youtube#video",
+            "videoId": "CgRALtmMCjo"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T14:55:19Z",
-          "channelId": "UCzZe-zMu-YgVFQfDmsFG_VQ",
-          "title": "地震瞬間聽見山鳴聲! 整座山劇烈搖晃驚魂",
-          "description": "地牛翻身，花蓮玉里卓溪山超有感。民眾拍到，地震當下，山上一陣天搖地晃，就像整座山被拿起來猛甩，人都站不穩被晃倒在地， ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/CgRALtmMCjo/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T14:55:19Z",
+            "channelId": "UCzZe-zMu-YgVFQfDmsFG_VQ",
+            "title": "地震瞬間聽見山鳴聲! 整座山劇烈搖晃驚魂",
+            "description": "地牛翻身，花蓮玉里卓溪山超有感。民眾拍到，地震當下，山上一陣天搖地晃，就像整座山被拿起來猛甩，人都站不穩被晃倒在地， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/CgRALtmMCjo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/CgRALtmMCjo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/CgRALtmMCjo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/CgRALtmMCjo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/CgRALtmMCjo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TTV LIVE 台視直播",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T14:55:19Z"
+            "channelTitle": "TTV LIVE 台視直播",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T14:55:19Z"
         }
-      },
-      {
+    },
+    "MO5eIZQivN8": {
         "kind": "youtube#searchResult",
         "etag": "W_brH4alAlelQAY91hY_zp4vpns",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "MO5eIZQivN8"
+            "kind": "youtube#video",
+            "videoId": "MO5eIZQivN8"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T03:02:52Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】最新》打臉「餘震北移說」 前氣象局長：我的老天鵝！@newsebc",
-          "description": "台東池上18日發生芮氏規模6.8強震後，有氣象專家指出餘震震央有往北移動的趨勢，引起民眾關注。對此，中央氣象局前局長辛在勤 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/MO5eIZQivN8/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T03:02:52Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】最新》打臉「餘震北移說」 前氣象局長：我的老天鵝！@newsebc",
+            "description": "台東池上18日發生芮氏規模6.8強震後，有氣象專家指出餘震震央有往北移動的趨勢，引起民眾關注。對此，中央氣象局前局長辛在勤 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MO5eIZQivN8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MO5eIZQivN8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MO5eIZQivN8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/MO5eIZQivN8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/MO5eIZQivN8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T03:02:52Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T03:02:52Z"
         }
-      },
-      {
+    },
+    "m5TKA2dDkfc": {
         "kind": "youtube#searchResult",
         "etag": "YIrsf145E0pIQiUN6EUyjHf6BDs",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "m5TKA2dDkfc"
+            "kind": "youtube#video",
+            "videoId": "m5TKA2dDkfc"
         },
         "snippet": {
-          "publishedAt": "2022-12-15T10:08:54Z",
-          "channelId": "UC5l1Yto5oOIgRXlI4p4VKbw",
-          "title": "#shorts 花蓮6.2地震瞬間直擊@CtiTv",
-          "description": "地震#花蓮#規模6.2#5弱#釣蝦場#吊燈#地震瞬間#磁磚#龜裂#氣象局#餘震✨中天數位媒體【24小時新聞 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/m5TKA2dDkfc/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-12-15T10:08:54Z",
+            "channelId": "UC5l1Yto5oOIgRXlI4p4VKbw",
+            "title": "#shorts 花蓮6.2地震瞬間直擊@CtiTv",
+            "description": "地震#花蓮#規模6.2#5弱#釣蝦場#吊燈#地震瞬間#磁磚#龜裂#氣象局#餘震✨中天數位媒體【24小時新聞 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/m5TKA2dDkfc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/m5TKA2dDkfc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/m5TKA2dDkfc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/m5TKA2dDkfc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/m5TKA2dDkfc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "中天電視",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-15T10:08:54Z"
+            "channelTitle": "中天電視",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T10:08:54Z"
         }
-      },
-      {
+    },
+    "c_Uxemwe3Y8": {
         "kind": "youtube#searchResult",
         "etag": "SsDdyjCG7DY48T3OsThvcSoZIBw",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "c_Uxemwe3Y8"
+            "kind": "youtube#video",
+            "videoId": "c_Uxemwe3Y8"
         },
         "snippet": {
-          "publishedAt": "2022-12-15T05:48:56Z",
-          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-          "title": "規模6.2！地牛大翻身 花蓮12:03地震雙北狂搖｜TVBS新聞 #shorts",
-          "description": "花蓮#地震#雙北擠出零碎小時間，看看世界大新奇。讓你的生活永遠充滿新鮮事! 歡迎訂閱▻https://www.facebook.com/tvbsgkk ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/c_Uxemwe3Y8/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-12-15T05:48:56Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "規模6.2！地牛大翻身 花蓮12:03地震雙北狂搖｜TVBS新聞 #shorts",
+            "description": "花蓮#地震#雙北擠出零碎小時間，看看世界大新奇。讓你的生活永遠充滿新鮮事! 歡迎訂閱▻https://www.facebook.com/tvbsgkk ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/c_Uxemwe3Y8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/c_Uxemwe3Y8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/c_Uxemwe3Y8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/c_Uxemwe3Y8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/c_Uxemwe3Y8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-15T05:48:56Z"
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T05:48:56Z"
         }
-      },
-      {
+    },
+    "PAzoAWHDOT4": {
         "kind": "youtube#searchResult",
         "etag": "tnr7WjHbzvBEAaNtpqKS9Y5ANIM",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "PAzoAWHDOT4"
+            "kind": "youtube#video",
+            "videoId": "PAzoAWHDOT4"
         },
         "snippet": {
-          "publishedAt": "2022-09-19T01:58:14Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】獨家》講師教學員陷阱遇強震 驚嚇以為世界末日@東森新聞 CH51",
-          "description": "昨天發生強震當下，花蓮「卓溪鄉」登山協會有講師，帶著學員，正在山上，瞬間天搖地動，學員嚇到尖叫，講師也趴地防災。",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/PAzoAWHDOT4/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-19T01:58:14Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】獨家》講師教學員陷阱遇強震 驚嚇以為世界末日@東森新聞 CH51",
+            "description": "昨天發生強震當下，花蓮「卓溪鄉」登山協會有講師，帶著學員，正在山上，瞬間天搖地動，學員嚇到尖叫，講師也趴地防災。",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PAzoAWHDOT4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PAzoAWHDOT4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PAzoAWHDOT4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/PAzoAWHDOT4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/PAzoAWHDOT4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T01:58:14Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T01:58:14Z"
         }
-      },
-      {
+    },
+    "gBMDtXD1bUY": {
         "kind": "youtube#searchResult",
         "etag": "fI5EcPy16GgJc8f9FGpSB4Y_fcc",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "gBMDtXD1bUY"
+            "kind": "youtube#video",
+            "videoId": "gBMDtXD1bUY"
         },
         "snippet": {
-          "publishedAt": "2022-12-15T04:59:57Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "最新》連日好幾震！還有強震？地震中心最新說明@newsebc",
-          "description": "極淺層地震地震測報中心：板塊隱沒前碰撞轉彎釀地震全台6.2地震猛搖高雄捷運、輕軌暫停行駛6.2強震後又2餘震地震規模4.6、4.3 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/gBMDtXD1bUY/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-12-15T04:59:57Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "最新》連日好幾震！還有強震？地震中心最新說明@newsebc",
+            "description": "極淺層地震地震測報中心：板塊隱沒前碰撞轉彎釀地震全台6.2地震猛搖高雄捷運、輕軌暫停行駛6.2強震後又2餘震地震規模4.6、4.3 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gBMDtXD1bUY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gBMDtXD1bUY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gBMDtXD1bUY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/gBMDtXD1bUY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/gBMDtXD1bUY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-15T04:59:57Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T04:59:57Z"
         }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "3mKrTRXlVwgsfafCrjGHhld2DrY",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "FdWWJ4dTMYU"
-        },
-        "snippet": {
-          "publishedAt": "2022-12-17T09:39:59Z",
-          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-          "title": "世界最大水族箱爆炸!民驚醒:威力像地震 初步研判疑「冷到爆」｜TVBS新聞 @TVBSNEWS01",
-          "description": "德國柏林的雷迪森酒店水族館是全球旅客的熱門景點之一，因為大家都衝著裡面這座高16公尺的全球最大水族箱而來。沒想到當地週 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/FdWWJ4dTMYU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/FdWWJ4dTMYU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/FdWWJ4dTMYU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-17T09:39:59Z"
-        }
-      },
-      {
+    },
+    "IWnzsFjhjnQ": {
         "kind": "youtube#searchResult",
         "etag": "79OZLJApp4EesfCyDM6ISV38WdE",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "IWnzsFjhjnQ"
+            "kind": "youtube#video",
+            "videoId": "IWnzsFjhjnQ"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T10:56:06Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】拒當國家級邊緣人 網推這款APP倒數完才搖 @newsebc",
-          "description": "花東地區17以及18號，接連發生強震，但很多在北部民眾都沒有收到政府發出的警報，問說自己是不是成了國家級警報的邊緣人?",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/IWnzsFjhjnQ/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T10:56:06Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】拒當國家級邊緣人 網推這款APP倒數完才搖 @newsebc",
+            "description": "花東地區17以及18號，接連發生強震，但很多在北部民眾都沒有收到政府發出的警報，問說自己是不是成了國家級警報的邊緣人?",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/IWnzsFjhjnQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/IWnzsFjhjnQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/IWnzsFjhjnQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/IWnzsFjhjnQ/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/IWnzsFjhjnQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T10:56:06Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T10:56:06Z"
         }
-      },
-      {
+    },
+    "qTUhWYBn74s": {
         "kind": "youtube#searchResult",
         "etag": "YnXXztFARLbv2EMARfFEtEFbjaI",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "qTUhWYBn74s"
+            "kind": "youtube#video",
+            "videoId": "qTUhWYBn74s"
         },
         "snippet": {
-          "publishedAt": "2022-03-23T13:17:43Z",
-          "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
-          "title": "未來留意海溝型地震 學者:恐達規模8以上",
-          "description": "有學者分析，這一次規模6.6主震的位置在池上斷層上，但這個地區從1973年以來，將近半個世紀都沒有發生過規模6以上的地震， ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qTUhWYBn74s/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-03-23T13:17:43Z",
+            "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+            "title": "未來留意海溝型地震 學者:恐達規模8以上",
+            "description": "有學者分析，這一次規模6.6主震的位置在池上斷層上，但這個地區從1973年以來，將近半個世紀都沒有發生過規模6以上的地震， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qTUhWYBn74s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qTUhWYBn74s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qTUhWYBn74s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qTUhWYBn74s/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qTUhWYBn74s/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台視新聞 TTV NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-23T13:17:43Z"
+            "channelTitle": "台視新聞 TTV NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T13:17:43Z"
         }
-      },
-      {
+    },
+    "gpY6w-OMKIA": {
         "kind": "youtube#searchResult",
         "etag": "fN4XDDfSVV9urxErwopaR1mO3Rk",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "gpY6w-OMKIA"
+            "kind": "youtube#video",
+            "videoId": "gpY6w-OMKIA"
         },
         "snippet": {
-          "publishedAt": "2022-03-23T11:57:09Z",
-          "channelId": "UCYIVkruUoN04UjV9pkBTswg",
-          "title": "地震日常...住越高樓越危險？專家揭購屋眉角　九二一後大修法！挺住6級震度才及格｜非凡財經新聞｜20220323",
-          "description": "花東深夜發生6.6規模的強震，從1點到早上8點，7小時內發生超過50起大小規模的餘震，地牛不斷翻身讓不少民眾，一個晚上接連 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/gpY6w-OMKIA/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-03-23T11:57:09Z",
+            "channelId": "UCYIVkruUoN04UjV9pkBTswg",
+            "title": "地震日常...住越高樓越危險？專家揭購屋眉角　九二一後大修法！挺住6級震度才及格｜非凡財經新聞｜20220323",
+            "description": "花東深夜發生6.6規模的強震，從1點到早上8點，7小時內發生超過50起大小規模的餘震，地牛不斷翻身讓不少民眾，一個晚上接連 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gpY6w-OMKIA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gpY6w-OMKIA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gpY6w-OMKIA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/gpY6w-OMKIA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/gpY6w-OMKIA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "USTV 非凡電視",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-23T11:57:09Z"
+            "channelTitle": "USTV 非凡電視",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T11:57:09Z"
         }
-      },
-      {
+    },
+    "rlS9P8vcWvI": {
         "kind": "youtube#searchResult",
         "etag": "HqSg-kACl1ANfT9kTg1vBU_qsEU",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "rlS9P8vcWvI"
+            "kind": "youtube#video",
+            "videoId": "rlS9P8vcWvI"
         },
         "snippet": {
-          "publishedAt": "2022-11-20T02:35:57Z",
-          "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
-          "title": "【LIVE】1120 台灣發生規模5.1地震 地震測報中心說明記者會｜民視快新聞｜",
-          "description": "地震#氣象局#快新聞#即時新聞直播2022.11.20【#民視快新聞】台灣發生規模5.1地震地震測報中心說明記者會歡迎收看並訂閱【#民 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rlS9P8vcWvI/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-11-20T02:35:57Z",
+            "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+            "title": "【LIVE】1120 台灣發生規模5.1地震 地震測報中心說明記者會｜民視快新聞｜",
+            "description": "地震#氣象局#快新聞#即時新聞直播2022.11.20【#民視快新聞】台灣發生規模5.1地震地震測報中心說明記者會歡迎收看並訂閱【#民 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rlS9P8vcWvI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rlS9P8vcWvI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rlS9P8vcWvI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rlS9P8vcWvI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rlS9P8vcWvI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "民視新聞網 Formosa TV News network",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-11-20T02:35:57Z"
+            "channelTitle": "民視新聞網 Formosa TV News network",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-20T02:35:57Z"
         }
-      },
-      {
+    },
+    "-QSIBnlQxtA": {
         "kind": "youtube#searchResult",
         "etag": "_mjTZ0bWo_orEgHX73Em9ri390Y",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "-QSIBnlQxtA"
+            "kind": "youtube#video",
+            "videoId": "-QSIBnlQxtA"
         },
         "snippet": {
-          "publishedAt": "2022-09-26T01:00:00Z",
-          "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
-          "title": "【精選】NASA預測未來十年8級以上大地震！全台灣最安全的地方在「這裡」！？【關鍵時刻】-劉寶傑 馬西屏 陳明輝 馬國鳳 游輝任 朱學恒 黃創夏 傅鶴齡 林金宏 王瑞德 黃世聰 顏宏元 陳嘉豪 林鴻麟",
-          "description": "(00:00:00)2018預知記事簿全世界騷動不安火山噴發接連大地震！？ (00:33:30)「太平洋火環帶」地震一個接一個！NASA大數據 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-QSIBnlQxtA/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-26T01:00:00Z",
+            "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+            "title": "【精選】NASA預測未來十年8級以上大地震！全台灣最安全的地方在「這裡」！？【關鍵時刻】-劉寶傑 馬西屏 陳明輝 馬國鳳 游輝任 朱學恒 黃創夏 傅鶴齡 林金宏 王瑞德 黃世聰 顏宏元 陳嘉豪 林鴻麟",
+            "description": "(00:00:00)2018預知記事簿全世界騷動不安火山噴發接連大地震！？ (00:33:30)「太平洋火環帶」地震一個接一個！NASA大數據 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-QSIBnlQxtA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-QSIBnlQxtA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-QSIBnlQxtA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-QSIBnlQxtA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-QSIBnlQxtA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "關鍵時刻",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-26T01:00:00Z"
+            "channelTitle": "關鍵時刻",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-26T01:00:00Z"
         }
-      },
-      {
+    },
+    "V8h0TgRY9SI": {
         "kind": "youtube#searchResult",
         "etag": "MksrEtIf-ag7nyuaihDO9GeNCEk",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "V8h0TgRY9SI"
+            "kind": "youtube#video",
+            "videoId": "V8h0TgRY9SI"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T06:39:10Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】驚險！918花蓮強震瞬間 騎士連人帶車慘摔@newsebc",
-          "description": "6.8強震重創花東地區，重建刻不容緩！現在有更多強震發生驚悚瞬間影片陸續曝光！花蓮有監視器拍下了，地震發生當時，有機車 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/V8h0TgRY9SI/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T06:39:10Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】驚險！918花蓮強震瞬間 騎士連人帶車慘摔@newsebc",
+            "description": "6.8強震重創花東地區，重建刻不容緩！現在有更多強震發生驚悚瞬間影片陸續曝光！花蓮有監視器拍下了，地震發生當時，有機車 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/V8h0TgRY9SI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/V8h0TgRY9SI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/V8h0TgRY9SI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/V8h0TgRY9SI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/V8h0TgRY9SI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T06:39:10Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T06:39:10Z"
         }
-      },
-      {
+    },
+    "YuejEyTDRlk": {
         "kind": "youtube#searchResult",
         "etag": "k18_ETzMm84lqe5xTBXSdhOOekU",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "YuejEyTDRlk"
+            "kind": "youtube#video",
+            "videoId": "YuejEyTDRlk"
         },
         "snippet": {
-          "publishedAt": "2022-07-25T03:34:40Z",
-          "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
-          "title": "龜山島龜首大量崩落! 2022全台規模5地震破36起! 百年週期?1920花蓮大地震 深海兇手 琉球島弧持續威脅台灣  T觀點 20220723 (1/4)",
-          "description": "地震規模9約是921的一千倍! 等同三個台灣抬高1公尺往下丟＃北極＃南極＃北冰洋＃南冰洋＃企鵝＃北極熊＃世界遺產＃龜山島＃ ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/YuejEyTDRlk/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-07-25T03:34:40Z",
+            "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+            "title": "龜山島龜首大量崩落! 2022全台規模5地震破36起! 百年週期?1920花蓮大地震 深海兇手 琉球島弧持續威脅台灣  T觀點 20220723 (1/4)",
+            "description": "地震規模9約是921的一千倍! 等同三個台灣抬高1公尺往下丟＃北極＃南極＃北冰洋＃南冰洋＃企鵝＃北極熊＃世界遺產＃龜山島＃ ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YuejEyTDRlk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YuejEyTDRlk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YuejEyTDRlk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/YuejEyTDRlk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/YuejEyTDRlk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS 優選頻道",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-07-25T03:34:40Z"
+            "channelTitle": "TVBS 優選頻道",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-07-25T03:34:40Z"
         }
-      },
-      {
+    },
+    "hLknEClGaoM": {
         "kind": "youtube#searchResult",
         "etag": "DrcuLj7usvu3L93dhe-nvqsfEcw",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "hLknEClGaoM"
+            "kind": "youtube#video",
+            "videoId": "hLknEClGaoM"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T08:55:16Z",
-          "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
-          "title": "917地震高雄狂搖! 酒店24樓高空泳池掀浪｜華視新聞 20220918",
-          "description": "917全台有感的大地震，高雄震度達5級，近期開幕的一家酒店，位於24樓高的無邊際泳池，當下正在進行包場派對，結果地震來襲， ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/hLknEClGaoM/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T08:55:16Z",
+            "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+            "title": "917地震高雄狂搖! 酒店24樓高空泳池掀浪｜華視新聞 20220918",
+            "description": "917全台有感的大地震，高雄震度達5級，近期開幕的一家酒店，位於24樓高的無邊際泳池，當下正在進行包場派對，結果地震來襲， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/hLknEClGaoM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/hLknEClGaoM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/hLknEClGaoM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/hLknEClGaoM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/hLknEClGaoM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "華視新聞 CH52",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T08:55:16Z"
+            "channelTitle": "華視新聞 CH52",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T08:55:16Z"
         }
-      },
-      {
+    },
+    "vU2ryKJFi2g": {
         "kind": "youtube#searchResult",
         "etag": "CwE9NAcaYgoooPYsmeviH5QdSlg",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "vU2ryKJFi2g"
+            "kind": "youtube#video",
+            "videoId": "vU2ryKJFi2g"
         },
         "snippet": {
-          "publishedAt": "2022-09-17T15:18:21Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】今晚不平靜！ 台東關山地震規模6.4 人夫邊逃邊穿褲 @東森新聞 CH51",
-          "description": "訂閱【東森新聞】現在就加入》https://pse.is/396256 加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8 #地震#台東# ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/vU2ryKJFi2g/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-17T15:18:21Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】今晚不平靜！ 台東關山地震規模6.4 人夫邊逃邊穿褲 @東森新聞 CH51",
+            "description": "訂閱【東森新聞】現在就加入》https://pse.is/396256 加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8 #地震#台東# ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/vU2ryKJFi2g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/vU2ryKJFi2g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/vU2ryKJFi2g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/vU2ryKJFi2g/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/vU2ryKJFi2g/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-17T15:18:21Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-17T15:18:21Z"
         }
-      },
-      {
+    },
+    "AjX5ylFhvDI": {
         "kind": "youtube#searchResult",
         "etag": "fFSWyF-kiTuCDu_24y9KGf9fKZI",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "AjX5ylFhvDI"
+            "kind": "youtube#video",
+            "videoId": "AjX5ylFhvDI"
         },
         "snippet": {
-          "publishedAt": "2022-03-23T14:50:09Z",
-          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-          "title": "火環帶進地質活躍期 日本「海溝型地震」恐來襲｜十點不一樣20220323",
-          "description": "日本東北外海，一個星期前發生規模7.4的強震，造成新幹線列車出軌，火力發電廠機組無法運轉，關東地區到現在還陷入缺電危機。",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/AjX5ylFhvDI/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-03-23T14:50:09Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "火環帶進地質活躍期 日本「海溝型地震」恐來襲｜十點不一樣20220323",
+            "description": "日本東北外海，一個星期前發生規模7.4的強震，造成新幹線列車出軌，火力發電廠機組無法運轉，關東地區到現在還陷入缺電危機。",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/AjX5ylFhvDI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/AjX5ylFhvDI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/AjX5ylFhvDI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/AjX5ylFhvDI/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/AjX5ylFhvDI/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-23T14:50:09Z"
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T14:50:09Z"
         }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "4BOIhZcOHGOm87JEzdplexh-Hnw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "se9gbOa4ogY"
-        },
-        "snippet": {
-          "publishedAt": "2022-12-07T17:11:49Z",
-          "channelId": "UCa32OtZqhDqDqCHeWO477qg",
-          "title": "2022年12月08日 花蓮縣近海地震(地震速報、強震即時警報)",
-          "description": "跳至地震速報發佈時間點00:17 此次地震與速報相關資訊https://eew.ee/1110312 災防告警細胞廣播(PWS)範圍花蓮縣○○ 影片 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/se9gbOa4ogY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/se9gbOa4ogY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/se9gbOa4ogY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台灣地震監視",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-07T17:11:49Z"
-        }
-      },
-      {
+    },
+    "KCVfuZbMqWM": {
         "kind": "youtube#searchResult",
         "etag": "29XjhsvTEslCLwxtwpRTf_UhdF4",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "KCVfuZbMqWM"
+            "kind": "youtube#video",
+            "videoId": "KCVfuZbMqWM"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T14:53:12Z",
-          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-          "title": "九二一前夕大地震 地震百年周期將至?｜十點不一樣20220920",
-          "description": "台東池上這次發生規模6.8強震，是自2018年花蓮地震後，對台灣影響最大的地震！也外界擔心百年大震週期將至，接下來是否會迎 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/KCVfuZbMqWM/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T14:53:12Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "九二一前夕大地震 地震百年周期將至?｜十點不一樣20220920",
+            "description": "台東池上這次發生規模6.8強震，是自2018年花蓮地震後，對台灣影響最大的地震！也外界擔心百年大震週期將至，接下來是否會迎 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/KCVfuZbMqWM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/KCVfuZbMqWM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/KCVfuZbMqWM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/KCVfuZbMqWM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/KCVfuZbMqWM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T14:53:12Z"
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T14:53:12Z"
         }
-      },
-      {
+    },
+    "Oxpav8ZqaMg": {
         "kind": "youtube#searchResult",
         "etag": "pQqiSZdFeyIEqc8N9WGqxE67IDM",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "Oxpav8ZqaMg"
+            "kind": "youtube#video",
+            "videoId": "Oxpav8ZqaMg"
         },
         "snippet": {
-          "publishedAt": "2022-09-23T08:00:09Z",
-          "channelId": "UCxQ2FGm0lVOOQQ_DCNKQufg",
-          "title": "地震搖搖晃 | 繪本故事 Story Time | 安全兒歌 Safety Song | 寶寶好習慣 Good Habits | 超級寶貝JoJo | Super JoJo中文👶",
-          "description": "superjojo中文\u200b #超级寶貝jojo\u200b #兒歌\u200b #寶寶卡通\u200b #寶貝jojo\u200b #親子互動視頻簡介： 讓孩子學習防震知識，危機發生時，能更好 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Oxpav8ZqaMg/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-23T08:00:09Z",
+            "channelId": "UCxQ2FGm0lVOOQQ_DCNKQufg",
+            "title": "地震搖搖晃 | 繪本故事 Story Time | 安全兒歌 Safety Song | 寶寶好習慣 Good Habits | 超級寶貝JoJo | Super JoJo中文👶",
+            "description": "superjojo中文​ #超级寶貝jojo​ #兒歌​ #寶寶卡通​ #寶貝jojo​ #親子互動視頻簡介： 讓孩子學習防震知識，危機發生時，能更好 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Oxpav8ZqaMg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Oxpav8ZqaMg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Oxpav8ZqaMg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Oxpav8ZqaMg/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Oxpav8ZqaMg/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Super JoJo-中文兒歌・卡通動畫",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-23T08:00:09Z"
+            "channelTitle": "Super JoJo-中文兒歌・卡通動畫",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-23T08:00:09Z"
         }
-      },
-      {
+    },
+    "UYH85IDsPI8": {
         "kind": "youtube#searchResult",
         "etag": "qhTSmIrthcpfgU5WXDQzYU5Qmnw",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "UYH85IDsPI8"
+            "kind": "youtube#video",
+            "videoId": "UYH85IDsPI8"
         },
         "snippet": {
-          "publishedAt": "2022-09-19T11:28:06Z",
-          "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
-          "title": "地震來襲&quot;先跑再說&quot; 中職二軍比賽中斷｜華視新聞 20220919",
-          "description": "昨(18)日下午2點44分，台東池上發生強震，當時中華職棒二軍例行賽，剛好就在南部地區的高雄澄清湖棒球場舉行。地震發生當下， ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/UYH85IDsPI8/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-19T11:28:06Z",
+            "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+            "title": "地震來襲&quot;先跑再說&quot; 中職二軍比賽中斷｜華視新聞 20220919",
+            "description": "昨(18)日下午2點44分，台東池上發生強震，當時中華職棒二軍例行賽，剛好就在南部地區的高雄澄清湖棒球場舉行。地震發生當下， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UYH85IDsPI8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UYH85IDsPI8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UYH85IDsPI8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/UYH85IDsPI8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/UYH85IDsPI8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "華視新聞 CH52",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T11:28:06Z"
+            "channelTitle": "華視新聞 CH52",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T11:28:06Z"
         }
-      },
-      {
+    },
+    "OW2KwDXIuN4": {
         "kind": "youtube#searchResult",
         "etag": "5SjgItllqq_e_5kKRgWXd35Akjk",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "OW2KwDXIuN4"
+            "kind": "youtube#video",
+            "videoId": "OW2KwDXIuN4"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T05:19:00Z",
-          "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
-          "title": "#獨家 田馥甄開唱遇地震! 開燈15分鐘緊急喊卡...歌迷喊救命｜TVBS新聞",
-          "description": "田馥甄經歷疫情、感冒失聲，二度延期的高雄巨蛋演唱會，在周六開演第二場，沒想到遇上大地震，立即暫停演出15分鐘，讓不少人 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/OW2KwDXIuN4/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T05:19:00Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "#獨家 田馥甄開唱遇地震! 開燈15分鐘緊急喊卡...歌迷喊救命｜TVBS新聞",
+            "description": "田馥甄經歷疫情、感冒失聲，二度延期的高雄巨蛋演唱會，在周六開演第二場，沒想到遇上大地震，立即暫停演出15分鐘，讓不少人 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/OW2KwDXIuN4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/OW2KwDXIuN4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/OW2KwDXIuN4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/OW2KwDXIuN4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/OW2KwDXIuN4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS NEWS",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T05:19:00Z"
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T05:19:00Z"
         }
-      },
-      {
+    },
+    "_-dlN-CkUrM": {
         "kind": "youtube#searchResult",
         "etag": "6pdwLTOtUKHsxafAX3HAMXMe5KY",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "_-dlN-CkUrM"
+            "kind": "youtube#video",
+            "videoId": "_-dlN-CkUrM"
         },
         "snippet": {
-          "publishedAt": "2022-03-23T14:50:17Z",
-          "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
-          "title": "火環帶進地質活躍期 日本「海溝型地震」恐來襲｜十點不一樣20220323",
-          "description": "日本東北外海，一個星期前發生規模7.4的強震，造成新幹線列車出軌，火力發電廠機組無法運轉，關東地區到現在還陷入缺電危機。",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/_-dlN-CkUrM/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-03-23T14:50:17Z",
+            "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+            "title": "火環帶進地質活躍期 日本「海溝型地震」恐來襲｜十點不一樣20220323",
+            "description": "日本東北外海，一個星期前發生規模7.4的強震，造成新幹線列車出軌，火力發電廠機組無法運轉，關東地區到現在還陷入缺電危機。",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_-dlN-CkUrM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_-dlN-CkUrM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_-dlN-CkUrM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/_-dlN-CkUrM/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/_-dlN-CkUrM/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "TVBS選新聞",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-03-23T14:50:17Z"
+            "channelTitle": "TVBS選新聞",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T14:50:17Z"
         }
-      },
-      {
+    },
+    "4RhbUDR3gpo": {
         "kind": "youtube#searchResult",
         "etag": "90woU_5bxijbxJRKPlw7xVJXWHI",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "4RhbUDR3gpo"
+            "kind": "youtube#video",
+            "videoId": "4RhbUDR3gpo"
         },
         "snippet": {
-          "publishedAt": "2022-09-20T09:00:02Z",
-          "channelId": "UCmPxUduEw4oLFvzidCaRuTg",
-          "title": "地震!! 不要住頂樓？！買房租屋前千萬要注意這四大缺點「Men&#39;s Game玩物誌」",
-          "description": "成為這個頻道的會員並獲得獎勵： https://www.youtube.com/channel/UCmPxUduEw4oLFvzidCaRuTg/join 更多影片歡迎參考我的 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/4RhbUDR3gpo/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-20T09:00:02Z",
+            "channelId": "UCmPxUduEw4oLFvzidCaRuTg",
+            "title": "地震!! 不要住頂樓？！買房租屋前千萬要注意這四大缺點「Men&#39;s Game玩物誌」",
+            "description": "成為這個頻道的會員並獲得獎勵： https://www.youtube.com/channel/UCmPxUduEw4oLFvzidCaRuTg/join 更多影片歡迎參考我的 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4RhbUDR3gpo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4RhbUDR3gpo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4RhbUDR3gpo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/4RhbUDR3gpo/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/4RhbUDR3gpo/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Men's Game 玩物誌",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-20T09:00:02Z"
+            "channelTitle": "Men's Game 玩物誌",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T09:00:02Z"
         }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "4i-Cd_2DuF5Ui3v2m8hWYs5GpLM",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "jS1C_buJJ3Y"
-        },
-        "snippet": {
-          "publishedAt": "2022-09-27T04:30:11Z",
-          "channelId": "UCRYM7X1WTLZeFHf4uuqkYCQ",
-          "title": "【精華版】921地震三大前兆！倖存者談南投浩劫驚人內幕...",
-          "description": "天佑台灣按讚必看分享給921的倖存者小晏老師一個大大的鼓勵！ 她死裡逃生曝光921地震來臨前的三大前兆！南投浩劫驚人內幕是 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/jS1C_buJJ3Y/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/jS1C_buJJ3Y/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/jS1C_buJJ3Y/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "新聞挖挖哇！",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-27T04:30:11Z"
-        }
-      },
-      {
+    },
+    "Axa2yo3MDj4": {
         "kind": "youtube#searchResult",
         "etag": "CIcnp-O2HtrA37d9_i6GyaQfGkM",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "Axa2yo3MDj4"
+            "kind": "youtube#video",
+            "videoId": "Axa2yo3MDj4"
         },
         "snippet": {
-          "publishedAt": "2022-09-19T12:38:21Z",
-          "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
-          "title": "桃園八德運動中心天花板地震掉落 鄭文燦道歉將查原因｜20220919 公視晚間新聞",
-          "description": "台東連續強震，桃園市也出現災情，八德國民運動中心5樓羽球場加裝燈光工程剛完工就震得大面積掉落，外界將責任歸屬指向桃園市 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/Axa2yo3MDj4/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-19T12:38:21Z",
+            "channelId": "UCexpzYDEnfmAvPSfG4xbcjA",
+            "title": "桃園八德運動中心天花板地震掉落 鄭文燦道歉將查原因｜20220919 公視晚間新聞",
+            "description": "台東連續強震，桃園市也出現災情，八德國民運動中心5樓羽球場加裝燈光工程剛完工就震得大面積掉落，外界將責任歸屬指向桃園市 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Axa2yo3MDj4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Axa2yo3MDj4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Axa2yo3MDj4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/Axa2yo3MDj4/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/Axa2yo3MDj4/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "公視新聞網",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-19T12:38:21Z"
+            "channelTitle": "公視新聞網",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T12:38:21Z"
         }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "E2qcCJXq2BvUUbgMu3x4pWnnvVw",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "-G094jSHYxE"
-        },
-        "snippet": {
-          "publishedAt": "2022-12-15T13:22:41Z",
-          "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
-          "title": "全台有感! 規模6.2地震 花蓮最大震度5弱｜華視新聞 20221215",
-          "description": "今(15)日中午發生規模6.2的地震，全台都有明顯感受，最大的震度就在花蓮，達到5弱，截至下午1點，接連發生8起餘震，都在台灣 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-G094jSHYxE/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-G094jSHYxE/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-G094jSHYxE/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "華視新聞 CH52",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-12-15T13:22:41Z"
-        }
-      },
-      {
-        "kind": "youtube#searchResult",
-        "etag": "4GN17CyDC3GsbS-A2qb7BySUcFQ",
-        "id": {
-          "kind": "youtube#video",
-          "videoId": "cyP9R0tDuRw"
-        },
-        "snippet": {
-          "publishedAt": "2022-10-28T15:46:13Z",
-          "channelId": "UCa32OtZqhDqDqCHeWO477qg",
-          "title": "2022年10月28日 臺灣東部海域地震(地震速報、強震即時警報)",
-          "description": "跳至地震速報發佈時間點00:19 此次地震與速報相關資訊https://eew.ee/1110292 災防告警細胞廣播(PWS)範圍宜蘭縣○○ 影片 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/cyP9R0tDuRw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/cyP9R0tDuRw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/cyP9R0tDuRw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "台灣地震監視",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-10-28T15:46:13Z"
-        }
-      },
-      {
+    },
+    "4zIhdGyer-I": {
         "kind": "youtube#searchResult",
         "etag": "ruskscWeMVebNZxSWZoxRqLdYTc",
         "id": {
-          "kind": "youtube#video",
-          "videoId": "4zIhdGyer-I"
+            "kind": "youtube#video",
+            "videoId": "4zIhdGyer-I"
         },
         "snippet": {
-          "publishedAt": "2022-09-18T05:00:59Z",
-          "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
-          "title": "【台東地震】最新》鹿野骨灰罈遭6.4強震摔碎 將聯絡家屬商討處置@東森新聞 CH51",
-          "description": "17號晚間九點多地震，部分地區傳出災情，台東鹿野納骨塔，也不敵強震倒塌，現場都是碎玻璃及骨灰，相關單位表示，會連絡家屬 ...",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/4zIhdGyer-I/default.jpg",
-              "width": 120,
-              "height": 90
+            "publishedAt": "2022-09-18T05:00:59Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】最新》鹿野骨灰罈遭6.4強震摔碎 將聯絡家屬商討處置@東森新聞 CH51",
+            "description": "17號晚間九點多地震，部分地區傳出災情，台東鹿野納骨塔，也不敵強震倒塌，現場都是碎玻璃及骨灰，相關單位表示，會連絡家屬 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4zIhdGyer-I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4zIhdGyer-I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4zIhdGyer-I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
             },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/4zIhdGyer-I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/4zIhdGyer-I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "東森新聞 CH51",
-          "liveBroadcastContent": "none",
-          "publishTime": "2022-09-18T05:00:59Z"
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T05:00:59Z"
         }
-      }
-    ]
-  }
-  
-  
+    },
+    "37y13RNMYUI": {
+        "kind": "youtube#searchResult",
+        "etag": "N__sXbckMtg2RLuOIOBr2zsM0eg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "37y13RNMYUI"
+        },
+        "snippet": {
+            "publishedAt": "2022-08-01T14:59:59Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "地震頻傳! 未來50年「規模7以上地震」機率超過50%｜十點不一樣20220801",
+            "description": "近來花東地震頻傳，不少民眾擔心是否會釀成大規模的地震。日前氣象局就發文公布台灣各斷層的「發震機率」，指出台灣未來50年 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/37y13RNMYUI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/37y13RNMYUI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/37y13RNMYUI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-08-01T14:59:59Z"
+        }
+    },
+    "ghGMRAPPKKM": {
+        "kind": "youtube#searchResult",
+        "etag": "pTd_OSiwv0vFyn0uO-jrJX0F6uI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ghGMRAPPKKM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-21T14:52:31Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "90%在這發生! 看「火環地震帶」歷史地震...｜十點不一樣20220921",
+            "description": "台灣的地理位置位在兩大板塊交界處，也是在太平洋火環帶，無可避免的與地震威脅共存，其實歷史上有許多大地震，都是位在 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ghGMRAPPKKM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ghGMRAPPKKM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ghGMRAPPKKM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-21T14:52:31Z"
+        }
+    },
+    "EnB7WFR5UMQ": {
+        "kind": "youtube#searchResult",
+        "etag": "OzUul0liy51aPLUaCKAXjWzPHN0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "EnB7WFR5UMQ"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T06:47:46Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】地震發生缺它不可！消防署列避難包清單@東森新聞 CH51",
+            "description": "地震發生時，如果剛好在睡覺該怎麼辦。內政部臉書發文教學，應該要繼續留在床上，臉朝下趴著，縮起雙腳，並用枕頭保護頭頸。",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/EnB7WFR5UMQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/EnB7WFR5UMQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/EnB7WFR5UMQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T06:47:46Z"
+        }
+    },
+    "6IqpTwjo66Y": {
+        "kind": "youtube#searchResult",
+        "etag": "RdG2LZiDsVtijcQPWeYl_9RqRjA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "6IqpTwjo66Y"
+        },
+        "snippet": {
+            "publishedAt": "2022-03-23T02:14:16Z",
+            "channelId": "UCckzc03-ycrpB1XIUfRhpnw",
+            "title": "耐震的房子地震來臨有用嗎，什麼樣的房子可以住？【超認真少年】",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/6IqpTwjo66Y/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/6IqpTwjo66Y/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/6IqpTwjo66Y/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "超認真少年Imserious",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T02:14:16Z"
+        }
+    },
+    "3al9S2PAIPM": {
+        "kind": "youtube#searchResult",
+        "etag": "XpRkEaJCDF5gh4NdU7aJAw7KfsU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "3al9S2PAIPM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T06:44:21Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】地震前兆？花蓮血月亮、愛河魚躍出 學者：關聯不大@東森新聞 CH51",
+            "description": "地震真的會有前兆發生嗎？昨天晚上的地震，有民眾拍下愛河的水面有魚群躍出，甚至還有魚塭的魚跳到馬路上，另外花蓮地區還 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/3al9S2PAIPM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/3al9S2PAIPM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/3al9S2PAIPM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T06:44:21Z"
+        }
+    },
+    "aeXag3PH45s": {
+        "kind": "youtube#searchResult",
+        "etag": "bBfN-0xr3LdKTGbPoC62s9viRyc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "aeXag3PH45s"
+        },
+        "snippet": {
+            "publishedAt": "2022-11-22T16:09:33Z",
+            "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+            "title": "印尼規模5.6地震逾268人死數百傷 礫堆中救人與時間賽跑…罹難多是「兒童」！？【關鍵時刻】20221122-6 劉寶傑 王瑞德",
+            "description": "印尼規模5.6地震逾268人死數百傷礫堆中救人與時間賽跑…罹難多是「兒童」！？ 【最新上傳】最新時事不漏 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aeXag3PH45s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aeXag3PH45s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aeXag3PH45s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "關鍵時刻",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-22T16:09:33Z"
+        }
+    },
+    "R5JwM4yHxQE": {
+        "kind": "youtube#searchResult",
+        "etag": "FmD5_hTHHAG29N1eXyzdFBmqGuo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "R5JwM4yHxQE"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-15T04:18:44Z",
+            "channelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
+            "title": "超晃!12:03花蓮規模6.2地震 最大震度花蓮5弱.台東宜蘭4級 @CtiNews",
+            "description": "地震#花蓮#規模6.2 #地牛翻身#5弱#氣象局#地震預報中心#正常能量釋放  快點購輸入天編推薦代碼cti888立即享折扣   【中天嚴 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/R5JwM4yHxQE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/R5JwM4yHxQE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/R5JwM4yHxQE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "中天新聞",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T04:18:44Z"
+        }
+    },
+    "MbDDvjydhK8": {
+        "kind": "youtube#searchResult",
+        "etag": "RI1IkxWXZxY9NB5RN38yL2GgXPk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "MbDDvjydhK8"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-21T14:35:19Z",
+            "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+            "title": "大地震搖晃知多少？「高樓層不見得最晃」【發現科學】",
+            "description": "地震#逃生#解密2022.09.21【發現科學】探索科學新知、體驗生活科學，今天的發現科學專題，要來了解地震搖晃程度。一般認知中 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MbDDvjydhK8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MbDDvjydhK8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MbDDvjydhK8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "台視新聞 TTV NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-21T14:35:19Z"
+        }
+    },
+    "S-yIbvvjI1E": {
+        "kind": "youtube#searchResult",
+        "etag": "CGtx1FuvYN-IOHrwjylUNwNX77E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "S-yIbvvjI1E"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T11:54:44Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】地震後房屋裂縫檢測 觀察縫隙寬度、角度 @東森新聞 CH51",
+            "description": "連兩天強震，不少人家中牆面都出現裂縫，到底會不會影響結構，結構技師教用看縫隙的寬度和延伸的裂痕來判斷，如果縫隙寬度 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/S-yIbvvjI1E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/S-yIbvvjI1E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/S-yIbvvjI1E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T11:54:44Z"
+        }
+    },
+    "s8tWRUoeWF0": {
+        "kind": "youtube#searchResult",
+        "etag": "et19extr1guLw9FyDrP-kZOUBfo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "s8tWRUoeWF0"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-19T04:26:24Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】台灣強震國際關注 日網友送暖：要回報311恩情@東森新聞 CH51",
+            "description": "台東池上6.8強震，除了CNN等國際主流媒體關注，連烏克蘭媒體，也報導了這次地震；同時在這場災難中，再度見證「台日友好」 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/s8tWRUoeWF0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/s8tWRUoeWF0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/s8tWRUoeWF0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T04:26:24Z"
+        }
+    },
+    "p1jf0KC8yZU": {
+        "kind": "youtube#searchResult",
+        "etag": "rWCPdWM64dND4k6PuBi5jXi1Htg",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "p1jf0KC8yZU"
+        },
+        "snippet": {
+            "publishedAt": "2022-11-21T09:08:19Z",
+            "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+            "title": "#iNEWS最新 超大地震! 印尼爪哇發生5.6地震 雅加達震感明顯 民眾驚逃躲避｜【國際局勢】20221121│三立iNEWS",
+            "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/p1jf0KC8yZU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/p1jf0KC8yZU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/p1jf0KC8yZU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "三立iNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-21T09:08:19Z"
+        }
+    },
+    "wxGW7zcoIYA": {
+        "kind": "youtube#searchResult",
+        "etag": "tEU5vLRZ_oWiDYtDRI6VQS2q2M8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "wxGW7zcoIYA"
+        },
+        "snippet": {
+            "publishedAt": "2022-05-26T09:28:56Z",
+            "channelId": "UCnktGuqsg_bjvvI4dlwj4nQ",
+            "title": "地震救生床 發明國家相關疑慮請查看下方說明",
+            "description": "蘋果日報https://www.youtube.com/watch?v=z5UtxltVNYE 東森新聞2015年12月19日· 當地震來襲時，睡夢中的人根本來不及逃生， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wxGW7zcoIYA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wxGW7zcoIYA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wxGW7zcoIYA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "知識之路",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-26T09:28:56Z"
+        }
+    },
+    "4HEEWcCQVNw": {
+        "kind": "youtube#searchResult",
+        "etag": "2vxcw6ph5b2PI_xIZW0l-ueDdeM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "4HEEWcCQVNw"
+        },
+        "snippet": {
+            "publishedAt": "2022-11-13T08:35:03Z",
+            "channelId": "UCE74C-snUczeXrfOYp4hYQQ",
+            "title": "台灣日本地震監視 24H (強震即時警報・緊急地震速報・EEW)",
+            "description": "請注意： - 地震速報的預估震度和抵達時間皆以楠梓區計算- 直播有約5秒延遲，因此震波抵達時間會有誤差- 最近6個月的直播記錄檔 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/4HEEWcCQVNw/default_live.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/4HEEWcCQVNw/mqdefault_live.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/4HEEWcCQVNw/hqdefault_live.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Yoyo0901",
+            "liveBroadcastContent": "live",
+            "publishTime": "2022-11-13T08:35:03Z"
+        }
+    },
+    "Jl0nsH2LEkM": {
+        "kind": "youtube#searchResult",
+        "etag": "ctXOedhVe-N1yWKnSjwqInWtpP8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Jl0nsH2LEkM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-20T16:08:37Z",
+            "channelId": "UCKQVSNdzGBJSXaUmS4TOWww",
+            "title": "史上第三次「919災難日」墨西哥發生7.6強震 地震頻繁地球進入「板塊活躍期」！？【關鍵時刻】20220920-5 劉寶傑 黃暐瀚 姚惠珍",
+            "description": "墨西哥劇烈搖晃「屋毀樓塌」民眾狂奔逃難… 各國發海嘯警戒「洪水湧入」街道！？ 巴基斯坦地震山崩飛沙走石「巨石砸車」！",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Jl0nsH2LEkM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Jl0nsH2LEkM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Jl0nsH2LEkM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "關鍵時刻",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-20T16:08:37Z"
+        }
+    },
+    "rR7bCJeOp18": {
+        "kind": "youtube#searchResult",
+        "etag": "AEkylMffXSXoVk59JwkMyc55m04",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "rR7bCJeOp18"
+        },
+        "snippet": {
+            "publishedAt": "2022-08-17T01:18:18Z",
+            "channelId": "UC4pDGT9qzW_NCVFTuj42WwA",
+            "title": "校園特派員-地震知識你學會了嗎？",
+            "description": "921國家防災日#國家防災日#防災教育#drre 想了解更多防災知識，請上防災教育資訊網https://disaster.moe.edu.tw/ 鎖定校園防災花 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rR7bCJeOp18/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rR7bCJeOp18/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rR7bCJeOp18/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "防災教育資訊網",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-08-17T01:18:18Z"
+        }
+    },
+    "ReXDraPIIZs": {
+        "kind": "youtube#searchResult",
+        "etag": "4TwA4LwTvDNEnraIWOFuJ1jDzXs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ReXDraPIIZs"
+        },
+        "snippet": {
+            "publishedAt": "2022-03-23T02:55:21Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "新增三條活動斷層 專家預警2025規模8大地震@東森新聞 CH51",
+            "description": "台灣地震頻傳，震動級數都不算小，有地質學家提出警訊，根據地震週期，接下來我們很有可能會面臨規模8以上的地震，叫做「海溝 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ReXDraPIIZs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ReXDraPIIZs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ReXDraPIIZs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T02:55:21Z"
+        }
+    },
+    "O4_72EOWI8k": {
+        "kind": "youtube#searchResult",
+        "etag": "KjjxlI8GsdAEHOvfUHhsfJv4ohk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "O4_72EOWI8k"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-15T09:30:18Z",
+            "channelId": "UCmdVfsLHu18lCkKYXSOGUxg",
+            "title": "地牛大翻身！6.2級地震全台有感　鯉魚潭狂搖畫面曝光 @ChinaTimes #shorts",
+            "description": "支持小編剪片剪到天亮❤️ ： http://bit.ly/3DXfVYY #中時新聞網#地牛大翻身#6.2級地震#鯉魚潭#shorts 中時新聞網FB粉絲專 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/O4_72EOWI8k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/O4_72EOWI8k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/O4_72EOWI8k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "中時新聞網",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T09:30:18Z"
+        }
+    },
+    "bF3nl-zcMl0": {
+        "kind": "youtube#searchResult",
+        "etag": "LYVi-dF5XqUtFCIAirgHt85jIS0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "bF3nl-zcMl0"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-21T10:55:00Z",
+            "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+            "title": "舊金山大地震恐重演？6.4強震襲美國北加州 和當年強震同一斷層 加州近期地牛頻翻身 百年地震週期&quot;倒數中&quot;？│記者 向敦維│【國際局勢】20221221│三立iNEWS",
+            "description": "iNEWS 最正新聞直播https://youtu.be/CKjSm5ZeehE ➲ 鄭知道了新頻道快訂閱https://reurl.cc/Mje4v ➲王志郁+ 國際.理財全 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/bF3nl-zcMl0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/bF3nl-zcMl0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/bF3nl-zcMl0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "三立iNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-21T10:55:00Z"
+        }
+    },
+    "eKlfazqJsTE": {
+        "kind": "youtube#searchResult",
+        "etag": "uQy_Q096eBE13NGm2sYgZacZEHs",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "eKlfazqJsTE"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-21T11:00:11Z",
+            "channelId": "UC0UN_9ETd4_M_ZlkIncA18g",
+            "title": "花東918強震特別報導｜花東918強震／中央山脈下地震密碼｜公視 #獨立特派員 第768集 20220921",
+            "description": "【花東918強震】 台東的關山、池上分別發生了芮氏規模6.4與6.8的強震。地牛不斷翻身，讓全台民眾都飽受驚嚇。學者觀察，這次 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eKlfazqJsTE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eKlfazqJsTE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eKlfazqJsTE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "公共電視-獨立特派員 PTS INNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-21T11:00:11Z"
+        }
+    },
+    "rbT-Bvs_yz4": {
+        "kind": "youtube#searchResult",
+        "etag": "T0CxAMiwZjIjkrwrfGAxNiItsE8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "rbT-Bvs_yz4"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T05:29:39Z",
+            "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
+            "title": "&quot;我要瘋了&quot;! 承億酒店高空泳池因地震掀&quot;巨浪&quot; 高空濺出形成&quot;小瀑布&quot;灑落 旅客.DJ陳圓圓狂吼:好可怕｜記者 吳繢杉 連冠智｜【LIVE大現場】20220918｜三立新聞台",
+            "description": "三立新聞#三立LIVE新聞➲新台灣加油https://goo.gl/Hthr3e ➲前進新台灣https://reurl.cc/6egpy ➲驚爆新聞線爆內幕追 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rbT-Bvs_yz4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rbT-Bvs_yz4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rbT-Bvs_yz4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "三立LIVE新聞",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T05:29:39Z"
+        }
+    },
+    "UI5d6SNSVxM": {
+        "kind": "youtube#searchResult",
+        "etag": "lJjk2q0lBnnyvWEMeRBOOSfTKb0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "UI5d6SNSVxM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T15:19:48Z",
+            "channelId": "UCIU8ha-NHmLjtUwU7dFiXUA",
+            "title": "【直播完整版】6.8大地震襲台　花東橋斷、房垮災情總覽｜三立新聞網 SETN.com",
+            "description": "中央氣象局表示，今日14:32台東池上發生規模5.6地震，地震深度8km，14:33花蓮富里也發生規模4地震，其中位於花蓮縣富里鄉的 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UI5d6SNSVxM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UI5d6SNSVxM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UI5d6SNSVxM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "三立新聞網SETN",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T15:19:48Z"
+        }
+    },
+    "J1GZnW_g63E": {
+        "kind": "youtube#searchResult",
+        "etag": "8I-lZKxiys_3eaee-0eVHGIIwsc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "J1GZnW_g63E"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-05T09:35:29Z",
+            "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+            "title": "中國四川發生6.8級地震已致7人遇難－ BBC News 中文",
+            "description": "9月5日12時52分，中國四川甘孜州瀘定縣發生6.8級地震，震源深度16千米。 不少網友表示，四川省、重慶市多處震感強烈。",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/J1GZnW_g63E/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/J1GZnW_g63E/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/J1GZnW_g63E/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "BBC News 中文",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-05T09:35:29Z"
+        }
+    },
+    "SHimgn1nqbE": {
+        "kind": "youtube#searchResult",
+        "etag": "WR0H0aNVbqmfdqGmLDZQLJCtsSw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "SHimgn1nqbE"
+        },
+        "snippet": {
+            "publishedAt": "2022-06-21T08:00:13Z",
+            "channelId": "UCttafJi4SCirZhlxsxISbyA",
+            "title": "地震來了！眼鏡蛇先生的搜救行動 | 奇妙救援隊 | 超級救援 | 兒歌 | Kids Song | 童謠 | 動畫 | 卡通片 | BabyBus | 寶寶巴士",
+            "description": "劇情簡介   糟糕！大地真來了！奇妙救援隊和眼鏡蛇先生一起展開搜救行動。 1. 寶寶巴士- 最熱門經典 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/SHimgn1nqbE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/SHimgn1nqbE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/SHimgn1nqbE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "寶寶巴士 - 中文兒歌童謠 - 卡通動畫",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-06-21T08:00:13Z"
+        }
+    },
+    "eqEVJ0O5lnY": {
+        "kind": "youtube#searchResult",
+        "etag": "OEmaCPNj6U9MAFfZ0CkFC7LXkSo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "eqEVJ0O5lnY"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T11:29:57Z",
+            "channelId": "UCpu3bemTQwAU8PqM4kJdoEQ",
+            "title": "直擊屋塌.橋斷.走山.列車出軌 918大地震全台災情總整理 @CtiNews",
+            "description": "台東6.8強震#918大地震#台東池上#花蓮玉里#超商倒塌#高寮大橋#玉里大橋#橘子山#六十石山#走山#台鐵#出軌#列車傾斜相關影片: ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/eqEVJ0O5lnY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/eqEVJ0O5lnY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/eqEVJ0O5lnY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "中天新聞",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T11:29:57Z"
+        }
+    },
+    "nU_4RPW4tUQ": {
+        "kind": "youtube#searchResult",
+        "etag": "BLuQIR2mOfTcz7e71wJ2GmtXqaY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "nU_4RPW4tUQ"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-19T09:12:15Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】專家：「米崙斷層」恐將引動 若錯動可達規模8.7 @東森新聞 CH51",
+            "description": "這次規模6.8地震的震央，又是在花東，地震科學中心首席科學家馬國鳳就指出，震央附近還有一條叫做米崙斷層，很有可能在未來， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/nU_4RPW4tUQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/nU_4RPW4tUQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/nU_4RPW4tUQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T09:12:15Z"
+        }
+    },
+    "a9DjcZsA-uM": {
+        "kind": "youtube#searchResult",
+        "etag": "wsAECTgvZUR6hBLkTwFwVqk4jaQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "a9DjcZsA-uM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T02:02:58Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】50年來首次關山6.4強震 氣象局：這次很奇怪@東森新聞 CH51",
+            "description": "昨天晚間9點41分，發生芮氏規模6.4的地震，全台有感！震央位在台東縣關山鎮，地震深度僅7.3公里，池上鄉的震度甚至達到6強的 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/a9DjcZsA-uM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/a9DjcZsA-uM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/a9DjcZsA-uM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T02:02:58Z"
+        }
+    },
+    "QNHkf0F9yAI": {
+        "kind": "youtube#searchResult",
+        "etag": "UaZ02fq6F3Vf7Od9bqFyKEvidP0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "QNHkf0F9yAI"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-17T15:34:59Z",
+            "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+            "title": "6.4地震 24樓餐廳搖晃實況 1晚連震12次 氣象局：未來兩天可能有規模5餘震｜20220917｜#shorts",
+            "description": "地震.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/QNHkf0F9yAI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/QNHkf0F9yAI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/QNHkf0F9yAI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "三立iNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-17T15:34:59Z"
+        }
+    },
+    "YYevKwYZLio": {
+        "kind": "youtube#searchResult",
+        "etag": "kYiNxqN6TrgdmQA2xDLNJc7DA5M",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "YYevKwYZLio"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-10T20:06:09Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【地震速報】3:24全台有感地震 網友全醒：震央在哪？ @newsebc",
+            "description": "中央氣象局發布顯著有感地震最新消息，今(11)日3時24分，發生芮氏規模5.9有感地震，震央位置在花蓮縣政府東方59.3 公里(位於 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/YYevKwYZLio/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/YYevKwYZLio/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/YYevKwYZLio/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-10T20:06:09Z"
+        }
+    },
+    "xXZWx8oFYjE": {
+        "kind": "youtube#searchResult",
+        "etag": "fKNQhit2syufA754R51SDTWF944",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "xXZWx8oFYjE"
+        },
+        "snippet": {
+            "publishedAt": "2022-11-18T01:00:23Z",
+            "channelId": "UCTu_hTaVf3DJMpMIyOAq2Ew",
+            "title": "千年古塔被7.8級地震自動修復，竟是鎮妖塔？它發揮作用的最重要一部分現在遺失，意味著?【文昭思緒飛揚202期】",
+            "description": "請點擊加入會員頻道: https://www.youtube.com/channel/UCTu_hTaVf3DJMpMIyOAq2Ew/join 謝謝支持！***直上直下的斷崖絕壁上 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/xXZWx8oFYjE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/xXZWx8oFYjE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/xXZWx8oFYjE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "文昭思緒飛揚 - Wen Zhao Studio",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-18T01:00:23Z"
+        }
+    },
+    "GCIfLklKzCM": {
+        "kind": "youtube#searchResult",
+        "etag": "58Y892O8orsTu5eys29zQfCo0qc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "GCIfLklKzCM"
+        },
+        "snippet": {
+            "publishedAt": "2022-02-17T09:20:27Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "新增三條活動斷層 專家預警2025規模8大地震 @東森新聞 CH51",
+            "description": "今年下半年，台灣地震頻傳，震動級數都不算小，有地質學家提出警訊，根據地震週期，接下來我們很有可能會面臨規模8以上的地震 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/GCIfLklKzCM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/GCIfLklKzCM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/GCIfLklKzCM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-02-17T09:20:27Z"
+        }
+    },
+    "Q17cuW_h2Zk": {
+        "kind": "youtube#searchResult",
+        "etag": "kg6w0bnU6h_PXNXX9tryZVALgpk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Q17cuW_h2Zk"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-19T13:52:13Z",
+            "channelId": "UCpa6dxvssyehsVbmBL5BpMQ",
+            "title": "地震！在主持當下地震！飯店的設備狂搖～所以我到底要不要跑！？成為落跑主持人? #地震",
+            "description": "Joyce的IG(just_be_joyce): https://www.instagram.com/just_be_joyce/?hl=zh-tw FB:邱怡澍Joyce914 滿場的醫師大家異常鎮定ㄟ ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Q17cuW_h2Zk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Q17cuW_h2Zk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Q17cuW_h2Zk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "狂人JoJo",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T13:52:13Z"
+        }
+    },
+    "J3hNBnRx96I": {
+        "kind": "youtube#searchResult",
+        "etag": "I7Erj9IQV6YESTFRn62A7ukJ8ks",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "J3hNBnRx96I"
+        },
+        "snippet": {
+            "publishedAt": "2022-02-20T03:14:13Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台灣NEXT 全集】近期地震頻傳！專家預警 大震可能來襲！｜房業涵 李樺仙 20220219",
+            "description": "00:14 獨家！ 米崙斷層蠢動馬國鳳團隊深入地底探秘！ 09:05 台北山腳未爆彈！ 斷層貫穿北台灣雙北警戒！ 18:05 獨家！ 大樓型 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/J3hNBnRx96I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/J3hNBnRx96I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/J3hNBnRx96I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-02-20T03:14:13Z"
+        }
+    },
+    "mL6_Vz7hiSs": {
+        "kind": "youtube#searchResult",
+        "etag": "VZG2N7TNvu6xVCgO4Cdt8NZm1KU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "mL6_Vz7hiSs"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-06T10:00:19Z",
+            "channelId": "UCA0o60mhG0v2Eha8wSL3_Jw",
+            "title": "多火山少平原，地震海嘯颱風夾擊，日本如何克服惡劣的天然條件成就霸業？",
+            "description": "成為頻道會員支持我們創作： https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3_Jw/join 如果喜歡我們的頻道, 記得 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/mL6_Vz7hiSs/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/mL6_Vz7hiSs/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/mL6_Vz7hiSs/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "窮奢極欲",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-06T10:00:19Z"
+        }
+    },
+    "txH1B1-jQEU": {
+        "kind": "youtube#searchResult",
+        "etag": "jkJvtb-Ps6NkJ_dVzbS-A1O3wBk",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "txH1B1-jQEU"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-15T09:44:08Z",
+            "channelId": "UCIU8ha-NHmLjtUwU7dFiXUA",
+            "title": "6.2地震！花蓮機車行老闆沒跑　監視器拍下「1舉動」惹哭網｜三立新聞網 SETN.com",
+            "description": "觀看【三立即時新聞】重大消息不斷更新：http://bit.ly/36jnhEA ◎訂閱【三立新聞網YouTube】看新聞直播：http://bit.ly/2W7jK6E ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/txH1B1-jQEU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/txH1B1-jQEU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/txH1B1-jQEU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "三立新聞網SETN",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T09:44:08Z"
+        }
+    },
+    "MZHFNOKh4og": {
+        "kind": "youtube#searchResult",
+        "etag": "uTVxZTTvb8IVTL1eecNmWaCft9k",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "MZHFNOKh4og"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-15T05:48:47Z",
+            "channelId": "UC5l1Yto5oOIgRXlI4p4VKbw",
+            "title": "【中天直播#LIVE】快訊! 12:03花蓮規模6.2地震 最大震度5級 全台有感｜已有8次餘震 氣象局推估:餘震還會持續一整周 20221215 @CtiNews",
+            "description": "地震#花蓮#全台有感#地震預報中心#氣象局#中天電視地震報告:12/15-12:3規模6.2臺灣東部海域深6km，花5-東4宜4投4嘉4彰4中4 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/MZHFNOKh4og/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/MZHFNOKh4og/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/MZHFNOKh4og/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "中天電視",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T05:48:47Z"
+        }
+    },
+    "Z_MoYeaG428": {
+        "kind": "youtube#searchResult",
+        "etag": "rsosw-cwaArbf0GW8kxCzO6Qisw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Z_MoYeaG428"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-16T02:02:51Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "回到登山口吃熱便當！玉山攻頂前地震 5人遭落石擊傷@newsebc",
+            "description": "攀玉山主峰遇上地震，遭落石擊中！六人登山隊中，有五人受傷，包括頭部被砸中、手骨折以及膝蓋受傷。簡易包紮後，徒步走下山 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Z_MoYeaG428/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Z_MoYeaG428/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Z_MoYeaG428/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-16T02:02:51Z"
+        }
+    },
+    "weklcn1iJ0I": {
+        "kind": "youtube#searchResult",
+        "etag": "txqQOMZfAoyNt9-sRs8n0ADPb_k",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "weklcn1iJ0I"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T00:30:53Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "台東強震規模6.4 餘震逾40次 地震來了怎麼躲 主播告訴你｜TVBS新聞",
+            "description": "地震#台東#怎麼躲#TVBS新聞#TVBS直播#TVBS新聞網○訂閱【TVBS國際+】第一時間掌握全球新聞 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/weklcn1iJ0I/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/weklcn1iJ0I/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/weklcn1iJ0I/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T00:30:53Z"
+        }
+    },
+    "BjAkgZq4TD0": {
+        "kind": "youtube#searchResult",
+        "etag": "_mbnR7B1qfkp2YMG0fhsz8DVJtw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "BjAkgZq4TD0"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-05T15:07:02Z",
+            "channelId": "UC_nl3nLyWHDDcKxq8Hz78YA",
+            "title": "中國史上最恐怖地震，劇烈 8.25 強震奪去 83 萬人性命，淺談 1556 年嘉靖大地震 | Wayne&#39;s House 隨意寮 | 災難故事系列",
+            "description": "本集介紹1556 年發生在明朝的嘉靖大地震#地震#嘉靖大地震#大地震00:00 開頭介紹00:26 嘉靖大地震03:43 地震記.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/BjAkgZq4TD0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/BjAkgZq4TD0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/BjAkgZq4TD0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Wayne's House 隨意寮",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-05T15:07:02Z"
+        }
+    },
+    "rzy8BzyLTqo": {
+        "kind": "youtube#searchResult",
+        "etag": "cj6dg72lZuTa9vckW6DnTr5PWsA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "rzy8BzyLTqo"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-23T21:35:40Z",
+            "channelId": "UC93xGed_ZU2eVYKkhfFqUGQ",
+            "title": "【地震】2022/12/24 05:17:59 臺東縣池上鄉 規模5.2 最大震度4",
+            "description": "跳到速報發布點00:21 紀錄日期(發生時間)：2022/12/24 05:17:59 編號：111184 震央：臺東縣池上鄉深度：13.3km (極淺層地震) ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/rzy8BzyLTqo/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/rzy8BzyLTqo/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/rzy8BzyLTqo/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "Vivogamer8",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-23T21:35:40Z"
+        }
+    },
+    "JphAUn-0eCE": {
+        "kind": "youtube#searchResult",
+        "etag": "enUyXy76YJMAYdycfMZXa0hFqwM",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "JphAUn-0eCE"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-11T03:02:30Z",
+            "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+            "title": "3:24東部海域規模5.9地震 全台有感搖晃【最新快訊】",
+            "description": "地震#驚醒#全台有感2022.10.11【最新快訊】今天凌晨3:24發生有感地震，很多人可能都在睡夢中驚醒，這次地震的震央在花蓮外海 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/JphAUn-0eCE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/JphAUn-0eCE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/JphAUn-0eCE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "台視新聞 TTV NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-11T03:02:30Z"
+        }
+    },
+    "FaDZ-oHa-58": {
+        "kind": "youtube#searchResult",
+        "etag": "QHzicH099XTpcFrX2CI-fHmQUZo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "FaDZ-oHa-58"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T08:35:13Z",
+            "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+            "title": "【1600地震快報】14:44規模6.8主震出爐　玉里屋倒.台鐵列車翻LIVE",
+            "description": "根據中央氣象局資訊，17日晚間9時41分至今天，台東接連發生數十起地震，都是淺層地震，其中最大為芮氏規模6.4，最大震度6強 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/FaDZ-oHa-58/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/FaDZ-oHa-58/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/FaDZ-oHa-58/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS選新聞",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T08:35:13Z"
+        }
+    },
+    "HIDctI72T4o": {
+        "kind": "youtube#searchResult",
+        "etag": "PYV6nGiNbXbW0kW32jErbavp3oc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "HIDctI72T4o"
+        },
+        "snippet": {
+            "publishedAt": "2022-05-26T12:31:18Z",
+            "channelId": "UC0UN_9ETd4_M_ZlkIncA18g",
+            "title": "白河地震影像紀錄，珍貴的歷史教材。｜塵封的1964膠卷｜公視 #獨立特派員 第751集 20220525",
+            "description": "從過去文獻記錄來看，1935年的新竹台中地震保留了相對完整的地震影像，而1964年白河地震影像保存的關鍵人物則是當年服務於 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HIDctI72T4o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HIDctI72T4o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HIDctI72T4o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "公共電視-獨立特派員 PTS INNEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-26T12:31:18Z"
+        }
+    },
+    "Hhe3_of3gHc": {
+        "kind": "youtube#searchResult",
+        "etag": "gwPxc1XIihhQ5XD5N3xGmB9pSN0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Hhe3_of3gHc"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T08:36:06Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "【1600地震快報】14:44規模6.8主震出爐　玉里屋倒.台鐵列車翻LIVE",
+            "description": "根據中央氣象局資訊，17日晚間9時41分至今天，台東接連發生數十起地震，都是淺層地震，其中最大為芮氏規模6.4，最大震度6強 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Hhe3_of3gHc/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Hhe3_of3gHc/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Hhe3_of3gHc/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T08:36:06Z"
+        }
+    },
+    "wMFKmOsv-0s": {
+        "kind": "youtube#searchResult",
+        "etag": "suH1zSH_R7Ftq52GkIM6FnIGSUQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "wMFKmOsv-0s"
+        },
+        "snippet": {
+            "publishedAt": "2022-04-25T03:25:15Z",
+            "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+            "title": "學者預測地震規模8恐將來臨 台灣百年地震週期牽引火山危機? 環太平洋火山帶上的台灣海溝型地震將入百年活躍期? T觀點 20220423 (完整版)",
+            "description": "火山#地震#地震規模8級將到#大屯火山#富士山#櫻島火山#阿蘇火山#長白山#白頭山#殺生石#九尾妖狐#天池湖水怪【姐姐請支援】 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/wMFKmOsv-0s/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/wMFKmOsv-0s/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/wMFKmOsv-0s/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS 優選頻道",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-25T03:25:15Z"
+        }
+    },
+    "5Zd6OFnAouE": {
+        "kind": "youtube#searchResult",
+        "etag": "RhyEC_f2bQUaQgeODAezokxhaFI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "5Zd6OFnAouE"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-17T17:37:44Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】規模6.4強震蝦池水倒灌！高雄愛河現飛魚奇觀超震撼 @東森新聞 CH51",
+            "description": "台東強震！蝦池水劇晃24F泳池掀巨浪驚喊：衝浪了？ 規模6.4強震蝦池水倒灌！高雄愛河現飛魚奇觀超震撼影片來源：○【爆廢公社 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/5Zd6OFnAouE/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/5Zd6OFnAouE/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/5Zd6OFnAouE/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-17T17:37:44Z"
+        }
+    },
+    "HHHcSjkfn5w": {
+        "kind": "youtube#searchResult",
+        "etag": "RFPJmwrmvDeN79xX35Nw37UmmpA",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "HHHcSjkfn5w"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T13:01:53Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】6.8強震首位罹難者！42歲水泥工遭機具重壓不治 @東森新聞 CH51",
+            "description": "6.8強震首位罹難者！42歲水泥工遭機具重壓不治訂閱【東森新聞】現在就加入》https://pse.is/396256 加入【東森新聞】會員，獨家 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/HHHcSjkfn5w/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/HHHcSjkfn5w/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/HHHcSjkfn5w/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T13:01:53Z"
+        }
+    },
+    "2dapBmfGkgY": {
+        "kind": "youtube#searchResult",
+        "etag": "OW0uBK9CDwsDPOo8xo3JbT04oAY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "2dapBmfGkgY"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-17T15:38:00Z",
+            "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+            "title": "氣象局:這地震非常奇怪 籲兩天內注意規模5餘震｜TVBS新聞",
+            "description": "地震#餘震#氣象局#Earthquake #TVBS新聞#TVBS直播#TVBS新聞網○訂閱【TVBS國際+】第一時間掌握全球新聞 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/2dapBmfGkgY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/2dapBmfGkgY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/2dapBmfGkgY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-17T15:38:00Z"
+        }
+    },
+    "cvmxafytsiM": {
+        "kind": "youtube#searchResult",
+        "etag": "MaG12gzhV6HYJctaXyw4vSHqz7g",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "cvmxafytsiM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T07:39:33Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】14:44台東6.8強震 玉里大樓倒塌壓超商【特別報導】",
+            "description": "【台東地震】比昨天更大！14:44台東規模6.8強震最大震度6級【特別報導】 訂閱【東森新聞】現在就加入》https://pse.is/396256 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/cvmxafytsiM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/cvmxafytsiM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/cvmxafytsiM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T07:39:33Z"
+        }
+    },
+    "1sCgM1F_EaU": {
+        "kind": "youtube#searchResult",
+        "etag": "5UjIG1SpNKAVv64mA1XQ2JGp8kY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "1sCgM1F_EaU"
+        },
+        "snippet": {
+            "publishedAt": "2022-04-13T13:00:09Z",
+            "channelId": "UCmgDmqjxbkqIXu4rNbrKodA",
+            "title": "失控地球! 海膽大遷徙.狂捕15條地震魚 天降異象亂了套!? 【國民大會精選】",
+            "description": "真的亂了套，墾丁海中竟然出現上萬顆海膽大規模遷徙，是自然現象?還是再逃避災難?連一向是防災模範生的日本，也被強降雨打得 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1sCgM1F_EaU/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1sCgM1F_EaU/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1sCgM1F_EaU/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "TVBS 優選頻道",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-13T13:00:09Z"
+        }
+    },
+    "PZUnvLNpssY": {
+        "kind": "youtube#searchResult",
+        "etag": "6jwG5bjToZIVwyyniPncJOGFHH0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "PZUnvLNpssY"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-16T11:00:08Z",
+            "channelId": "UC_5AjKFz3tww1WSPzM6wF1A",
+            "title": "驚！央行再升半碼 2023房市恐大地震？｜央行升息｜通貨膨脹｜文華苑｜元利信義聯勤｜real estate｜mansion｜591看豪宅｜591新建案｜591地產小學堂｜ep.65",
+            "description": "央行昨天又升息半碼了！   房貸最低利率抬升到1.93% 買房族最近是不是都挺低氣壓的... 不過豪宅市場卻沒受到影響？   甚至傳出 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/PZUnvLNpssY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/PZUnvLNpssY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/PZUnvLNpssY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "591看豪宅",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-16T11:00:08Z"
+        }
+    },
+    "oDEZNNYaRR8": {
+        "kind": "youtube#searchResult",
+        "etag": "oq6Q-k1O0c2_rGKlwfLSsowwLg4",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "oDEZNNYaRR8"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T10:30:30Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】花蓮高寮大橋斷裂 3人跌落獲救送醫無大礙 @東森新聞 CH51",
+            "description": "下午發生規模6.8強震，花蓮玉里的高寮大橋，發生斷裂。民眾經過時，發現整座橋，已經柔腸寸斷；當時有3人摔落橋下，還好獲救 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oDEZNNYaRR8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oDEZNNYaRR8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oDEZNNYaRR8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T10:30:30Z"
+        }
+    },
+    "b7SCEbnfp0g": {
+        "kind": "youtube#searchResult",
+        "etag": "Pw-MoHLlYSZFksjgboCb1f6f3LI",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "b7SCEbnfp0g"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-15T09:15:00Z",
+            "channelId": "UC8WQI_pbIl1lyafKFWGE-gQ",
+            "title": "LE SSERAFIM采源直播不小心說髒話瞬間瞳孔地震 姐姐們幼稚又愛「欺負」忙內讓恩彩超無奈XD|  [K-潮流]",
+            "description": "女孩們開起直播與粉絲們互動彩源在直播中不小心說了髒話後瞬間引起現場混亂大家好，這裡是K-潮流頻道,一個快樂追星的地方如果 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/b7SCEbnfp0g/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/b7SCEbnfp0g/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/b7SCEbnfp0g/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "K-潮流",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-15T09:15:00Z"
+        }
+    },
+    "f6BJStRmz24": {
+        "kind": "youtube#searchResult",
+        "etag": "s0YSVSWfQ8ihXF7gRh-3lcN8v4E",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "f6BJStRmz24"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T10:15:09Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】玉里民宅倒塌壓毀超商 救援全記錄 @東森新聞 CH51",
+            "description": "下午兩點四十四分，發生芮氏規模6.8地震，造成花蓮玉里市區中山路一處超商，建築物倒塌，受困4人全數救出，現場最新情形。",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/f6BJStRmz24/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/f6BJStRmz24/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/f6BJStRmz24/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T10:15:09Z"
+        }
+    },
+    "Ha4NE462Pm4": {
+        "kind": "youtube#searchResult",
+        "etag": "5FdNUQJhEJ-2g1WM1W7twXfkfCc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "Ha4NE462Pm4"
+        },
+        "snippet": {
+            "publishedAt": "2022-06-20T02:05:56Z",
+            "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+            "title": "花蓮規模6.0震劇烈搖晃 地震瞬間即時影像曝【最新快訊】",
+            "description": "花蓮#地震#台灣2022.06.20【最新快訊】今（20）日上午9點05分發生芮氏規模6.0地震，根據中央氣象局地震報告指出，震央位於 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/Ha4NE462Pm4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/Ha4NE462Pm4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/Ha4NE462Pm4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "台視新聞 TTV NEWS",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-06-20T02:05:56Z"
+        }
+    },
+    "_bmrv7wWEiE": {
+        "kind": "youtube#searchResult",
+        "etag": "nX1CwT4_mO8lKxIxtlsawXpOTWo",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "_bmrv7wWEiE"
+        },
+        "snippet": {
+            "publishedAt": "2022-11-20T02:12:17Z",
+            "channelId": "UC0QwtDaikX5JD-Pa53cv9fQ",
+            "title": "台灣地震直播(地震速報、強震即時警報) | TaiwanEarthquakeLive | 台湾地震ライブ | 대만 지진 라이브",
+            "description": "相關標籤：#地震#地震速報#地震預警➤官方網站：https://www.matchapudding.net/ ➤版權聲明：Copyright © 2022 抹茶娛樂.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/_bmrv7wWEiE/default_live.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/_bmrv7wWEiE/mqdefault_live.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/_bmrv7wWEiE/hqdefault_live.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "台灣地震直播",
+            "liveBroadcastContent": "live",
+            "publishTime": "2022-11-20T02:12:17Z"
+        }
+    },
+    "qdZ2CbIRYY0": {
+        "kind": "youtube#searchResult",
+        "etag": "q0HjLnlr68aqvLzDm-f7ZY3z6-8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "qdZ2CbIRYY0"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T01:58:26Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】地震夜襲！花蓮富里鄉震度5 災情頻傳@newsebc",
+            "description": "東部連續兩起地震，花蓮縣富里鄉的震度也達到5級，搖晃威力之大，嚇壞民眾，而在玉里也出現零星災情，有路面龜裂、電線杆位移 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/qdZ2CbIRYY0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/qdZ2CbIRYY0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/qdZ2CbIRYY0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T01:58:26Z"
+        }
+    },
+    "gae5S1PgL9k": {
+        "kind": "youtube#searchResult",
+        "etag": "BARj2HpBE9Xj7_uk73JF0EGT3Yw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "gae5S1PgL9k"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T09:04:29Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】台東6.8強震 大樓、學校倒塌 橋面斷裂 最新災情 【特別報導】",
+            "description": "台東6.8強震大樓、學校倒塌橋面斷裂最新災情訂閱【東森新聞】現在就加入》https://pse.is/396256 加入【東森新聞】會員，獨家 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/gae5S1PgL9k/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/gae5S1PgL9k/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/gae5S1PgL9k/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T09:04:29Z"
+        }
+    },
+    "44WmNhAMi-o": {
+        "kind": "youtube#searchResult",
+        "etag": "iDRmV1v89CFqxgRYgb50nMwoE50",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "44WmNhAMi-o"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T07:36:36Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "【台東地震】不敵連續強震 花蓮玉里大樓倒塌@newsebc",
+            "description": "【台東地震】最新》連震撐不住！花蓮玉里中山路二段大樓倒塌【台東地震】最新》14：57花東發生有感地震預估震度3級以上 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/44WmNhAMi-o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/44WmNhAMi-o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/44WmNhAMi-o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T07:36:36Z"
+        }
+    },
+    "sr2eRhbZOEQ": {
+        "kind": "youtube#searchResult",
+        "etag": "w7O0XwXR5CrgZjc23BkdGm8tKjc",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "sr2eRhbZOEQ"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T16:16:19Z",
+            "channelId": "UC5l1Yto5oOIgRXlI4p4VKbw",
+            "title": "【中天直播#LIVE】震不停! 全台有感地震池上規模6.8 花蓮玉里大樓倒塌 高寮大橋斷裂20220918 @中天新聞​",
+            "description": "地震#關山#餘震#很奇怪#斷層#台東#池上責任小編:虎編cti135 ✨中天數位媒體【24小時新聞 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/sr2eRhbZOEQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/sr2eRhbZOEQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/sr2eRhbZOEQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "中天電視",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T16:16:19Z"
+        }
+    },
+    "H8dPpcW-LV8": {
+        "kind": "youtube#searchResult",
+        "etag": "bBl4HYlMWvph88W8c9EkMlVruy4",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "H8dPpcW-LV8"
+        },
+        "snippet": {
+            "publishedAt": "2022-05-20T11:00:19Z",
+            "channelId": "UC4P-jpzO1aL86uzGaesoOEw",
+            "title": "《地震》滋滋老師說故事090｜繪本推薦｜睡前故事｜自然科學",
+            "description": "支持實體繪本https://shoppingfun.co/2x3yP ○服務項目: ○親子音樂遊戲〈實體課〉 https://www.facebook.com/zizizimusic/ ○音樂 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/H8dPpcW-LV8/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/H8dPpcW-LV8/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/H8dPpcW-LV8/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "滋滋音樂故事屋",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-20T11:00:19Z"
+        }
+    },
+    "oMbRIYVoQVQ": {
+        "kind": "youtube#searchResult",
+        "etag": "Z0ha2cULbeANjLnnnXwYg-d7D2g",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "oMbRIYVoQVQ"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-21T07:21:14Z",
+            "channelId": "UC3EXlNYqWlli5IjgWHMbQRA",
+            "title": "地震演練|國家防災日 裕誠幼兒園演練地震避難疏散",
+            "description": "921國家防災日，高雄市立裕誠幼兒園舉辦避難掩護演練觀摩；當地震警報聲響起，小朋友都在老師的指導之下，迅速找掩護躲到 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/oMbRIYVoQVQ/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/oMbRIYVoQVQ/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/oMbRIYVoQVQ/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "高雄都會台 CH4 - 中嘉寬頻",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-21T07:21:14Z"
+        }
+    },
+    "W_fGZd01L-4": {
+        "kind": "youtube#searchResult",
+        "etag": "p00oX_GB1zdiBBtKHRg_h9U0mKw",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "W_fGZd01L-4"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-19T11:30:07Z",
+            "channelId": "UCiYZw0h6hA5ENlPhTZFTHTA",
+            "title": "台灣地震上中國微博熱搜...地震規模6.4竟被和諧！？｜VS MEDIAｘ@攝徒日記Fun TV",
+            "description": "VSMEDIA #原創授權✓攝徒日記Fun TV   https://reurl.cc/60eyLM #地震  創作者全面徵稿中▷https://goo.gl/ISUxJs 按讚VS ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/W_fGZd01L-4/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/W_fGZd01L-4/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/W_fGZd01L-4/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "VS MEDIA Taiwan",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-19T11:30:07Z"
+        }
+    },
+    "1MLfPVE9UHY": {
+        "kind": "youtube#searchResult",
+        "etag": "Y6roOCdx3y6FYL_gs-4zFz-bJF8",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "1MLfPVE9UHY"
+        },
+        "snippet": {
+            "publishedAt": "2022-11-13T12:00:00Z",
+            "channelId": "UCEwq73MPHvNfgLmQebCu9TA",
+            "title": "冬暖夏涼能抗9級地震3D打印的房屋你覺得怎樣？ #shorts #科普 #黑科技",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/1MLfPVE9UHY/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/1MLfPVE9UHY/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/1MLfPVE9UHY/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "小张科普",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-13T12:00:00Z"
+        }
+    },
+    "uhXvdHzTDP0": {
+        "kind": "youtube#searchResult",
+        "etag": "1o-MZyMaYN6ZLuB0fc_0iqLL31k",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "uhXvdHzTDP0"
+        },
+        "snippet": {
+            "publishedAt": "2022-04-12T04:29:52Z",
+            "channelId": "UCa32OtZqhDqDqCHeWO477qg",
+            "title": "2022年04月12日 高雄市六龜區地震(地震速報、強震即時警報)",
+            "description": "跳至地震速報發佈時間點00:16 此次地震與速報相關資訊https://eew.ee/1110196 ○○ 影片內容○○ 左上方的水瓶與懸掛物是用來 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/uhXvdHzTDP0/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/uhXvdHzTDP0/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/uhXvdHzTDP0/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "台灣地震監視",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-04-12T04:29:52Z"
+        }
+    },
+    "LHPPC-uePFk": {
+        "kind": "youtube#searchResult",
+        "etag": "4VkUbK4P7R3f6Pn7Bms41j5Qi6c",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "LHPPC-uePFk"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-15T06:03:46Z",
+            "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+            "title": "最新》花蓮規模6.2地震 民眾從家中逃出、商店商品掉落@newsebc",
+            "description": "12點03分花蓮外海發生的地震，花蓮民眾最有感，超市貨架上有不少陳列商品都掉下來，幸好沒有砸傷顧客，另外還有居民在家中， ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/LHPPC-uePFk/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/LHPPC-uePFk/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/LHPPC-uePFk/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "東森新聞 CH51",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-15T06:03:46Z"
+        }
+    },
+    "ivZfgCVoG5M": {
+        "kind": "youtube#searchResult",
+        "etag": "PPrt3an5eFtIT7N4ts8xUcQB_nQ",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "ivZfgCVoG5M"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-07T11:14:27Z",
+            "channelId": "UCgQ03GbEfDJCeZeX5r2jlug",
+            "title": "搶救地震危樓，需要多你一分力  #shorts",
+            "description": "訂閱頻道關注更多慈善訊息：https://reurl.cc/xERgN5 #ngo #慈濟#慈善#公益#弱勢#醫療#人文#教育#關懷.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/ivZfgCVoG5M/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/ivZfgCVoG5M/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/ivZfgCVoG5M/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "慈濟慈善基金會",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-07T11:14:27Z"
+        }
+    },
+    "TnAxP-C01JI": {
+        "kind": "youtube#searchResult",
+        "etag": "RVZ5PiEO4IP5ALxUvZdkZg2p68k",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "TnAxP-C01JI"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-30T02:12:53Z",
+            "channelId": "UCs0y97OHS2dO7ZOgwSYxAig",
+            "title": "台鐵 台東線 玉里-東里間鐵路0918地震 災後搶修工程",
+            "description": "2022.12.27 台鐵台東線玉里-東里間鐵路0918地震災後搶修工程.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/TnAxP-C01JI/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/TnAxP-C01JI/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/TnAxP-C01JI/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "臺鐵影音專區",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-30T02:12:53Z"
+        }
+    },
+    "396HzpMn8iM": {
+        "kind": "youtube#searchResult",
+        "etag": "o1XeqEV7Y1iBYBYenczAetpxbss",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "396HzpMn8iM"
+        },
+        "snippet": {
+            "publishedAt": "2022-09-18T08:05:34Z",
+            "channelId": "UCquR_6XazKViaC_f7zBYgYg",
+            "title": "臺灣省花蓮縣發生6.9級地震，震源深度10公裡",
+            "description": "台湾省花莲县发生6.9级地震，震源深度10公里.",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/396HzpMn8iM/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/396HzpMn8iM/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/396HzpMn8iM/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "今日中國",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-09-18T08:05:34Z"
+        }
+    },
+    "veBZHLSIH_o": {
+        "kind": "youtube#searchResult",
+        "etag": "ECXJubuaVobb7sOn2HH4AV1q4KY",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "veBZHLSIH_o"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-03T03:34:04Z",
+            "channelId": "UCwOdWAdpgCwKBCsHnqdDdSg",
+            "title": "喵喵新市鎮強震警報 #地震 #921大地震 #走過路過不要錯過",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/veBZHLSIH_o/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/veBZHLSIH_o/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/veBZHLSIH_o/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "喵喵公車紀錄(AKA哇酷哇酷)",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-03T03:34:04Z"
+        }
+    },
+    "-_KmZ_dSPQA": {
+        "kind": "youtube#searchResult",
+        "etag": "D4aFnZ2tUi387Gla7MKoYhHNNWU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "-_KmZ_dSPQA"
+        },
+        "snippet": {
+            "publishedAt": "2022-05-12T07:53:13Z",
+            "channelId": "UCnZDTHNQ77SqXOF-hKmLoXA",
+            "title": "史丹利想洗鴛鴦浴來硬的！地震來了老公舉動依依傻爆眼 11點熱吵店 20220511",
+            "description": "「地表最震撼」組合！當#荒謬大師沈玉琳遇上#瘋瘋貴婦Melody，擦出你意想不到的火花！ 《#11點熱吵店》每週一至週五晚間11 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/-_KmZ_dSPQA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/-_KmZ_dSPQA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/-_KmZ_dSPQA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "11點熱吵店",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-12T07:53:13Z"
+        }
+    },
+    "aLXDFoU8jJg": {
+        "kind": "youtube#searchResult",
+        "etag": "Lj9JZIPW72aOQKNMGp57IjOu3Y0",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "aLXDFoU8jJg"
+        },
+        "snippet": {
+            "publishedAt": "2022-10-05T01:05:37Z",
+            "channelId": "UCOVgdD2Yyd6FkDwiT3g3_5g",
+            "title": "小樂比的。嘉明湖｜天使的眼淚｜917大地震番外篇 南橫坍方 差點下不了山",
+            "description": "嘉明湖#向陽山屋#嘉明湖山屋#向陽名樹#親子登山#JiamingLake #hiking #柯小樂登山隊#百岳練習生#熊出沒#台灣第二高山湖泊#帶 ...",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/aLXDFoU8jJg/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/aLXDFoU8jJg/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/aLXDFoU8jJg/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "小樂比的流水帳日記",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-10-05T01:05:37Z"
+        }
+    },
+    "UulNT8KtQLA": {
+        "kind": "youtube#searchResult",
+        "etag": "kl9g0ggOJk4lGlKFbeTiCqBXiWU",
+        "id": {
+            "kind": "youtube#video",
+            "videoId": "UulNT8KtQLA"
+        },
+        "snippet": {
+            "publishedAt": "2022-12-16T10:00:26Z",
+            "channelId": "UCFjWta72f0HKXTV9k73ajkA",
+            "title": "【瑪爾濟斯愛撒嬌】因為我太害怕地震了所以女傭這樣安撫我_shorts",
+            "description": "",
+            "thumbnails": {
+                "default": {
+                    "url": "https://i.ytimg.com/vi/UulNT8KtQLA/default.jpg",
+                    "width": 120,
+                    "height": 90
+                },
+                "medium": {
+                    "url": "https://i.ytimg.com/vi/UulNT8KtQLA/mqdefault.jpg",
+                    "width": 320,
+                    "height": 180
+                },
+                "high": {
+                    "url": "https://i.ytimg.com/vi/UulNT8KtQLA/hqdefault.jpg",
+                    "width": 480,
+                    "height": 360
+                }
+            },
+            "channelTitle": "黑糖牛奶",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-16T10:00:26Z"
+        }
+    }
+}
