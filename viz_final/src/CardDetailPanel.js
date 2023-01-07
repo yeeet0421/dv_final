@@ -3,20 +3,20 @@ import ReactDOM from 'react-dom';
 import Paper from '@material-ui/core/Paper';
 import IconButton from '@material-ui/core/IconButton';
 import CloseIcon from '@material-ui/icons/Close';
+import LineTrend from './LineTrend';
 
 
-
-const CardDetailPanel =( {width, setTrendNumber, trendNumber} ) => {
+const CardDetailPanel =( {width, trends, setTrendNumber, trendNumber} ) => {
 const halfWidth = width*0.5;
 const styles = ({
     OuterContainer: {
-        position: "fixed",
+        // position: "fixed",
         flexDirection: "row",
-        right:'10%',
-        bottom:'0%',
-        top: '0%',
+        // right:'10%',
+        // bottom:'0%',
+        // top: '0%',
         flexWrap: 'no-wrap',
-        zIndex:6,
+        // zIndex:6,
         width: {width},
         // margin:10,
         // padding:10
@@ -63,25 +63,29 @@ const styles = ({
     }
 });
         
-    if(trendNumber){
+    if(trendNumber !== 6){
         return (
             <div style = {styles.OuterContainer}>
                 {/* <Paper style={styles.paper2} elevation={13}> */}
-                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width, {height:window.innerHeight-130})} elevation={13}>
+                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width, {height:window.innerHeight-50})} elevation={3}>
                 <div style={styles.rootTitle}>
-                <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>setTrendNumber(false)}>
+                <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>setTrendNumber(6)}>
                     <CloseIcon />
                 </IconButton>
                 </div>
                 <div style = {styles.paper2_UpperContainer}>
-                    <div style={styles.rootTitle}> Trend{trendNumber} Detail Panel</div>
+                    <div style={styles.rootTitle}> {trends[trendNumber]} Detail Panel</div>
                 </div>
                 <div height="5"><hr></hr></div>
                 <div style = {styles.paper2_BelowContainer}>
-                    <div style = {{width: halfWidth}}>
-                        <div style={styles.containerTitle}> Google trend </div>
+                    <div style = {{width: width}}>
+                        {/* <div style={styles.containerTitle}> Google trend </div> */}
+                        <LineTrend
+                            trends={trends}
+                            trendNumber={trendNumber}
+                        ></LineTrend>
                     </div>
-                    <div style = {{width: halfWidth}}>
+                    {/* <div style = {{width: halfWidth}}>
                         <div style={styles.containerTitle}> 
                         Youtube Video uploading trend
                         </div>
@@ -91,7 +95,7 @@ const styles = ({
                                 </g>
                             </svg>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
                 <div height="5"><hr></hr></div>
                 <div>

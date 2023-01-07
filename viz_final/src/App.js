@@ -6,8 +6,9 @@ import WordCloudFrame from './WordCloudFrame';
 import data from "./word.js";
 
 function App() {
+  const trends = ['1922', '世足賽', '地震', '疫情', '烏克蘭'];
   const [progress, setProgress] = useState(1);
-  const [trendNumber, setTrendNumber] = useState(false);
+  const [trendNumber, setTrendNumber] = useState(6);
   const temp1 = window.innerWidth;
   const temp2 = window.innerHeight;
   const [windowWidth, setWindowWidth] = useState(temp1);
@@ -34,6 +35,7 @@ function App() {
           <IntroFrame windowWidth = {windowWidth}
                       windowHeight = {windowHeight*0.9}
                       setUIProgress = {setUIProgress}
+                      trends = {trends}
                       trendNumber = {trendNumber}
                       setTrendNumber = {setTrendNumber}
           />
@@ -46,6 +48,7 @@ function App() {
         <div>
           <WordCloudFrame windowWidth = {windowWidth}
                       windowHeight = {windowHeight*0.9}
+                      trends = {trends}
                       trendNumber = {trendNumber}
                       data = {data} 
                       setUIProgress = {setUIProgress}

@@ -4,3 +4,8 @@
 - **CSV** Google Trends 的 折線圖也是網頁載的
 - **Video Info** 的函式在 video_scrape 的 `vids`
 - **Comment Info** 的函式在 video_scrape 的 `download_comments`
+
+### downloads
+
+`npm i chart.js`
+`npm i react-chartjs-2`

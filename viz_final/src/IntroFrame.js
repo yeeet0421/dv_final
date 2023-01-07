@@ -4,13 +4,14 @@ import { useState } from 'react';
 import IntroCards from './IntroCards';
 import CardDetailPanel from './CardDetailPanel';
 
-const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trendNumber, setTrendNumber}) => {
+const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumber, setTrendNumber}) => {
 
     const [isVisible, setIsVisible] = useState(false);
     
     return (
-        <div>
+        <div style={{display:'flex'}}>
             <IntroCards setCardDetailNumber = {setTrendNumber}
+                        trends = {trends}
                         trendNumber = {trendNumber}
                         windowWidth = {windowWidth}
                         windowHeight = {windowHeight}
@@ -19,6 +20,7 @@ const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trendNumber, setT
             />
             <CardDetailPanel isVisible={isVisible}
                         width = {windowWidth * 0.5}
+                        trends = {trends}
                         trendNumber = {trendNumber}
                         setTrendNumber = {setTrendNumber}
             />
