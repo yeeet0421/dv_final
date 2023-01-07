@@ -4,7 +4,9 @@ import Paper from '@material-ui/core/Paper';
 import IconButton from '@material-ui/core/IconButton';
 import CloseIcon from '@material-ui/icons/Close';
 import LineTrend from './LineTrend';
+import { Row, Col} from 'react-materialize';
 
+import line_data from './line_data.js';
 
 const CardDetailPanel =( {width, trends, setTrendNumber, trendNumber} ) => {
 const halfWidth = width*0.5;
@@ -74,7 +76,7 @@ const styles = ({
                 </IconButton>
                 </div>
                 <div style = {styles.paper2_UpperContainer}>
-                    <div style={styles.rootTitle}> {trends[trendNumber]} Detail Panel</div>
+                    <div style={styles.rootTitle}> {trends[trendNumber]} 2022 Overview</div>
                 </div>
                 <div height="5"><hr></hr></div>
                 <div style = {styles.paper2_BelowContainer}>
@@ -85,29 +87,57 @@ const styles = ({
                             trendNumber={trendNumber}
                         ></LineTrend>
                     </div>
-                    {/* <div style = {{width: halfWidth}}>
-                        <div style={styles.containerTitle}> 
-                        Youtube Video uploading trend
-                        </div>
-                        <div style={styles.content}>
-                            <svg>
-                                <g>
-                                </g>
-                            </svg>
-                        </div>
-                    </div> */}
                 </div>
                 <div height="5"><hr></hr></div>
-                <div>
-                    Some Statistics
-                </div>
+                {/* <div style = {styles.containerTitle}>
+                    Statistics
+                </div> */}
+                <Row>
+                    <Col
+                        m={7}
+                        s={7}
+                    >
+                        <span>前500相關影片中的繁體中文影片數量：{line_data[trends[trendNumber]]['stat']['vidCount']}</span>
+                    </Col>
+                    <Col
+                        m={5}
+                        s={5}
+                    >
+                        <span>總觀看量：{line_data[trends[trendNumber]]['stat']['viewCount']}</span>
+                    </Col>
+                </Row>
+                <Row>
+                    <Col
+                        m={7}
+                        s={7}
+                    >
+                        <span>總讚數：{line_data[trends[trendNumber]]['stat']['likeCount']}</span>
+                    </Col>
+                    <Col
+                        m={5}
+                        s={5}
+                    >
+                        <span>總評論量：{line_data[trends[trendNumber]]['stat']['comCount']}</span>
+                    </Col>
+                </Row>
                 </Paper>  
             </div>
         );
     }
-    else
-        return null;
-    
+    else{
+        return (
+            <div style = {styles.OuterContainer}>
+                {/* <Paper style={styles.paper2} elevation={13}> */}
+                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width, {height:window.innerHeight-50})} elevation={3}>
+                <div style = {styles.paper2_UpperContainer}>
+                    <div style={styles.rootTitle}> Hover keywords to get an overview</div>
+                    <div style={styles.rootTitle}> Click keywords to get more insights</div>
+                </div>
+                
+                </Paper>  
+            </div>
+        );
+    }
 }
 
 export default CardDetailPanel;

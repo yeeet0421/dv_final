@@ -4,6 +4,8 @@ import IntroFrame from './IntroFrame';
 import React, { useState, useEffect } from 'react';
 import WordCloudFrame from './WordCloudFrame';
 import data from "./word.js";
+import IconButton from '@material-ui/core/IconButton';
+import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 
 function App() {
   const trends = ['1922', '世足賽', '地震', '疫情', '烏克蘭'];
@@ -39,13 +41,15 @@ function App() {
                       trendNumber = {trendNumber}
                       setTrendNumber = {setTrendNumber}
           />
-          
-          <button onClick={()=>setUIProgress(2)}>Next UI</button>
+          {/* <button type="button" class="btn btn-primary" onClick={()=>setUIProgress(2)}>Next UI</button> */}
         </div>
       );
     } else if (progress===2){
       return(
         <div>
+          <IconButton style={{float:"right",marginRight: 20,}} color="inherit" aria-label="Close" onClick={()=>setUIProgress(1)}>
+              <ArrowBackIcon />
+          </IconButton>
           <WordCloudFrame windowWidth = {windowWidth}
                       windowHeight = {windowHeight*0.9}
                       trends = {trends}
@@ -59,6 +63,9 @@ function App() {
     } else if (progress===3){
       return(
         <div>
+          <IconButton style={{float:"right",marginRight: 10,}} color="inherit" aria-label="Close" onClick={()=>setUIProgress(1)}>
+              <ArrowBackIcon />
+          </IconButton>
           <MyWordCloud width = {1500}
                       height = {800}
                       data = {data} 

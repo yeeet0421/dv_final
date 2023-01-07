@@ -20,9 +20,9 @@ def vid_line(line_json, keyword, date):
     vid_data = json.load(f)
     vid_line = dict.fromkeys(date, 0)
 
-    for i in vid_data['info']:
+    for i in vid_data:
         # 可能要先過濾掉非中文影片喔
-        vid_date = i['items'][0]['snippet']['publishedAt'].split('T')[0].split('-', 1)[1]
+        vid_date = vid_data[i]['items'][0]['snippet']['publishedAt'].split('T')[0].split('-', 1)[1]
         month, day = vid_date.split('-')[0], vid_date.split('-')[1]
         if int(month) == 12 and int(day) >= 25:
             vid_line['12-25'] = vid_line['12-25'] + 1

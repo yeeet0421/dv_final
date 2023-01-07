@@ -39,7 +39,7 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
                                                                         marginTop: windowHeight*0.07,
                                                                         marginBottom: windowHeight*0.07 }}
                         >
-                            <span className="white-text" style={{fontSize: 2 + 'em'}}>
+                            <span className="white-text" style={{fontSize:20, marginBottom: 100}}>
                                 {trend}
                             </span>
                         </CardPanel>
