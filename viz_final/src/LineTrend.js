@@ -11,7 +11,7 @@ import {
 } from 'chart.js';
 import { Line } from 'react-chartjs-2';
 
-import data from './data.js';
+import line_data from './line_data.js';
 
 ChartJS.register(
   CategoryScale,
@@ -39,19 +39,19 @@ export const options = {
 
 
 const LineTrend = ({trends,trendNumber}) => {
-  const labels = data[trends[trendNumber]]['line']['google']['labels'];
+  const labels = line_data[trends[trendNumber]]['line']['google']['labels'];
   const datas = {
     labels,
     datasets: [
       {
         label: 'Google Trends',
-        data: data[trends[trendNumber]]['line']['google']['val'],
+        data: line_data[trends[trendNumber]]['line']['google']['val'],
         borderColor: 'rgb(255, 99, 132)',
         backgroundColor: 'rgba(255, 99, 132, 0.5)',
       },
       {
         label: 'Youtube Upload Trends',
-        data: data[trends[trendNumber]]['line']['youtube']['val'],
+        data: line_data[trends[trendNumber]]['line']['youtube']['val'],
         borderColor: 'rgb(53, 162, 235)',
         backgroundColor: 'rgba(53, 162, 235, 0.5)',
       },
