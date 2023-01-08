@@ -1,0 +1,2217 @@
+{
+    "mEsccQphoXo": {
+        "kind": "youtube#videoListResponse",
+        "etag": "kZOLntWEPGlLIsOtauVhnBTrJF0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "us62hLUovAQBSrolpLtKoSL1h7M",
+                "id": "mEsccQphoXo",
+                "snippet": {
+                    "publishedAt": "2022-06-10T10:50:03Z",
+                    "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+                    "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+                    "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打給1922，陳時中的說法像推卸責任。甚至1922轉介下，也有具法律位階的橫向溝通「醫療網」，就是負責安排法傳病人隔離病房的單位。\n#公權力#陳時中#1922 \n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/433j4g\n●【TVBS新聞網】👉https://tvbs.pse.is/43tsjj",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/mEsccQphoXo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/mEsccQphoXo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/mEsccQphoXo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/mEsccQphoXo/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/mEsccQphoXo/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "TVBS NEWS",
+                    "tags": [
+                        "55",
+                        "55台",
+                        "55頻道",
+                        "tvbs",
+                        "tvbs新聞",
+                        "新聞直播",
+                        "新聞",
+                        "直播",
+                        "NEWS",
+                        "TaiwanNews",
+                        "NewsLive",
+                        "24H直播",
+                        "即時新聞",
+                        "十點不一樣",
+                        "氣象",
+                        "天氣",
+                        "24小時直播",
+                        "專題新聞",
+                        "TVBS",
+                        "TVBS新聞",
+                        "LIVE",
+                        "現場",
+                        "國際",
+                        "娛樂",
+                        "政治",
+                        "時事",
+                        "直擊",
+                        "體育",
+                        "焦點",
+                        "專題",
+                        "趙少康",
+                        "少康",
+                        "56台",
+                        "NEWS LIVE",
+                        "最新",
+                        "Taiwan News",
+                        "Taiwan",
+                        "即時",
+                        "媒體",
+                        "新聞媒體",
+                        "烏俄",
+                        "中國大陸",
+                        "本土疫情",
+                        "omicron",
+                        "新冠肺炎",
+                        "烏俄軍",
+                        "烏克蘭總統",
+                        "烏克蘭",
+                        "台股",
+                        "烏東",
+                        "基輔",
+                        "聯合國",
+                        "北約",
+                        "澤倫斯基",
+                        "白俄羅斯",
+                        "停電",
+                        "普欽",
+                        "波蘭",
+                        "台積電",
+                        "香港疫情",
+                        "疫情",
+                        "確診足跡",
+                        "上海疫情",
+                        "陳水扁",
+                        "空軍"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+                        "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打給1922，陳時中的說法像推卸責任。甚至1922轉介下，也有具法律位階的橫向溝通「醫療網」，就是負責安排法傳病人隔離病房的單位。\n#公權力#陳時中#1922 \n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/433j4g\n●【TVBS新聞網】👉https://tvbs.pse.is/43tsjj"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT2M5S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "4167",
+                    "likeCount": "50",
+                    "favoriteCount": "0",
+                    "commentCount": "26"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/mEsccQphoXo\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+                        "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打給1922，陳時中的說法像推卸責任。甚至1922轉介下，也有具法律位階的橫向溝通「醫療網」，就是負責安排法傳病人隔離病房的單位。\n#公權力#陳時中#1922 \n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/433j4g\n●【TVBS新聞網】👉https://tvbs.pse.is/43tsjj"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.5230664766582682
+    },
+    "VBlv9r5AfaA": {
+        "kind": "youtube#videoListResponse",
+        "etag": "_CpNa0cndV9xoIPvWm2szbWHxyk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "R2H_81tEJggFmhxlZy569bQwx7M",
+                "id": "VBlv9r5AfaA",
+                "snippet": {
+                    "publishedAt": "2022-04-21T12:48:00Z",
+                    "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
+                    "title": "\"快篩2條線\"陽性怎麼辦? 正解曝:打1922錯了!│中視新聞 20220421",
+                    "description": "本土疫情持續攀升，許多民眾自行快篩但萬一篩出兩條線 是陽性下一步該怎麼辦呢?有網友PO文抱怨打1922 電話被轉來轉去，無限鬼打牆，原來根據中央公布的SOP，如果不是居家隔離者，打1922就是錯誤動作。\n\n⊕新 聞 焦 點⊕\n今日十大發燒新聞→http://bit.ly/3n9VlKg\n政治最前線→http://bit.ly/3n9Vq0w\n生活大小事→http://bit.ly/3b3x4mQ\n社會大代誌→http://bit.ly/3b78gdJ\n好料看這裡→https://bit.ly/3lf63Pq\n\n⊕熱 門 節 目⊕ \n庶民大頭家►https://bit.ly/3kb3kq7\n地球那一端►https://bit.ly/3nfUbyh\n\n⊕中視全球資訊網 ⊕\n中視新聞台HD直播頻道►http://bit.ly/28Or4iO\n中視新聞YouTube頻道►http://bit.ly/27riGeN\n中視新聞FB社群►http://bit.ly/28Ovhnh\n中視全球資訊網►http://new.ctv.com.tw/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/VBlv9r5AfaA/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "中視新聞",
+                    "tags": [
+                        "台湾",
+                        "台湾新闻",
+                        "中時電子報",
+                        "新聞",
+                        "ctv",
+                        "chinatv",
+                        "中視新聞",
+                        "chinatvnews",
+                        "ctvnews",
+                        "ctv news",
+                        "news",
+                        "新聞直播",
+                        "午間新聞",
+                        "晚間新聞",
+                        "國際新聞",
+                        "晨間新聞",
+                        "午間新聞直播",
+                        "晚間新聞直播",
+                        "線上直播",
+                        "直播線上看",
+                        "新聞專題",
+                        "特別報導",
+                        "改變的起點",
+                        "60分鐘",
+                        "#中視午間新聞線上看",
+                        "庶民大頭家",
+                        "決戰2020 庶民大頭家",
+                        "哈遠儀"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "\"快篩2條線\"陽性怎麼辦? 正解曝:打1922錯了!│中視新聞 20220421",
+                        "description": "本土疫情持續攀升，許多民眾自行快篩但萬一篩出兩條線 是陽性下一步該怎麼辦呢?有網友PO文抱怨打1922 電話被轉來轉去，無限鬼打牆，原來根據中央公布的SOP，如果不是居家隔離者，打1922就是錯誤動作。\n\n⊕新 聞 焦 點⊕\n今日十大發燒新聞→http://bit.ly/3n9VlKg\n政治最前線→http://bit.ly/3n9Vq0w\n生活大小事→http://bit.ly/3b3x4mQ\n社會大代誌→http://bit.ly/3b78gdJ\n好料看這裡→https://bit.ly/3lf63Pq\n\n⊕熱 門 節 目⊕ \n庶民大頭家►https://bit.ly/3kb3kq7\n地球那一端►https://bit.ly/3nfUbyh\n\n⊕中視全球資訊網 ⊕\n中視新聞台HD直播頻道►http://bit.ly/28Or4iO\n中視新聞YouTube頻道►http://bit.ly/27riGeN\n中視新聞FB社群►http://bit.ly/28Ovhnh\n中視全球資訊網►http://new.ctv.com.tw/"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT1M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "67477",
+                    "likeCount": "232",
+                    "favoriteCount": "0",
+                    "commentCount": "63"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/VBlv9r5AfaA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "\"快篩2條線\"陽性怎麼辦? 正解曝:打1922錯了!│中視新聞 20220421",
+                        "description": "本土疫情持續攀升，許多民眾自行快篩但萬一篩出兩條線 是陽性下一步該怎麼辦呢?有網友PO文抱怨打1922 電話被轉來轉去，無限鬼打牆，原來根據中央公布的SOP，如果不是居家隔離者，打1922就是錯誤動作。\n\n⊕新 聞 焦 點⊕\n今日十大發燒新聞→http://bit.ly/3n9VlKg\n政治最前線→http://bit.ly/3n9Vq0w\n生活大小事→http://bit.ly/3b3x4mQ\n社會大代誌→http://bit.ly/3b78gdJ\n好料看這裡→https://bit.ly/3lf63Pq\n\n⊕熱 門 節 目⊕ \n庶民大頭家►https://bit.ly/3kb3kq7\n地球那一端►https://bit.ly/3nfUbyh\n\n⊕中視全球資訊網 ⊕\n中視新聞台HD直播頻道►http://bit.ly/28Or4iO\n中視新聞YouTube頻道►http://bit.ly/27riGeN\n中視新聞FB社群►http://bit.ly/28Ovhnh\n中視全球資訊網►http://new.ctv.com.tw/"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.41881939611269764
+    },
+    "PamPMegFPug": {
+        "kind": "youtube#videoListResponse",
+        "etag": "E2FLcpQ0ErrF7L4WWLWq7cmz6rE",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "m9UGE4gpEs7QoRXMUq7W318gD4s",
+                "id": "PamPMegFPug",
+                "snippet": {
+                    "publishedAt": "2022-06-10T10:50:06Z",
+                    "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+                    "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+                    "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打給1922，陳時中的說法像推卸責任。甚至1922轉介下，也有具法律位階的橫向溝通「醫療網」，就是負責安排法傳病人隔離病房的單位。\n#公權力#陳時中#1922 \n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/44qxwg\n\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/PamPMegFPug/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/PamPMegFPug/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/PamPMegFPug/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/PamPMegFPug/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/PamPMegFPug/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "TVBS選新聞",
+                    "tags": [
+                        "TVBS",
+                        "TVBS新聞",
+                        "LIVE",
+                        "新聞直播",
+                        "國際",
+                        "政治",
+                        "時事",
+                        "NEWS",
+                        "直擊",
+                        "體育",
+                        "焦點",
+                        "選新聞",
+                        "十點不一樣",
+                        "專題",
+                        "NEWS LIVE",
+                        "最新",
+                        "Taiwan News",
+                        "Taiwan",
+                        "即時新聞",
+                        "烏克蘭",
+                        "俄羅斯",
+                        "陳時中",
+                        "柯文哲",
+                        "新冠肺炎",
+                        "omicron",
+                        "中國大陸",
+                        "烏俄",
+                        "趙少康",
+                        "蔡英文",
+                        "本土疫情",
+                        "蘇貞昌",
+                        "拜登",
+                        "習近平",
+                        "普欽",
+                        "香港疫情",
+                        "CNN",
+                        "烏俄軍​",
+                        "烏克蘭總統",
+                        "台股",
+                        "俄烏",
+                        "基輔",
+                        "北約",
+                        "聯合國",
+                        "白俄羅斯",
+                        "俄烏開戰",
+                        "澤倫斯基",
+                        "停電",
+                        "波蘭",
+                        "確診足跡",
+                        "疫情",
+                        "南韓",
+                        "北韓",
+                        "日本",
+                        "亞洲",
+                        "經濟",
+                        "空軍"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "1922無公權力? 陳時中稱「僅入案通知」 醫曝實務狀況嘆:卸責｜TVBS新聞",
+                        "description": "1922到底歸誰管？指揮官陳時中說是委外民營、無法執行公權力，只能入案通知相關機構。醫師直言，過去確診病人需要就醫都會打給1922，陳時中的說法像推卸責任。甚至1922轉介下，也有具法律位階的橫向溝通「醫療網」，就是負責安排法傳病人隔離病房的單位。\n#公權力#陳時中#1922 \n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/44qxwg\n\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT2M5S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "3551",
+                    "likeCount": "71",
+                    "favoriteCount": "0",
+                    "commentCount": "23"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/PamPMegFPug\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {}
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.4658137860986757
+    },
+    "eUAKlIns29M": {
+        "kind": "youtube#videoListResponse",
+        "etag": "mAzZBVsvQgUKG3U8jAVDNweeYtY",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ncJWmcW8H1OSNKjJJkVoGv4piK4",
+                "id": "eUAKlIns29M",
+                "snippet": {
+                    "publishedAt": "2022-06-11T09:17:45Z",
+                    "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+                    "title": "「公權力解釋有很多種」 陳時中：我講1922「無指揮權」 @newsebc",
+                    "description": "衛福部長陳時中，先前稱1922防疫專線，沒有公權力，讓外界相當疑惑，畢竟兩年多來，防疫影片都教育民眾，疫情相關問題，先打1922，甚至疫情初期，陳時中自己也拍過影片，說有症狀打1922詢問，對此國民黨就痛批，沒公權力的說法，是推卸責任，不過陳時中回應，公權力的解釋很多種，自己說的是，1922沒有指揮、調度權的意思，但新北市長侯友宜表示，這真的顛覆民眾的想法。\n\n訂閱【東森新聞】現在就加入》https://pse.is/396256\n加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8\n\n#公權力 #陳時中 #1922",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/eUAKlIns29M/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/eUAKlIns29M/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/eUAKlIns29M/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/eUAKlIns29M/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        }
+                    },
+                    "channelTitle": "東森新聞 CH51",
+                    "tags": [
+                        "東森",
+                        "東森新聞",
+                        "EBC",
+                        "新聞",
+                        "news",
+                        "Ch51",
+                        "台灣",
+                        "ㄉㄨㄥ森新聞",
+                        "東森直播",
+                        "東森新聞直播",
+                        "新聞直播",
+                        "直播新聞",
+                        "直播",
+                        "ㄒㄧㄣ新聞直播",
+                        "東森新聞台",
+                        "东森",
+                        "51新聞",
+                        "新聞 直播",
+                        "#新聞直播",
+                        "新闻",
+                        "东森新闻",
+                        "直播新聞台",
+                        "東森新聞ch51",
+                        "線上新聞",
+                        "1922又甩鍋1800",
+                        "公權力",
+                        "陳時中",
+                        "1922",
+                        "指揮權",
+                        "防疫"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "「公權力解釋有很多種」 陳時中：我講1922「無指揮權」 @newsebc",
+                        "description": "衛福部長陳時中，先前稱1922防疫專線，沒有公權力，讓外界相當疑惑，畢竟兩年多來，防疫影片都教育民眾，疫情相關問題，先打1922，甚至疫情初期，陳時中自己也拍過影片，說有症狀打1922詢問，對此國民黨就痛批，沒公權力的說法，是推卸責任，不過陳時中回應，公權力的解釋很多種，自己說的是，1922沒有指揮、調度權的意思，但新北市長侯友宜表示，這真的顛覆民眾的想法。\n\n訂閱【東森新聞】現在就加入》https://pse.is/396256\n加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8\n\n#公權力 #陳時中 #1922"
+                    },
+                    "defaultAudioLanguage": "zh"
+                },
+                "contentDetails": {
+                    "duration": "PT2M2S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "2121",
+                    "likeCount": "8",
+                    "favoriteCount": "0",
+                    "commentCount": "17"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/eUAKlIns29M\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "「公權力解釋有很多種」 陳時中：我講1922「無指揮權」 @newsebc",
+                        "description": "衛福部長陳時中，先前稱1922防疫專線，沒有公權力，讓外界相當疑惑，畢竟兩年多來，防疫影片都教育民眾，疫情相關問題，先打1922，甚至疫情初期，陳時中自己也拍過影片，說有症狀打1922詢問，對此國民黨就痛批，沒公權力的說法，是推卸責任，不過陳時中回應，公權力的解釋很多種，自己說的是，1922沒有指揮、調度權的意思，但新北市長侯友宜表示，這真的顛覆民眾的想法。\n\n訂閱【東森新聞】現在就加入》https://pse.is/396256\n加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8\n\n#公權力 #陳時中 #1922"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.500432674788041
+    },
+    "yiw26hu54_4": {
+        "kind": "youtube#videoListResponse",
+        "etag": "jtAx-u18hL6oZu-c05ul2vKMn-c",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "Ox_8i5gVP4_6s1DPOFua0jSPXu8",
+                "id": "yiw26hu54_4",
+                "snippet": {
+                    "publishedAt": "2022-04-26T15:30:02Z",
+                    "channelId": "UCR3asjvr_WAaxwJYEDV_Bfw",
+                    "title": "獨家》男快篩陽、兒高燒「1922打不通」 北市改「關懷中心」可派車 @newsebc",
+                    "description": "台北市有一位民眾，日前出現發燒症狀，自主快篩陽性後，遲遲打不進1922，沒想到只有9個月大的兒子，也跟著發燒到38度，讓夫妻倆相當緊張，就怕自己跟兒子同時染疫，可能會延誤就醫時間，最後是在關懷中心幫忙之下，成功到醫院治療，而現在台北市也更改派車流程，未來民眾只要是快篩陽性，可以通報關懷中心，協助處理。\n\n訂閱【東森新聞】現在就加入》https://pse.is/396256\n加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8\n\n#快篩 #北市 #關懷中心",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/yiw26hu54_4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/yiw26hu54_4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/yiw26hu54_4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/yiw26hu54_4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/yiw26hu54_4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "東森新聞 CH51",
+                    "tags": [
+                        "東森",
+                        "東森新聞",
+                        "EBC",
+                        "新聞",
+                        "news",
+                        "Ch51",
+                        "台灣",
+                        "ㄉㄨㄥ森新聞",
+                        "東森直播",
+                        "東森新聞直播",
+                        "新聞直播",
+                        "直播新聞",
+                        "直播",
+                        "ㄒㄧㄣ新聞直播",
+                        "東森新聞台",
+                        "东森",
+                        "51新聞",
+                        "新聞 直播",
+                        "#新聞直播",
+                        "新闻",
+                        "东森新闻",
+                        "直播新聞台",
+                        "東森新聞ch51",
+                        "線上新聞",
+                        "破例孩送醫1800",
+                        "快篩",
+                        "北市",
+                        "關懷中心",
+                        "發燒",
+                        "染疫"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "獨家》男快篩陽、兒高燒「1922打不通」 北市改「關懷中心」可派車 @newsebc",
+                        "description": "台北市有一位民眾，日前出現發燒症狀，自主快篩陽性後，遲遲打不進1922，沒想到只有9個月大的兒子，也跟著發燒到38度，讓夫妻倆相當緊張，就怕自己跟兒子同時染疫，可能會延誤就醫時間，最後是在關懷中心幫忙之下，成功到醫院治療，而現在台北市也更改派車流程，未來民眾只要是快篩陽性，可以通報關懷中心，協助處理。\n\n訂閱【東森新聞】現在就加入》https://pse.is/396256\n加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8\n\n#快篩 #北市 #關懷中心"
+                    },
+                    "defaultAudioLanguage": "zh"
+                },
+                "contentDetails": {
+                    "duration": "PT2M15S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "7962",
+                    "likeCount": "31",
+                    "favoriteCount": "0",
+                    "commentCount": "15"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/yiw26hu54_4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "獨家》男快篩陽、兒高燒「1922打不通」 北市改「關懷中心」可派車 @newsebc",
+                        "description": "台北市有一位民眾，日前出現發燒症狀，自主快篩陽性後，遲遲打不進1922，沒想到只有9個月大的兒子，也跟著發燒到38度，讓夫妻倆相當緊張，就怕自己跟兒子同時染疫，可能會延誤就醫時間，最後是在關懷中心幫忙之下，成功到醫院治療，而現在台北市也更改派車流程，未來民眾只要是快篩陽性，可以通報關懷中心，協助處理。\n\n訂閱【東森新聞】現在就加入》https://pse.is/396256\n加入【東森新聞】會員，獨家影片搶先看》https://pse.is/39m9l8\n\n#快篩 #北市 #關懷中心"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.4127634629700014
+    },
+    "2DLRXscxcT0": {
+        "kind": "youtube#videoListResponse",
+        "etag": "7ODRnYep3HXhvtC_NemabHN3aAs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "ty_RtHTVJVDPFpTKaBYVcgRNhV8",
+                "id": "2DLRXscxcT0",
+                "snippet": {
+                    "publishedAt": "2022-06-08T11:47:39Z",
+                    "channelId": "UCDCJyLpbfgeVE9iZiEam-Kg",
+                    "title": "解密1922 全台6據點!客服外包接線後轉件｜華視新聞 20220608",
+                    "description": "想要了解疫情狀況，或是有感染疑慮想要通報症狀，現在很多人都知道，要直接撥打1922防疫專線。不過您知道嗎？其實1922專線早在2004年就設立，方便民眾通報疫情或是諮詢傳染病。不過就有相關人員透露，客服人員並不需要有醫學背景，只要看幾小時的教學影片就可以上陣，回答民眾問題，人員甚至沒辦法幫民眾轉接到其他單位，而這也引起外界質疑，這條防疫專線的幫助是否相當有限。\n\nhttps://news.cts.com.tw/cts/life/202206/202206082082292.html\n🔴華視新聞24小時LIVE直播 https://pse.is/CTSNewsLive\n\n█ 訂閱華視新聞 CH52 █\n【YouTube】 https://pse.is/CTS_YT\n【Facebook】 http://pse.is/CTS_FB\n【Instagram】 http://pse.is/CTS_INS\n【LINE@】 http://pse.is/CTS_Line\n【行動APP】 https://cts.pse.is/CTS_APP\n\n【華視新聞網】 http://pse.is/CTS_NEWS\n【全球資訊網】 http://pse.is/CTS_official\n\n#華視新聞 #CH52",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/2DLRXscxcT0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/2DLRXscxcT0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/2DLRXscxcT0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/2DLRXscxcT0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/2DLRXscxcT0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "華視新聞 CH52",
+                    "tags": [
+                        "華視",
+                        "新聞",
+                        "莊雨潔",
+                        "1922",
+                        "據點",
+                        "解密"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "解密1922 全台6據點!客服外包接線後轉件｜華視新聞 20220608",
+                        "description": "想要了解疫情狀況，或是有感染疑慮想要通報症狀，現在很多人都知道，要直接撥打1922防疫專線。不過您知道嗎？其實1922專線早在2004年就設立，方便民眾通報疫情或是諮詢傳染病。不過就有相關人員透露，客服人員並不需要有醫學背景，只要看幾小時的教學影片就可以上陣，回答民眾問題，人員甚至沒辦法幫民眾轉接到其他單位，而這也引起外界質疑，這條防疫專線的幫助是否相當有限。\n\nhttps://news.cts.com.tw/cts/life/202206/202206082082292.html\n🔴華視新聞24小時LIVE直播 https://pse.is/CTSNewsLive\n\n█ 訂閱華視新聞 CH52 █\n【YouTube】 https://pse.is/CTS_YT\n【Facebook】 http://pse.is/CTS_FB\n【Instagram】 http://pse.is/CTS_INS\n【LINE@】 http://pse.is/CTS_Line\n【行動APP】 https://cts.pse.is/CTS_APP\n\n【華視新聞網】 http://pse.is/CTS_NEWS\n【全球資訊網】 http://pse.is/CTS_official\n\n#華視新聞 #CH52"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT1M37S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "682",
+                    "likeCount": "7",
+                    "favoriteCount": "0",
+                    "commentCount": "1"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/2DLRXscxcT0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "解密1922 全台6據點!客服外包接線後轉件｜華視新聞 20220608",
+                        "description": "想要了解疫情狀況，或是有感染疑慮想要通報症狀，現在很多人都知道，要直接撥打1922防疫專線。不過您知道嗎？其實1922專線早在2004年就設立，方便民眾通報疫情或是諮詢傳染病。不過就有相關人員透露，客服人員並不需要有醫學背景，只要看幾小時的教學影片就可以上陣，回答民眾問題，人員甚至沒辦法幫民眾轉接到其他單位，而這也引起外界質疑，這條防疫專線的幫助是否相當有限。\n\nhttps://news.cts.com.tw/cts/life/202206/202206082082292.html\n🔴華視新聞24小時LIVE直播 https://pse.is/CTSNewsLive\n\n█ 訂閱華視新聞 CH52 █\n【YouTube】 https://pse.is/CTS_YT\n【Facebook】 http://pse.is/CTS_FB\n【Instagram】 http://pse.is/CTS_INS\n【LINE@】 http://pse.is/CTS_Line\n【行動APP】 https://cts.pse.is/CTS_APP\n\n【華視新聞網】 http://pse.is/CTS_NEWS\n【全球資訊網】 http://pse.is/CTS_official\n\n#華視新聞 #CH52"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.43119867682174157
+    },
+    "BvTpaErt_WI": {
+        "kind": "youtube#videoListResponse",
+        "etag": "xIrEXS1pznFESOAtbIDAz9VzM7Q",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "XhV-E6Pdp0lIbkqhOL1hoGgFQCM",
+                "id": "BvTpaErt_WI",
+                "snippet": {
+                    "publishedAt": "2022-06-11T10:26:50Z",
+                    "channelId": "UCL0_NxCvkcXwZHpvqgMZY-A",
+                    "title": "侯友宜問「1922能幫什麼」 陳時中:連你都不知?｜TVBS新聞",
+                    "description": "1922到底具不具有公權力? 新北市長侯友宜喊話，希望中央把1922功能講清楚，不然民眾不知道功能，防疫指揮官陳時中回應，如果連侯市長都不知道，那真是沒有辦法，強調可以來文到指揮中心，引爆戰火。\n#1922#侯友宜#陳時中\n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/44qxwg\n\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/BvTpaErt_WI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/BvTpaErt_WI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/BvTpaErt_WI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/BvTpaErt_WI/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/BvTpaErt_WI/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "TVBS選新聞",
+                    "tags": [
+                        "TVBS",
+                        "TVBS新聞",
+                        "LIVE",
+                        "新聞直播",
+                        "國際",
+                        "政治",
+                        "時事",
+                        "NEWS",
+                        "直擊",
+                        "體育",
+                        "焦點",
+                        "選新聞",
+                        "十點不一樣",
+                        "專題",
+                        "NEWS LIVE",
+                        "最新",
+                        "Taiwan News",
+                        "Taiwan",
+                        "即時新聞",
+                        "烏克蘭",
+                        "俄羅斯",
+                        "陳時中",
+                        "柯文哲",
+                        "新冠肺炎",
+                        "omicron",
+                        "中國大陸",
+                        "烏俄",
+                        "趙少康",
+                        "蔡英文",
+                        "本土疫情",
+                        "蘇貞昌",
+                        "拜登",
+                        "習近平",
+                        "普欽",
+                        "香港疫情",
+                        "CNN",
+                        "烏俄軍​",
+                        "烏克蘭總統",
+                        "台股",
+                        "俄烏",
+                        "基輔",
+                        "北約",
+                        "聯合國",
+                        "白俄羅斯",
+                        "俄烏開戰",
+                        "澤倫斯基",
+                        "停電",
+                        "波蘭",
+                        "確診足跡",
+                        "疫情",
+                        "南韓",
+                        "北韓",
+                        "日本",
+                        "亞洲",
+                        "經濟",
+                        "空軍"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "侯友宜問「1922能幫什麼」 陳時中:連你都不知?｜TVBS新聞",
+                        "description": "1922到底具不具有公權力? 新北市長侯友宜喊話，希望中央把1922功能講清楚，不然民眾不知道功能，防疫指揮官陳時中回應，如果連侯市長都不知道，那真是沒有辦法，強調可以來文到指揮中心，引爆戰火。\n#1922#侯友宜#陳時中\n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/44qxwg\n\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT1M49S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "4687",
+                    "likeCount": "59",
+                    "favoriteCount": "0",
+                    "commentCount": "33"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/BvTpaErt_WI\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Politics",
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {}
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.46292594909582746
+    },
+    "lWVdvRb2y8I": {
+        "kind": "youtube#videoListResponse",
+        "etag": "9UlxVCAkjsdjf2SF6_8KnKXoHjs",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "4nZeIu47vnx1b7PIkaGTmAHdvuU",
+                "id": "lWVdvRb2y8I",
+                "snippet": {
+                    "publishedAt": "2022-06-11T06:43:46Z",
+                    "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+                    "title": "CDC定調\"1922不具公權力\"  藍營批陳時中說謊",
+                    "description": "#公權力 #指揮中心 #陳時中\n\n1922到底有沒有公權力，引爆朝野激烈論戰，為了追查「恩恩案」的通報環節哪裡出了問題，國民黨立委質疑1922專線沒有即時調度，但指揮官陳時中回應，說1922只是「疫情諮詢和通報專線」，並不會直接執行公權力，反嗆這些立委「明知故問」。",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/lWVdvRb2y8I/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "台視新聞 TTV NEWS",
+                    "tags": [
+                        "綜合新聞",
+                        "公權力",
+                        "專線",
+                        "指揮官",
+                        "國民黨",
+                        "立委",
+                        "疫情",
+                        "民眾",
+                        "現在",
+                        "哪裡",
+                        "問題",
+                        "TTVNews"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "CDC定調\"1922不具公權力\"  藍營批陳時中說謊",
+                        "description": "#公權力 #指揮中心 #陳時中\n\n1922到底有沒有公權力，引爆朝野激烈論戰，為了追查「恩恩案」的通報環節哪裡出了問題，國民黨立委質疑1922專線沒有即時調度，但指揮官陳時中回應，說1922只是「疫情諮詢和通報專線」，並不會直接執行公權力，反嗆這些立委「明知故問」。"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT2M1S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "1186",
+                    "likeCount": "6",
+                    "favoriteCount": "0",
+                    "commentCount": "6"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/lWVdvRb2y8I\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {}
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.37420589318066216
+    },
+    "4BYfQfTkan4": {
+        "kind": "youtube#videoListResponse",
+        "etag": "tjqS5QJmZUDpFdQie839460sPL0",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "4jmt36gEWfcT1lqNmPV5uK9wQEY",
+                "id": "4BYfQfTkan4",
+                "snippet": {
+                    "publishedAt": "2022-01-11T06:55:09Z",
+                    "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+                    "title": "【本土群聚擴大.落地篩檢17陽性 1922平台將重啟 陳時中說明LIVE】",
+                    "description": "●​TVBS新聞直播搬新家囉! 最即時的新聞焦點立即鎖定👉http://tvbs.piee.pw/3sxevn\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/3nrjhn\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://pse.is/3c4lrn\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbsnews.pse.is/3ayanv\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbsnews.pse.is/SHMU9\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbsnews.pse.is/RJ5ZV\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/3fjh6z\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/4BYfQfTkan4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/4BYfQfTkan4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/4BYfQfTkan4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/4BYfQfTkan4/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/4BYfQfTkan4/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "TVBS NEWS",
+                    "tags": [
+                        "TVBS",
+                        "TVBS新聞",
+                        "LIVE",
+                        "新聞直播",
+                        "直播",
+                        "現場",
+                        "國際",
+                        "娛樂",
+                        "政治",
+                        "時事",
+                        "NEWS",
+                        "直擊",
+                        "體育",
+                        "焦點",
+                        "十點不一樣",
+                        "專題",
+                        "24H直播",
+                        "24小時直播",
+                        "趙少康",
+                        "少康",
+                        "文茜",
+                        "文茜世界週報",
+                        "陳文茜",
+                        "55台",
+                        "56台",
+                        "NEWS LIVE",
+                        "最新",
+                        "Taiwan News",
+                        "Taiwan",
+                        "即時",
+                        "即時新聞",
+                        "媒體",
+                        "新聞媒體",
+                        "蔡英文",
+                        "蘇貞昌",
+                        "國民黨",
+                        "民進黨",
+                        "時代力量",
+                        "藍營",
+                        "綠營",
+                        "台灣政治",
+                        "天氣",
+                        "颱風",
+                        "地震",
+                        "災害",
+                        "社會新聞",
+                        "台灣",
+                        "誰來Feat.趙少康",
+                        "誰來Feat",
+                        "新聞",
+                        "陳時中",
+                        "江啟臣",
+                        "韓國瑜",
+                        "韓粉",
+                        "朱立倫",
+                        "柯文哲",
+                        "國民大會",
+                        "新聞大白話",
+                        "主播",
+                        "記者",
+                        "中天",
+                        "中天新聞",
+                        "中天電視",
+                        "東森新聞",
+                        "三立",
+                        "三立新聞",
+                        "民視",
+                        "民視新聞",
+                        "年代",
+                        "年代新聞",
+                        "觀點",
+                        "全球視野",
+                        "寰宇",
+                        "壹電視",
+                        "ettoday",
+                        "疫苗",
+                        "疫情",
+                        "確診",
+                        "防疫",
+                        "AZ",
+                        "BNT",
+                        "輝瑞",
+                        "莫德納",
+                        "日本",
+                        "美國",
+                        "淹水",
+                        "梅雨",
+                        "焦點新聞",
+                        "新冠肺炎",
+                        "侯友宜",
+                        "郭台銘",
+                        "拜登",
+                        "民眾黨",
+                        "高端",
+                        "指揮中心",
+                        "五倍券",
+                        "疫苗混打",
+                        "王力宏離婚",
+                        "王力宏李靚蕾",
+                        "王力宏 李雲迪",
+                        "蘇怡寧 逃漏稅",
+                        "蘇怡寧 父母",
+                        "蘇怡寧婚姻",
+                        "蘇怡寧醫療糾紛",
+                        "立陶宛",
+                        "西安",
+                        "桃園疫情",
+                        "忠貞市場",
+                        "元宇宙ETF"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "【本土群聚擴大.落地篩檢17陽性 1922平台將重啟 陳時中說明LIVE】",
+                        "description": "●​TVBS新聞直播搬新家囉! 最即時的新聞焦點立即鎖定👉http://tvbs.piee.pw/3sxevn\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/3nrjhn\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://pse.is/3c4lrn\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbsnews.pse.is/3ayanv\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbsnews.pse.is/SHMU9\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbsnews.pse.is/RJ5ZV\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/3fjh6z\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT49M31S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "8512",
+                    "likeCount": "43",
+                    "favoriteCount": "0",
+                    "commentCount": "2"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/4BYfQfTkan4\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "liveStreamingDetails": {
+                    "actualStartTime": "2022-01-11T06:03:03Z",
+                    "actualEndTime": "2022-01-11T06:52:21Z",
+                    "scheduledStartTime": "2022-01-11T06:00:00Z"
+                },
+                "localizations": {
+                    "zh-TW": {
+                        "title": "【本土群聚擴大.落地篩檢17陽性 1922平台將重啟 陳時中說明LIVE】",
+                        "description": "●​TVBS新聞直播搬新家囉! 最即時的新聞焦點立即鎖定👉http://tvbs.piee.pw/3sxevn\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/3nrjhn\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://pse.is/3c4lrn\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbsnews.pse.is/3ayanv\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbsnews.pse.is/SHMU9\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbsnews.pse.is/RJ5ZV\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/3fjh6z\n●【TVBS新聞網】👉https://tvbsnews.pse.is/SH72D"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.7051063645330917
+    },
+    "uMZ-wde4hQU": {
+        "kind": "youtube#videoListResponse",
+        "etag": "7wKnPwGLvrXpgKr-o0DfJtrhkDk",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "bMXKAc8X8iOmSaQyVZ2Uec5DqLE",
+                "id": "uMZ-wde4hQU",
+                "snippet": {
+                    "publishedAt": "2022-04-30T10:33:44Z",
+                    "channelId": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+                    "title": "#獨家 亂? 男發燒且同事快篩陽 1922:預約醫院PCR 醫護驚喊:怎來這?｜TVBS新聞",
+                    "description": "有民眾出現發高燒症狀，且同事快篩陽性，自覺可能染疫，但當下買不到快篩試劑，所以詢問1922，對方請他預約醫院PCR，但篩檢站現場醫護卻要他「發燒去急診」，讓該民眾很疑惑。對此，疫情指揮中心指揮官陳時中說明，有症狀以急診PCR為主。\n#PCR#快篩#高燒\n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/433j4g\n●【TVBS新聞網】👉https://tvbs.pse.is/43tsjj",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/uMZ-wde4hQU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/uMZ-wde4hQU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/uMZ-wde4hQU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/uMZ-wde4hQU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/uMZ-wde4hQU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "TVBS NEWS",
+                    "tags": [
+                        "55",
+                        "55台",
+                        "55頻道",
+                        "tvbs",
+                        "tvbs新聞",
+                        "新聞直播",
+                        "新聞",
+                        "直播",
+                        "NEWS",
+                        "TaiwanNews",
+                        "NewsLive",
+                        "24H直播",
+                        "即時新聞",
+                        "十點不一樣",
+                        "氣象",
+                        "天氣",
+                        "24小時直播",
+                        "專題新聞",
+                        "TVBS",
+                        "TVBS新聞",
+                        "LIVE",
+                        "現場",
+                        "國際",
+                        "娛樂",
+                        "政治",
+                        "時事",
+                        "直擊",
+                        "體育",
+                        "焦點",
+                        "專題",
+                        "趙少康",
+                        "少康",
+                        "56台",
+                        "NEWS LIVE",
+                        "最新",
+                        "Taiwan News",
+                        "Taiwan",
+                        "即時",
+                        "媒體",
+                        "新聞媒體",
+                        "烏俄",
+                        "中國大陸",
+                        "本土疫情",
+                        "omicron",
+                        "新冠肺炎",
+                        "烏俄軍",
+                        "烏克蘭總統",
+                        "烏克蘭",
+                        "台股",
+                        "烏東",
+                        "基輔",
+                        "聯合國",
+                        "北約",
+                        "澤倫斯基",
+                        "白俄羅斯",
+                        "停電",
+                        "普欽",
+                        "波蘭",
+                        "台積電",
+                        "香港疫情",
+                        "疫情",
+                        "確診足跡",
+                        "上海疫情",
+                        "陳水扁"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "#獨家 亂? 男發燒且同事快篩陽 1922:預約醫院PCR 醫護驚喊:怎來這?｜TVBS新聞",
+                        "description": "有民眾出現發高燒症狀，且同事快篩陽性，自覺可能染疫，但當下買不到快篩試劑，所以詢問1922，對方請他預約醫院PCR，但篩檢站現場醫護卻要他「發燒去急診」，讓該民眾很疑惑。對此，疫情指揮中心指揮官陳時中說明，有症狀以急診PCR為主。\n#PCR#快篩#高燒\n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/433j4g\n●【TVBS新聞網】👉https://tvbs.pse.is/43tsjj"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT2M1S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "3414",
+                    "likeCount": "10",
+                    "favoriteCount": "0",
+                    "commentCount": "3"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/uMZ-wde4hQU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "#獨家 亂? 男發燒且同事快篩陽 1922:預約醫院PCR 醫護驚喊:怎來這?｜TVBS新聞",
+                        "description": "有民眾出現發高燒症狀，且同事快篩陽性，自覺可能染疫，但當下買不到快篩試劑，所以詢問1922，對方請他預約醫院PCR，但篩檢站現場醫護卻要他「發燒去急診」，讓該民眾很疑惑。對此，疫情指揮中心指揮官陳時中說明，有症狀以急診PCR為主。\n#PCR#快篩#高燒\n\n●訂閱【TVBS國際+】第一時間掌握全球新聞脈動👉https://tvbs.pse.is/44d3yw\n●訂閱【TVBS選新聞】您在乎的事 TVBS幫您選👉https://tvbs.pse.is/43xjzc\n●訂閱【TVBSNEWS】最新資訊馬上接收👉https://tvbs.pse.is/43v84n\n●下載【TVBS新聞APP】最即時！  立即下載👉https://tvbs.pse.is/44cmph\n●下載【TVBS國際+APP】深入剖析國際時事！👉 https://bit.ly/3qnQDgs\n●按讚【TVBS國際+FB】帶您掌握最新國際消息👉https://tvbs.pse.is/44dj55\n●按讚【TVBS新聞FB】帶您掌握即時新資訊👉https://tvbs.pse.is/43gl4x\n●追蹤【TVBS新聞IG】與您討論「您該在乎的事」👉https://tvbs.pse.is/433j4g\n●【TVBS新聞網】👉https://tvbs.pse.is/43tsjj"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.290018445946353
+    },
+    "0_1uJsPazt0": {
+        "kind": "youtube#videoListResponse",
+        "etag": "eIsQtLyVWIBqZyAvkLdzh9qyjNI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "21dSrs34lCcKSMMMwWUH3cvGdcM",
+                "id": "0_1uJsPazt0",
+                "snippet": {
+                    "publishedAt": "2022-06-11T10:40:32Z",
+                    "channelId": "UCmdVfsLHu18lCkKYXSOGUxg",
+                    "title": "【全程字幕】槓上了！侯友宜嗆1922無公權力「能幫何忙」　陳時中竟酸「連市長都不知」：那真的沒辦法｜中時新聞網",
+                    "description": "中央流行疫情指揮中心指揮官陳時中指稱1922專線是委託民間經營，沒有公權力。新北市長侯友宜今天表示，1922兩年多來，在所有的民眾認知底下，就是防疫專線也是就醫專線，突然告知民眾說沒有公權力，這完全顛覆民眾的想法，讓民眾很難接受。\n\n【相關新聞】\n陳時中指1922沒公權力 侯友宜：顛覆大家認知\nhttps://bit.ly/3xPUjvX\n\n#中時新聞網 #1922 #公權力 #陳時中 #侯友宜 #認知 #指揮中心 #防疫專線 #就醫專線 \n\n中時新聞網FB粉絲專頁👉http://bit.ly/2FIAjBe\n中時新聞網官網👉http://bit.ly/2FGK7vO\n加入【中時新聞網LINE】好友 👉https://lin.ee/s3kGEaD\n追蹤【中時新聞網IG】👉http://bit.ly/314iSBQ",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0_1uJsPazt0/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0_1uJsPazt0/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0_1uJsPazt0/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/0_1uJsPazt0/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/0_1uJsPazt0/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "中時新聞網",
+                    "tags": [
+                        "中時",
+                        "cti",
+                        "新聞",
+                        "news",
+                        "ChinaTimes",
+                        "中時電子報",
+                        "chinatimes",
+                        "中天",
+                        "中天電視台",
+                        "忠實",
+                        "忠實電子報",
+                        "中時墊子報",
+                        "中時新聞網",
+                        "中时电子报",
+                        "中时",
+                        "中國大陸",
+                        "兩岸",
+                        "大陸",
+                        "中时新闻网",
+                        "中国",
+                        "中國"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "【全程字幕】槓上了！侯友宜嗆1922無公權力「能幫何忙」　陳時中竟酸「連市長都不知」：那真的沒辦法｜中時新聞網",
+                        "description": "中央流行疫情指揮中心指揮官陳時中指稱1922專線是委託民間經營，沒有公權力。新北市長侯友宜今天表示，1922兩年多來，在所有的民眾認知底下，就是防疫專線也是就醫專線，突然告知民眾說沒有公權力，這完全顛覆民眾的想法，讓民眾很難接受。\n\n【相關新聞】\n陳時中指1922沒公權力 侯友宜：顛覆大家認知\nhttps://bit.ly/3xPUjvX\n\n#中時新聞網 #1922 #公權力 #陳時中 #侯友宜 #認知 #指揮中心 #防疫專線 #就醫專線 \n\n中時新聞網FB粉絲專頁👉http://bit.ly/2FIAjBe\n中時新聞網官網👉http://bit.ly/2FGK7vO\n加入【中時新聞網LINE】好友 👉https://lin.ee/s3kGEaD\n追蹤【中時新聞網IG】👉http://bit.ly/314iSBQ"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT8M50S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "24409",
+                    "likeCount": "665",
+                    "favoriteCount": "0",
+                    "commentCount": "260"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0_1uJsPazt0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "liveStreamingDetails": {
+                    "actualStartTime": "2022-06-11T10:40:32Z",
+                    "actualEndTime": "2022-06-11T10:51:15Z",
+                    "scheduledStartTime": "2022-06-11T10:40:09Z"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.5041527300354931
+    },
+    "IcKusjgz2Xg": {
+        "kind": "youtube#videoListResponse",
+        "etag": "_Ndt7We9VddeVWNrwfx1uZ0uZ2A",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "42rDFf80smwMawiyZDlUOApwx3o",
+                "id": "IcKusjgz2Xg",
+                "snippet": {
+                    "publishedAt": "2022-06-12T03:18:03Z",
+                    "channelId": "UCmdVfsLHu18lCkKYXSOGUxg",
+                    "title": "1922委外經營無公權力？　柯志恩翻出「這規定」電翻指揮中心｜中時新聞網",
+                    "description": "新北市兩歲幼童「恩恩」疑似因延誤就醫染疫死亡的事件持續延燒，其中1922轉案關鍵143分鐘真相待釐清，然而衛福部長陳時中卻多次強調「1922是委託民間經營，不具公權力」，國民黨智庫執行長、前立委柯志恩對此翻出了「只要是政府委託機關就具有行政機關的角色和權責」電翻指揮中心。\n\n【相關新聞】\n1922委外經營無公權力？藍營女戰神翻出「這規定」 23字電翻指揮中心\nhttps://bit.ly/3MCyNPi\n\n#中時新聞網 #1922 #公權力 #柯志恩 #陳時中 #指揮中心 #恩恩 #民間經營 #國民黨 #政府\n\n中時新聞網FB粉絲專頁👉http://bit.ly/2FIAjBe\n中時新聞網官網👉http://bit.ly/2FGK7vO\n加入【中時新聞網LINE】好友 👉https://lin.ee/s3kGEaD\n追蹤【中時新聞網IG】👉http://bit.ly/314iSBQ",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/IcKusjgz2Xg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/IcKusjgz2Xg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/IcKusjgz2Xg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/IcKusjgz2Xg/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/IcKusjgz2Xg/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "中時新聞網",
+                    "tags": [
+                        "中時",
+                        "cti",
+                        "新聞",
+                        "news",
+                        "ChinaTimes",
+                        "中時電子報",
+                        "chinatimes",
+                        "中天",
+                        "中天電視台",
+                        "忠實",
+                        "忠實電子報",
+                        "中時墊子報",
+                        "中時新聞網",
+                        "中时电子报",
+                        "中时",
+                        "中國大陸",
+                        "兩岸",
+                        "大陸",
+                        "中时新闻网",
+                        "中国",
+                        "中國",
+                        "1922",
+                        "公權力",
+                        "柯志恩",
+                        "陳時中",
+                        "指揮中心",
+                        "恩恩",
+                        "民間經營",
+                        "國民黨",
+                        "政府"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "1922委外經營無公權力？　柯志恩翻出「這規定」電翻指揮中心｜中時新聞網",
+                        "description": "新北市兩歲幼童「恩恩」疑似因延誤就醫染疫死亡的事件持續延燒，其中1922轉案關鍵143分鐘真相待釐清，然而衛福部長陳時中卻多次強調「1922是委託民間經營，不具公權力」，國民黨智庫執行長、前立委柯志恩對此翻出了「只要是政府委託機關就具有行政機關的角色和權責」電翻指揮中心。\n\n【相關新聞】\n1922委外經營無公權力？藍營女戰神翻出「這規定」 23字電翻指揮中心\nhttps://bit.ly/3MCyNPi\n\n#中時新聞網 #1922 #公權力 #柯志恩 #陳時中 #指揮中心 #恩恩 #民間經營 #國民黨 #政府\n\n中時新聞網FB粉絲專頁👉http://bit.ly/2FIAjBe\n中時新聞網官網👉http://bit.ly/2FGK7vO\n加入【中時新聞網LINE】好友 👉https://lin.ee/s3kGEaD\n追蹤【中時新聞網IG】👉http://bit.ly/314iSBQ"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT1M33S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": false,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "6542",
+                    "likeCount": "169",
+                    "favoriteCount": "0",
+                    "commentCount": "18"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/IcKusjgz2Xg\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "recordingDetails": {}
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.5074194741448449
+    },
+    "0AlX82OCAYw": {
+        "kind": "youtube#videoListResponse",
+        "etag": "xmT3-0sSpyTZB48RxEyIZu7CqaI",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "lSH5rY-tE5oQ5_eflnLJyUedNCc",
+                "id": "0AlX82OCAYw",
+                "snippet": {
+                    "publishedAt": "2022-06-03T09:27:51Z",
+                    "channelId": "UCHsKlGM7IXNnQqA6S8mEmBQ",
+                    "title": "中南部疫情將達高峰！政府沒有發揮功能？1922只能轉接電話...-【連假大補丸】這不是新聞 獨播",
+                    "description": "中重症+468創新高、兒童重症+3...中南部疫情將達高峰？\n活在撕心裂肺痛苦！中和2歲童爸...追「消失的81分鐘」？\n淚討「消失的81分鐘」真相！ 衛生所、消防局「形同虛設」？\n政府沒有發揮功能？只能轉接電話...1922扮演甚麼角色？\n新！119報案反遭踢皮球？ 4通電話81分鐘才等到救護車...\n2歲童「昏迷、抽搐」...救命還要等一下？119堅持找衛生所？\n「行政僵化」害2歲童來不及長大？延誤就醫？政府給真相？\n新北童重症亡催生「2歲童條款」...延誤就醫無解？誰責？\n送醫標準？孕婦確診高燒求救...沒有「呼吸困難」119拒收？\n耗時等救命？政策無用？基隆2歲童高燒找嘸醫院收治亡？\n醫院「量能超載」遭漠視？急診室外...上演「母抱孩童」求救？\n「確診76死」創新高！致死率萬分之9...疫情還在高原期？\n恐怖數據曝光！O毒快速奪命？確診者47%...3天內喪命？\n「重症比例偏低」標準太嚴？影響投藥黃金期？死亡率暴增？\n中、重症給藥差很大影響「搶命時機」？借鏡SARS時期作法？\n「嬰兒插管急救」又沒器材？醫院求救賈永婕比衛福部快？\n與病毒共存步步驚心？「器材不足、跑公文跑龜速」恐害命？\n新！今添6歲童腦炎重症 抽搐高燒42.7度！持續搶救中...\n兒童15重症、7腦炎「高於背景值」？重症關鍵在「熱痙攣」？\n「新冠病毒侵腦」兒童死亡率25%？腦炎激增與種族有關？\n家長狂問「B型腦膜炎疫苗防猛爆性腦炎」？病急亂投醫？\n5歲以下幼童沒「武器」抗O毒？輝瑞、莫德納將出場「抗敵」？\n輝瑞研究「5歲以下」打BNT第3劑Omicron保護力達80%\n「快篩陽確診」加速投藥不早做？阿中喊考慮「陽性一致率」？\n精準快篩+使用抗病毒藥物！陳秀熙：6月中可達「重症減害」\n口服藥Paxlovid爆怪現象 患者症狀復發？5天療程不夠？\nPaxlovid爆反彈現象？患者復發、病毒量暴增...用藥量不夠？\n北高確診「黃金交叉」黑數藏PCR？指揮中心不敢面對？\n「近10萬人送PCR未驗」？確診數據失真？疫情恐誤判？\n近10萬人送PCR卡關？PCR量能每日22萬只是說說？\n確診巨大黑數？驗PCR慢吞吞...乾脆不驗？篩陽關在家？\n「篩陽確診」黑數現形？借鏡香港經驗...可加速疫情落底？\n兒童「猛爆性腦炎」釀5死...阿中喊「沒想到」？專攻華人？\n本土染疫「兒童占2成」....重症併腦炎「病程快」來不及救？\nOmicron釀「兒童免疫風暴」比腸病毒嚇人？中央準備慢？\n揪凶！確診兒童「血液中蛋白質出狀況」釀多重炎症、血栓？\n放寬護病比1：9炸鍋？陳時中喊「人增加、錢也多」畫大餅？\n護病比放寬「倒行逆施又爛尾」？醫嗆：不多死幾個才有鬼？\n血汗護病比？醫療緊繃...反續操垮第一線？死亡率恐攀升？\n1個打15個？醫護嗆「惡質護病比就地合法」不可能做到？\n確診比去年多百倍！「多重共病者」激增...反放寬「護病比」？\n護師工會曝國外「高護病比=高死亡率」中央蒙眼不看？硬幹？\n「1打15」好危險？醫護多照顧1人...病人死亡風險狂飆7%？\n護病比「翻倍」！多顧一人獎金多2千？醫護轟「根本拿不到」...\n說好的一天一萬獎勵金「騙醫護賣命」？欠了一年還拿不到...\n「疫」波未平...新病毒再襲？猴痘擴散16國「正在人傳人」\n全球猴痘疫情炸開！「介物傳播」都可能感染？比新冠還可怕？\n猴痘「人傳人」擴散16國！比利時「強制隔離患者21天」危機？\n「全身發疹、高燒」死亡率達10%？猴痘「無藥可治」？變異快速？\n猴痘全球多點爆發....天花疫苗防護力可達85%？台灣不搶購？\n罕見猴痘...症狀恐怖蔓延！口潰爛→結痂...從臉擴散全身？\n\n#Omicron#腦炎#猴痘\n#高燒#發疹#醫護#血栓#黑數#Paxlovid#黃金交叉#隔離#BNT#莫德納#延誤就醫#衛生所\n\n這不是新聞　股市篇：https://www.youtube.com/c/The57Watcher\n\n週一至週五2100至2300\n東森財經新聞CH57、YouTube 為您發掘事件真相\n服裝贊助：Meeijen、克萊亞\n\n這！不是新聞 FB傳送門：https://www.facebook.com/ArielOnShow/\n\nSUBSCRIBE► https://www.youtube.com/channel/UCHsKlGM7IXNnQqA6S8mEmBQ\nFacebook►https://www.facebook.com/ArielOnShow/\n你可以用行動支持這！不是新聞，只要留下「超級留言或超級貼圖」就可以在留言區更受矚目！\n#ArielOnShow #monkeypox #COVID",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0AlX82OCAYw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0AlX82OCAYw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0AlX82OCAYw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/0AlX82OCAYw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/0AlX82OCAYw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "這!不是新聞",
+                    "tags": [
+                        "陳斐娟",
+                        "這！不是新聞",
+                        "這不是新聞",
+                        "東森財經",
+                        "財經",
+                        "新聞",
+                        "CH57",
+                        "阿娟",
+                        "这不是新闻",
+                        "這不是新聞直播",
+                        "5k41j4g4uvp jp6",
+                        "zhebushixinwen",
+                        "這不是新聞 youtube",
+                        "Omicron",
+                        "腦炎",
+                        "猴痘",
+                        "高燒",
+                        "發疹",
+                        "醫護",
+                        "血栓",
+                        "黑數",
+                        "Paxlovid",
+                        "黃金交叉",
+                        "隔離",
+                        "BNT",
+                        "莫德納",
+                        "延誤就醫",
+                        "衛生所"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "中南部疫情將達高峰！政府沒有發揮功能？1922只能轉接電話...-【連假大補丸】這不是新聞 獨播",
+                        "description": "中重症+468創新高、兒童重症+3...中南部疫情將達高峰？\n活在撕心裂肺痛苦！中和2歲童爸...追「消失的81分鐘」？\n淚討「消失的81分鐘」真相！ 衛生所、消防局「形同虛設」？\n政府沒有發揮功能？只能轉接電話...1922扮演甚麼角色？\n新！119報案反遭踢皮球？ 4通電話81分鐘才等到救護車...\n2歲童「昏迷、抽搐」...救命還要等一下？119堅持找衛生所？\n「行政僵化」害2歲童來不及長大？延誤就醫？政府給真相？\n新北童重症亡催生「2歲童條款」...延誤就醫無解？誰責？\n送醫標準？孕婦確診高燒求救...沒有「呼吸困難」119拒收？\n耗時等救命？政策無用？基隆2歲童高燒找嘸醫院收治亡？\n醫院「量能超載」遭漠視？急診室外...上演「母抱孩童」求救？\n「確診76死」創新高！致死率萬分之9...疫情還在高原期？\n恐怖數據曝光！O毒快速奪命？確診者47%...3天內喪命？\n「重症比例偏低」標準太嚴？影響投藥黃金期？死亡率暴增？\n中、重症給藥差很大影響「搶命時機」？借鏡SARS時期作法？\n「嬰兒插管急救」又沒器材？醫院求救賈永婕比衛福部快？\n與病毒共存步步驚心？「器材不足、跑公文跑龜速」恐害命？\n新！今添6歲童腦炎重症 抽搐高燒42.7度！持續搶救中...\n兒童15重症、7腦炎「高於背景值」？重症關鍵在「熱痙攣」？\n「新冠病毒侵腦」兒童死亡率25%？腦炎激增與種族有關？\n家長狂問「B型腦膜炎疫苗防猛爆性腦炎」？病急亂投醫？\n5歲以下幼童沒「武器」抗O毒？輝瑞、莫德納將出場「抗敵」？\n輝瑞研究「5歲以下」打BNT第3劑Omicron保護力達80%\n「快篩陽確診」加速投藥不早做？阿中喊考慮「陽性一致率」？\n精準快篩+使用抗病毒藥物！陳秀熙：6月中可達「重症減害」\n口服藥Paxlovid爆怪現象 患者症狀復發？5天療程不夠？\nPaxlovid爆反彈現象？患者復發、病毒量暴增...用藥量不夠？\n北高確診「黃金交叉」黑數藏PCR？指揮中心不敢面對？\n「近10萬人送PCR未驗」？確診數據失真？疫情恐誤判？\n近10萬人送PCR卡關？PCR量能每日22萬只是說說？\n確診巨大黑數？驗PCR慢吞吞...乾脆不驗？篩陽關在家？\n「篩陽確診」黑數現形？借鏡香港經驗...可加速疫情落底？\n兒童「猛爆性腦炎」釀5死...阿中喊「沒想到」？專攻華人？\n本土染疫「兒童占2成」....重症併腦炎「病程快」來不及救？\nOmicron釀「兒童免疫風暴」比腸病毒嚇人？中央準備慢？\n揪凶！確診兒童「血液中蛋白質出狀況」釀多重炎症、血栓？\n放寬護病比1：9炸鍋？陳時中喊「人增加、錢也多」畫大餅？\n護病比放寬「倒行逆施又爛尾」？醫嗆：不多死幾個才有鬼？\n血汗護病比？醫療緊繃...反續操垮第一線？死亡率恐攀升？\n1個打15個？醫護嗆「惡質護病比就地合法」不可能做到？\n確診比去年多百倍！「多重共病者」激增...反放寬「護病比」？\n護師工會曝國外「高護病比=高死亡率」中央蒙眼不看？硬幹？\n「1打15」好危險？醫護多照顧1人...病人死亡風險狂飆7%？\n護病比「翻倍」！多顧一人獎金多2千？醫護轟「根本拿不到」...\n說好的一天一萬獎勵金「騙醫護賣命」？欠了一年還拿不到...\n「疫」波未平...新病毒再襲？猴痘擴散16國「正在人傳人」\n全球猴痘疫情炸開！「介物傳播」都可能感染？比新冠還可怕？\n猴痘「人傳人」擴散16國！比利時「強制隔離患者21天」危機？\n「全身發疹、高燒」死亡率達10%？猴痘「無藥可治」？變異快速？\n猴痘全球多點爆發....天花疫苗防護力可達85%？台灣不搶購？\n罕見猴痘...症狀恐怖蔓延！口潰爛→結痂...從臉擴散全身？\n\n#Omicron#腦炎#猴痘\n#高燒#發疹#醫護#血栓#黑數#Paxlovid#黃金交叉#隔離#BNT#莫德納#延誤就醫#衛生所\n\n這不是新聞　股市篇：https://www.youtube.com/c/The57Watcher\n\n週一至週五2100至2300\n東森財經新聞CH57、YouTube 為您發掘事件真相\n服裝贊助：Meeijen、克萊亞\n\n這！不是新聞 FB傳送門：https://www.facebook.com/ArielOnShow/\n\nSUBSCRIBE► https://www.youtube.com/channel/UCHsKlGM7IXNnQqA6S8mEmBQ\nFacebook►https://www.facebook.com/ArielOnShow/\n你可以用行動支持這！不是新聞，只要留下「超級留言或超級貼圖」就可以在留言區更受矚目！\n#ArielOnShow #monkeypox #COVID"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT1H10M30S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "23431",
+                    "likeCount": "197",
+                    "favoriteCount": "0",
+                    "commentCount": "61"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/0AlX82OCAYw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society",
+                        "https://en.wikipedia.org/wiki/Television_program"
+                    ]
+                },
+                "recordingDetails": {
+                    "recordingDate": "2022-06-02T00:00:00Z"
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.48668477395016185
+    },
+    "gT59L9LzJEw": {
+        "kind": "youtube#videoListResponse",
+        "etag": "TwSbDXfJc4pSATRV-hHeJSXWH8k",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "hVq1IUUEg2rN30fmWl0Gv7AkDpM",
+                "id": "gT59L9LzJEw",
+                "snippet": {
+                    "publishedAt": "2022-05-11T13:00:22Z",
+                    "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
+                    "title": "1922打到爛不通! 兒子燒到40.5℃ 超強媽媽\"搏鬥72小時\"│中視新聞 20220511",
+                    "description": "屏東一名媽媽，被封為超強媽媽因為她小學4年級的兒子確診高燒到40.5度，但打1922打到爛，卻永遠沒人接，看到新聞有幼童等不到治療失去生命，超強媽媽決定自己的兒子自己救!退燒藥，肛門塞劑都準備好，她說兒子發燒一天有四個高峰，痛苦到無法進食，她餵兒子吃布丁，豆花，還肺部按摩，整整跟高燒搏鬥72小時，兒子成功退燒。\n\n⊕新 聞 焦 點⊕\n今日十大發燒新聞→http://bit.ly/3n9VlKg\n政治最前線→http://bit.ly/3n9Vq0w\n生活大小事→http://bit.ly/3b3x4mQ\n社會大代誌→http://bit.ly/3b78gdJ\n好料看這裡→https://bit.ly/3lf63Pq\n\n⊕熱 門 節 目⊕ \n庶民大頭家►https://bit.ly/3kb3kq7\n地球那一端►https://bit.ly/3nfUbyh\n\n⊕中視全球資訊網 ⊕\n中視新聞台HD直播頻道►http://bit.ly/28Or4iO\n中視新聞YouTube頻道►http://bit.ly/27riGeN\n中視新聞FB社群►http://bit.ly/28Ovhnh\n中視全球資訊網►http://new.ctv.com.tw/",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/gT59L9LzJEw/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/gT59L9LzJEw/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/gT59L9LzJEw/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/gT59L9LzJEw/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/gT59L9LzJEw/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "中視新聞",
+                    "tags": [
+                        "台湾",
+                        "台湾新闻",
+                        "中時電子報",
+                        "新聞",
+                        "ctv",
+                        "chinatv",
+                        "中視新聞",
+                        "chinatvnews",
+                        "ctvnews",
+                        "ctv news",
+                        "news",
+                        "新聞直播",
+                        "午間新聞",
+                        "晚間新聞",
+                        "國際新聞",
+                        "晨間新聞",
+                        "午間新聞直播",
+                        "晚間新聞直播",
+                        "線上直播",
+                        "直播線上看",
+                        "新聞專題",
+                        "特別報導",
+                        "改變的起點",
+                        "60分鐘",
+                        "#中視午間新聞線上看",
+                        "庶民大頭家",
+                        "決戰2020 庶民大頭家",
+                        "哈遠儀"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "1922打到爛不通! 兒子燒到40.5℃ 超強媽媽\"搏鬥72小時\"│中視新聞 20220511",
+                        "description": "屏東一名媽媽，被封為超強媽媽因為她小學4年級的兒子確診高燒到40.5度，但打1922打到爛，卻永遠沒人接，看到新聞有幼童等不到治療失去生命，超強媽媽決定自己的兒子自己救!退燒藥，肛門塞劑都準備好，她說兒子發燒一天有四個高峰，痛苦到無法進食，她餵兒子吃布丁，豆花，還肺部按摩，整整跟高燒搏鬥72小時，兒子成功退燒。\n\n⊕新 聞 焦 點⊕\n今日十大發燒新聞→http://bit.ly/3n9VlKg\n政治最前線→http://bit.ly/3n9Vq0w\n生活大小事→http://bit.ly/3b3x4mQ\n社會大代誌→http://bit.ly/3b78gdJ\n好料看這裡→https://bit.ly/3lf63Pq\n\n⊕熱 門 節 目⊕ \n庶民大頭家►https://bit.ly/3kb3kq7\n地球那一端►https://bit.ly/3nfUbyh\n\n⊕中視全球資訊網 ⊕\n中視新聞台HD直播頻道►http://bit.ly/28Or4iO\n中視新聞YouTube頻道►http://bit.ly/27riGeN\n中視新聞FB社群►http://bit.ly/28Ovhnh\n中視全球資訊網►http://new.ctv.com.tw/"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT1M43S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "3971",
+                    "likeCount": "90",
+                    "favoriteCount": "0",
+                    "commentCount": "25"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/gT59L9LzJEw\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "localizations": {
+                    "zh-TW": {
+                        "title": "1922打到爛不通! 兒子燒到40.5℃ 超強媽媽\"搏鬥72小時\"│中視新聞 20220511",
+                        "description": "屏東一名媽媽，被封為超強媽媽因為她小學4年級的兒子確診高燒到40.5度，但打1922打到爛，卻永遠沒人接，看到新聞有幼童等不到治療失去生命，超強媽媽決定自己的兒子自己救!退燒藥，肛門塞劑都準備好，她說兒子發燒一天有四個高峰，痛苦到無法進食，她餵兒子吃布丁，豆花，還肺部按摩，整整跟高燒搏鬥72小時，兒子成功退燒。\n\n⊕新 聞 焦 點⊕\n今日十大發燒新聞→http://bit.ly/3n9VlKg\n政治最前線→http://bit.ly/3n9Vq0w\n生活大小事→http://bit.ly/3b3x4mQ\n社會大代誌→http://bit.ly/3b78gdJ\n好料看這裡→https://bit.ly/3lf63Pq\n\n⊕熱 門 節 目⊕ \n庶民大頭家►https://bit.ly/3kb3kq7\n地球那一端►https://bit.ly/3nfUbyh\n\n⊕中視全球資訊網 ⊕\n中視新聞台HD直播頻道►http://bit.ly/28Or4iO\n中視新聞YouTube頻道►http://bit.ly/27riGeN\n中視新聞FB社群►http://bit.ly/28Ovhnh\n中視全球資訊網►http://new.ctv.com.tw/"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.5220045681833988
+    },
+    "TZy7pMTBtXU": {
+        "kind": "youtube#videoListResponse",
+        "etag": "TlrWsuCNOTFodaAiZ_4NsBaYR2Q",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "x0Fn6w839swC-y77F3-15kgtS3o",
+                "id": "TZy7pMTBtXU",
+                "snippet": {
+                    "publishedAt": "2022-06-11T13:44:58Z",
+                    "channelId": "UCLZBXiS9ZrIXgKBs_SMfGBQ",
+                    "title": "【完整版下集】藍控恩恩案1922難辭其咎 陳時中卸責發包委外無公權力? TVBS戰情室 20220611",
+                    "description": "本錄影遵守防疫規範。\n\n✔訂閱【少康戰情室】https://bit.ly/2sDiKcZ\n完整版HD集數快速找➔https://bit.ly/2Etctbf\n【少康重返國民黨選總統!】https://pse.is/39r2t6\n【誰來feat.趙少康】全新特企點我看➔https://pse.is/38ehnc\n【新聞翟急便】特別企劃➔https://bit.ly/2JiJgoA\n趙少康X陳文茜談國際➔https://reurl.cc/4my5pY\n美國下一步怎麼走?➔https://bit.ly/3qlGCig\n少康談美豬議題➔https://bit.ly/2VqaSdD\n兩岸關係怎麼辦➔https://bit.ly/3qmFmeI\n關心新冠肺炎疫情➔https://bit.ly/2tXmOJU\n頻道LIVE直播專區➔https://reurl.cc/5qokMR\n中美台緊張關係➔https://reurl.cc/q8mzZR\n少康戰情室每週精彩回顧➔https://bit.ly/2JiKS1C\n\n●鎖定TVBS TV 56台首播 \n●按讚【少康戰情室】fb粉絲頁：http://bit.ly/2fMs1us\n●【新聞翟急便】fb粉專馬上按讚：https://www.facebook.com/realmicrophone/\n\n  《少康戰情室》YouTube頻道，部分影片因版權限制以致海外地區無法觀看，造成不便敬請見諒。歡迎海外觀眾鎖定網路獨家影片。\n\n#少康戰情室 #趙少康 #誰來feat趙少康 #TVBS #新聞翟急便 #超錢新聞 #翟翾 #錢子",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/TZy7pMTBtXU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/TZy7pMTBtXU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/TZy7pMTBtXU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/TZy7pMTBtXU/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/TZy7pMTBtXU/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "少康戰情室",
+                    "tags": [
+                        "少康戰情室",
+                        "少康",
+                        "習近平",
+                        "习近平",
+                        "XiJinping",
+                        "大陸",
+                        "中國",
+                        "中国",
+                        "少康战情室",
+                        "台海",
+                        "兩岸",
+                        "唐湘龍",
+                        "蘭萱",
+                        "台湾",
+                        "國民黨",
+                        "民進黨",
+                        "政論",
+                        "政治",
+                        "TVBS",
+                        "總統大選",
+                        "韓國瑜",
+                        "蔡英文",
+                        "柯文哲",
+                        "武漢肺炎",
+                        "口罩",
+                        "防疫",
+                        "新型冠狀病毒",
+                        "2019-nCoV",
+                        "Wuhan",
+                        "coronavirus",
+                        "新冠肺炎",
+                        "陳時中",
+                        "社區傳播",
+                        "境外",
+                        "本土",
+                        "WHO",
+                        "Taiwan",
+                        "美國",
+                        "北京",
+                        "解放軍",
+                        "深喉嚨",
+                        "關鍵時刻",
+                        "寶傑",
+                        "觀點",
+                        "新聞龍捲風",
+                        "暐瀚",
+                        "鳳馨",
+                        "飛碟早餐",
+                        "唐湘龙",
+                        "三立",
+                        "東森",
+                        "SET",
+                        "COVID 19",
+                        "川普",
+                        "Trump",
+                        "武統",
+                        "陳文茜",
+                        "拜登",
+                        "Biden",
+                        "美選",
+                        "美國總統大選",
+                        "軍演",
+                        "航母",
+                        "疫苗",
+                        "共機",
+                        "美豬",
+                        "萊豬",
+                        "萊克多巴胺",
+                        "蘇貞昌",
+                        "新聞翟急便",
+                        "Sisy's World News",
+                        "茜問",
+                        "文茜的世界周報",
+                        "文茜",
+                        "中天",
+                        "中天關台",
+                        "中天新聞",
+                        "快點TV",
+                        "ctitv",
+                        "劉盈秀",
+                        "正常發揮",
+                        "戴立綱",
+                        "24H直播",
+                        "新聞深喉嚨",
+                        "頭條開講",
+                        "大政治大爆卦",
+                        "韓國瑜台",
+                        "蘇揆",
+                        "52台",
+                        "NEWS LIVE",
+                        "謝曜州",
+                        "誰來feat趙少康",
+                        "黨主席",
+                        "少康中興",
+                        "王又正",
+                        "中廣",
+                        "2024總統",
+                        "蔡正元",
+                        "鴻海",
+                        "台積電",
+                        "BNT",
+                        "莫德納",
+                        "AZ",
+                        "輝瑞",
+                        "國產疫苗",
+                        "新聞大白話"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "defaultLanguage": "zh-TW",
+                    "localized": {
+                        "title": "【完整版下集】藍控恩恩案1922難辭其咎 陳時中卸責發包委外無公權力? TVBS戰情室 20220611",
+                        "description": "本錄影遵守防疫規範。\n\n✔訂閱【少康戰情室】https://bit.ly/2sDiKcZ\n完整版HD集數快速找➔https://bit.ly/2Etctbf\n【少康重返國民黨選總統!】https://pse.is/39r2t6\n【誰來feat.趙少康】全新特企點我看➔https://pse.is/38ehnc\n【新聞翟急便】特別企劃➔https://bit.ly/2JiJgoA\n趙少康X陳文茜談國際➔https://reurl.cc/4my5pY\n美國下一步怎麼走?➔https://bit.ly/3qlGCig\n少康談美豬議題➔https://bit.ly/2VqaSdD\n兩岸關係怎麼辦➔https://bit.ly/3qmFmeI\n關心新冠肺炎疫情➔https://bit.ly/2tXmOJU\n頻道LIVE直播專區➔https://reurl.cc/5qokMR\n中美台緊張關係➔https://reurl.cc/q8mzZR\n少康戰情室每週精彩回顧➔https://bit.ly/2JiKS1C\n\n●鎖定TVBS TV 56台首播 \n●按讚【少康戰情室】fb粉絲頁：http://bit.ly/2fMs1us\n●【新聞翟急便】fb粉專馬上按讚：https://www.facebook.com/realmicrophone/\n\n  《少康戰情室》YouTube頻道，部分影片因版權限制以致海外地區無法觀看，造成不便敬請見諒。歡迎海外觀眾鎖定網路獨家影片。\n\n#少康戰情室 #趙少康 #誰來feat趙少康 #TVBS #新聞翟急便 #超錢新聞 #翟翾 #錢子"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT46M18S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "regionRestriction": {
+                        "blocked": [
+                            "MY"
+                        ]
+                    },
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "90929",
+                    "likeCount": "1704",
+                    "favoriteCount": "0",
+                    "commentCount": "246"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/TZy7pMTBtXU\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {},
+                "liveStreamingDetails": {
+                    "actualStartTime": "2022-06-11T13:44:58Z",
+                    "actualEndTime": "2022-06-11T14:33:15Z",
+                    "scheduledStartTime": "2022-06-11T13:44:44Z"
+                },
+                "localizations": {
+                    "zh-TW": {
+                        "title": "【完整版下集】藍控恩恩案1922難辭其咎 陳時中卸責發包委外無公權力? TVBS戰情室 20220611",
+                        "description": "本錄影遵守防疫規範。\n\n✔訂閱【少康戰情室】https://bit.ly/2sDiKcZ\n完整版HD集數快速找➔https://bit.ly/2Etctbf\n【少康重返國民黨選總統!】https://pse.is/39r2t6\n【誰來feat.趙少康】全新特企點我看➔https://pse.is/38ehnc\n【新聞翟急便】特別企劃➔https://bit.ly/2JiJgoA\n趙少康X陳文茜談國際➔https://reurl.cc/4my5pY\n美國下一步怎麼走?➔https://bit.ly/3qlGCig\n少康談美豬議題➔https://bit.ly/2VqaSdD\n兩岸關係怎麼辦➔https://bit.ly/3qmFmeI\n關心新冠肺炎疫情➔https://bit.ly/2tXmOJU\n頻道LIVE直播專區➔https://reurl.cc/5qokMR\n中美台緊張關係➔https://reurl.cc/q8mzZR\n少康戰情室每週精彩回顧➔https://bit.ly/2JiKS1C\n\n●鎖定TVBS TV 56台首播 \n●按讚【少康戰情室】fb粉絲頁：http://bit.ly/2fMs1us\n●【新聞翟急便】fb粉專馬上按讚：https://www.facebook.com/realmicrophone/\n\n  《少康戰情室》YouTube頻道，部分影片因版權限制以致海外地區無法觀看，造成不便敬請見諒。歡迎海外觀眾鎖定網路獨家影片。\n\n#少康戰情室 #趙少康 #誰來feat趙少康 #TVBS #新聞翟急便 #超錢新聞 #翟翾 #錢子"
+                    }
+                }
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.5375193906756819
+    },
+    "DvZMzq0hphA": {
+        "kind": "youtube#videoListResponse",
+        "etag": "nn7-MCKZiS9dA087I4yJaqyk0-A",
+        "items": [
+            {
+                "kind": "youtube#video",
+                "etag": "2JmNYFe1VEK-K4Qstl9RkSba99k",
+                "id": "DvZMzq0hphA",
+                "snippet": {
+                    "publishedAt": "2022-06-08T13:19:23Z",
+                    "channelId": "UC8ROUUjHzEQm-ndb69CX8Ww",
+                    "title": "恩恩爸要真相 發現1922花143分鐘才轉送",
+                    "description": "#恩恩 #消防局 #新北市\n\n自稱前消防員的張姓網友在臉書爆料，新北市2歲確診死亡男童恩恩的爸爸到新北市消防局聽錄音檔，但119指揮中心刻意造假營造吵雜情境。消防局一早按鈴提告，也解釋他們是要還原事發當時忙碌情況，恩恩爸則說，當下沒人告訴他是模擬。不過恩恩爸也發現，指揮中心1922專線通報，竟然花了143分鐘，才把案子轉給新北衛生局，對此指揮中心回應，1922無法直接調度救護車或防疫計程車，將檢討SOP，在緊急狀況下，能通報或緊急調配。",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/DvZMzq0hphA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/DvZMzq0hphA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/DvZMzq0hphA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        },
+                        "standard": {
+                            "url": "https://i.ytimg.com/vi/DvZMzq0hphA/sddefault.jpg",
+                            "width": 640,
+                            "height": 480
+                        },
+                        "maxres": {
+                            "url": "https://i.ytimg.com/vi/DvZMzq0hphA/maxresdefault.jpg",
+                            "width": 1280,
+                            "height": 720
+                        }
+                    },
+                    "channelTitle": "台視新聞 TTV NEWS",
+                    "tags": [
+                        "TTVNews",
+                        "綜合新聞",
+                        "消防局",
+                        "恩恩",
+                        "錄音檔",
+                        "中心",
+                        "北市",
+                        "消防員",
+                        "指揮",
+                        "衛生局",
+                        "救護車",
+                        "計程車",
+                        "焦點新聞"
+                    ],
+                    "categoryId": "25",
+                    "liveBroadcastContent": "none",
+                    "localized": {
+                        "title": "恩恩爸要真相 發現1922花143分鐘才轉送",
+                        "description": "#恩恩 #消防局 #新北市\n\n自稱前消防員的張姓網友在臉書爆料，新北市2歲確診死亡男童恩恩的爸爸到新北市消防局聽錄音檔，但119指揮中心刻意造假營造吵雜情境。消防局一早按鈴提告，也解釋他們是要還原事發當時忙碌情況，恩恩爸則說，當下沒人告訴他是模擬。不過恩恩爸也發現，指揮中心1922專線通報，竟然花了143分鐘，才把案子轉給新北衛生局，對此指揮中心回應，1922無法直接調度救護車或防疫計程車，將檢討SOP，在緊急狀況下，能通報或緊急調配。"
+                    },
+                    "defaultAudioLanguage": "zh-TW"
+                },
+                "contentDetails": {
+                    "duration": "PT2M20S",
+                    "dimension": "2d",
+                    "definition": "hd",
+                    "caption": "false",
+                    "licensedContent": true,
+                    "contentRating": {},
+                    "projection": "rectangular"
+                },
+                "status": {
+                    "uploadStatus": "processed",
+                    "privacyStatus": "public",
+                    "license": "youtube",
+                    "embeddable": true,
+                    "publicStatsViewable": true,
+                    "madeForKids": false
+                },
+                "statistics": {
+                    "viewCount": "1872",
+                    "likeCount": "12",
+                    "favoriteCount": "0",
+                    "commentCount": "5"
+                },
+                "player": {
+                    "embedHtml": "<iframe width=\"480\" height=\"270\" src=\"//www.youtube.com/embed/DvZMzq0hphA\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"
+                },
+                "topicDetails": {
+                    "topicCategories": [
+                        "https://en.wikipedia.org/wiki/Society"
+                    ]
+                },
+                "recordingDetails": {}
+            }
+        ],
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 1
+        },
+        "avg_sentiment": 0.599252483451062
+    }
+}

@@ -1,6 +1,6 @@
 from snownlp import SnowNLP
 import json
-fileName = '烏克蘭'
+fileName = '世足賽'
 with open(fileName + '_comment.json', encoding='utf8') as jsonfile:
     data = json.load(jsonfile)
 
