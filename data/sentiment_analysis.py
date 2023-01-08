@@ -1,13 +1,13 @@
 from snownlp import SnowNLP
 import json
-fileName = '世足賽'
+fileName = '烏克蘭'
 with open(fileName + '_comment.json', encoding='utf8') as jsonfile:
     data = json.load(jsonfile)
 
 for video in data:
     for id, comment in enumerate(data[video]):
         comment_text = comment['textDisplay']
-        data[video][id]['sentiment_list'] = {}
+        # data[video][id]['sentiment_list'] = {}
 
         if comment_text == "":
             continue
@@ -17,7 +17,7 @@ for video in data:
         sentiments = []
         for sent in SnowNLP(comment_text).sentences:
             sentiment = SnowNLP(sent).sentiments
-            data[video][id]['sentiment_list'][sent] = sentiment
+            # data[video][id]['sentiment_list'][sent] = sentiment
             sentiments.append(sentiment)
 
         # discard none ascii comments
