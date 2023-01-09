@@ -61,11 +61,30 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
     }
 });
   const vid = "ClAW97s-h_Q"
+  const vid_sent = 0.8
+  let col_r = 255*vid_sent
+  let col_g = 255*(1-vid_sent)
+  let col_b = 0
+  if((col_r>col_g)){
+      let tmp = 255-col_r
+      col_r = 255
+      col_g = col_g + tmp
+      col_b = tmp
+  }
+  else{
+      let tmp = 255-col_g
+      col_g = 255
+      col_r = col_r + tmp
+      col_b = tmp
+  }
   return (
     <div className="row">
-      <div className="col s12 m7" style={{ width: width * 0.48, height: height * 0.85 }}>
-        <div className="card" style={{ width: width * 0.45, height: height * 0.9 }}>
-        <div style={styles.rootTitle}>
+      <div className="col s12 m7" style={{ width: width * 0.48, height: height, backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.5)`}}>
+        <div className="card" style={{ width: width * 0.45, height: height*0.95,overflow:'scroll'}}>
+        <div style={{paddingBottom:20,
+        textAlign:"center",
+        fontSize:36,
+        fontFamily:"Cambria",backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.2)`}}>
         <span className="card-title">{keyword}</span>
           <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>setVideoID(false)}>
               <CloseIcon />
@@ -88,15 +107,16 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
               <img src="https://i.imgur.com/HhqZIBb.png" />
               Some descriptions with link
             </a> */}
+            <p>channel name, total video, total view count</p>
             <div style={{width: width * 0.45}}>
             <PieChart height={height*0.1}>
             </PieChart>
             </div>
-            <p>Some Statistics</p>
+            {/* <p>Some Statistics</p>
             <a href="#">
               <img src="https://i.imgur.com/HhqZIBb.png" />
               Some descriptions with link
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

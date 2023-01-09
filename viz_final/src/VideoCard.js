@@ -4,13 +4,29 @@ import { Row, Col, Card, Icon, CardTitle } from 'react-materialize';
 
 
 const VideoCard = ({ height, width, setVideoID }) => {
+    const vid_sent = 0.8
+    let col_r = 255*vid_sent
+    let col_g = 255*(1-vid_sent)
+    let col_b = 0
+    if((col_r>col_g)){
+        let tmp = 255-col_r
+        col_r = 255
+        col_g = col_g + tmp
+        col_b = tmp
+    }
+    else{
+        let tmp = 255-col_g
+        col_g = 255
+        col_r = col_r + tmp
+        col_b = tmp
+    }
     return (
         <div className="col s12 m7" style ={{height: height*0.2, 
                                             width: width*0.43,
                                             marginLeft:40 + "px",
                                             marginBottom:20 + "px"}}
         >
-            <div className="card horizontal" style ={{height: height*0.2}}>
+            <div className="card horizontal" style ={{height: height*0.2, backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.5)`}}>
                 <div className="card-image" style ={{height: height*0.2}}>
                     <a href='#'
                         onClick={() => setVideoID(1)}
