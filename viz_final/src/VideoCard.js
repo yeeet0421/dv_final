@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Row, Col, Card, Icon, CardTitle } from 'react-materialize';
 //import VideoCard from './VideoCard';
 
+
 const VideoCard = ({ height, width, setVideoID }) => {
     return (
         <div className="col s12 m7" style ={{height: height*0.2, 
@@ -23,7 +24,7 @@ const VideoCard = ({ height, width, setVideoID }) => {
                     <div className="card-content">
                         <p style={{ fontWeight: "bold", fontSize: 2+"em" }}>some Video Title</p>
                     </div>
-                    <div className="card-action" style={{ textAlign: "right" }}>
+                    <div className="card-text" style={{ textAlign: "right" }}>
                         <a href='#'
                             onClick={() => setVideoID(1)}
                         >More info

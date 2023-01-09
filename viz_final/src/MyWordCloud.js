@@ -40,9 +40,12 @@ const MyWordCloud = ({height, width, data, setKeyword, setUIProgress, setVideoID
                 fill={fill}
                 onWordClick={onWordClick}
                 setUIProgress = {setUIProgress}
-                /*onWordMouseOver={(event, d) => {
+                onWordMouseOver={(event, d) => {
                     console.log(`onWordMouseOver: ${d.text}`);
+                    console.log(d);
+                    d.cursor='pointer';
                 }}
+                /*
                 onWordMouseOut={(event, d) => {
                     console.log(`onWordMouseOut: ${d.text}`);
                 }}*/

@@ -47,6 +47,7 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
                             height = {windowHeight}
                             width = {windowWidth}
                             keyword = {keyword}
+                            setVideoID = {setVideoID}
                     />
                 </div>}
             </div>
