@@ -1,0 +1,212 @@
+{
+    "UCL0_NxCvkcXwZHpvqgMZY-A": {
+        "kind": "youtube#channelListResponse",
+        "etag": "eB2rrav0gt7rj2vZUdGWO6kal2Q",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "ktEkxqepbB_wuEtG05oihrlzhuA",
+                "id": "UCL0_NxCvkcXwZHpvqgMZY-A",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUL0_NxCvkcXwZHpvqgMZY-A"
+                    }
+                }
+            }
+        ]
+    },
+    "UCaHvWPMrGgcd42waw4WYQ6w": {
+        "kind": "youtube#channelListResponse",
+        "etag": "w3pPYM4N0oM_N9Z2OrvH_2gWG10",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "NgYhJz-inV9niS331v5EekF3UkY",
+                "id": "UCaHvWPMrGgcd42waw4WYQ6w",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUaHvWPMrGgcd42waw4WYQ6w"
+                    }
+                }
+            }
+        ]
+    },
+    "UC5nwNW4KdC0SzrhF9BXEYOQ": {
+        "kind": "youtube#channelListResponse",
+        "etag": "hZXasjmzWj4VAhPS3CzHFUuyDFs",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "NRf9nu7hzAg1uNQ_ZHailwuGszQ",
+                "id": "UC5nwNW4KdC0SzrhF9BXEYOQ",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU5nwNW4KdC0SzrhF9BXEYOQ"
+                    }
+                }
+            }
+        ]
+    },
+    "UCR3asjvr_WAaxwJYEDV_Bfw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "fJkjRqDZZ9bRamOuU2k5YmmgHw8",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "b6Ks3nK-Jepbd5CuQz4GcPY8OMU",
+                "id": "UCR3asjvr_WAaxwJYEDV_Bfw",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUR3asjvr_WAaxwJYEDV_Bfw"
+                    }
+                }
+            }
+        ]
+    },
+    "UCl_q5BsL1AOJNSQnjoyVsGA": {
+        "kind": "youtube#channelListResponse",
+        "etag": "C47fDoS26-Ht5Wk4TwWZ0R10LPw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "oFavydrCUpQ8HuV8g4lUbpwF4Xg",
+                "id": "UCl_q5BsL1AOJNSQnjoyVsGA",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUl_q5BsL1AOJNSQnjoyVsGA"
+                    }
+                }
+            }
+        ]
+    },
+    "UC_iwP8I13JnL54BypRCzldw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "K_426nhh2aa4WX-IFh_FBCmyZO8",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "HXNU3O9g4PIYwLujve9YWGYvuS4",
+                "id": "UC_iwP8I13JnL54BypRCzldw",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU_iwP8I13JnL54BypRCzldw"
+                    }
+                }
+            }
+        ]
+    },
+    "UCmgDmqjxbkqIXu4rNbrKodA": {
+        "kind": "youtube#channelListResponse",
+        "etag": "W9PyMLKXRjDb81SuHGsqlYnPV68",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "Xx1OWcL9vMWUzxtjarXKhPc3Gbs",
+                "id": "UCmgDmqjxbkqIXu4rNbrKodA",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUmgDmqjxbkqIXu4rNbrKodA"
+                    }
+                }
+            }
+        ]
+    },
+    "UC3N27-RTtmT2TKQKJi2X2wg": {
+        "kind": "youtube#channelListResponse",
+        "etag": "i7zFrzDTK_r9bLs24MYJaZgpux4",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "ZBU9vLyEunm_G1WVQCF46v1zpuw",
+                "id": "UC3N27-RTtmT2TKQKJi2X2wg",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU3N27-RTtmT2TKQKJi2X2wg"
+                    }
+                }
+            }
+        ]
+    },
+    "UC2TuODJhC03pLgd6MpWP0iw": {
+        "kind": "youtube#channelListResponse",
+        "etag": "peetbhtrUiAFGnolbZvH385X8Tw",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "WAmFNlsw2AeLf8iPPZOIU5Rc6uE",
+                "id": "UC2TuODJhC03pLgd6MpWP0iw",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UU2TuODJhC03pLgd6MpWP0iw"
+                    }
+                }
+            }
+        ]
+    },
+    "UCyh91eTE9jA3ykg8W3_v3DQ": {
+        "kind": "youtube#channelListResponse",
+        "etag": "jNrz7qq_XF40ady9zbLUtUXSS3Q",
+        "pageInfo": {
+            "totalResults": 1,
+            "resultsPerPage": 5
+        },
+        "items": [
+            {
+                "kind": "youtube#channel",
+                "etag": "-Y0yn7bGWHe83nQXJ6Bjf8ckoho",
+                "id": "UCyh91eTE9jA3ykg8W3_v3DQ",
+                "contentDetails": {
+                    "relatedPlaylists": {
+                        "likes": "",
+                        "uploads": "UUyh91eTE9jA3ykg8W3_v3DQ"
+                    }
+                }
+            }
+        ]
+    }
+}

@@ -10,6 +10,7 @@ import google_auth_oauthlib.flow
 import googleapiclient.discovery
 import googleapiclient.errors
 
+import random
 import json
 
 scopes = ['https://www.googleapis.com/auth/youtube.force-ssl']
@@ -243,6 +244,44 @@ def main(youtube, keyword, method):
         with open(keyword+'_playVid.json', 'w', encoding='utf-8') as f:
             json.dump(play_info, f, ensure_ascii=False, indent=4)
         # print(":))")
+
+    elif method == 'demo_channel':
+        dict_ = {'世足賽': ['世足賽', '台灣'], '疫情':['中心', '疫苗']}
+        demo_list = []
+        for keyword_ in ['世足賽', '疫情']:
+            
+            f = open(keyword_+'_topic4vid.json')
+            words = json.load(f)
+            f = open(keyword_+'_vid_sentiment.json')
+            vids = json.load(f)
+            # num = 0
+            for word in dict_[keyword_]:
+                for vid in words[word]:
+                    demo_list.append(vids[vid]['items'][0]['snippet']['channelId'])
+                # if len(words[word]) != 0:
+                #     for vid in words[word]:
+                #         print(vids[vid]['avg_sentiment'])
+                    # print(len(words[word]))
+                # print()
+            # print(num) 
+        chan_list = list(set(demo_list))
+        chan_info = {}
+        for chan in chan_list:
+            chan_info[chan] = channel_playlist(youtube, chan)
+        with open(keyword+'_chanPlay.json', 'w', encoding='utf-8') as f:
+            json.dump(chan_info, f, ensure_ascii=False, indent=4)
+
+    elif method == 'demo_vid':
+        f = open('demo_playVid.json')
+        plays = json.load(f)
+        vids = []
+        for i in plays:
+            vids.extend(random.choices(plays[i],k=min(1000, len(plays[i]))))
+        vids_info = {}
+        for vid in vids:
+            vids_info[vid] = (get_vids_info(youtube, vid))
+        with open(keyword+'_vid.json', 'w', encoding='utf-8') as f:
+            json.dump(vids_info, f, ensure_ascii=False, indent=4)
     
     f.close()
 
@@ -250,5 +289,7 @@ if __name__ == "__main__":
     youtube = init()
     # youtube = 1
     # main(youtube, '1922', 'comment')
-    for keyword in ['1922', '世足賽', '地震', '疫情', '烏克蘭']:
-        main(youtube, keyword, 'play')
+
+    # for keyword in ['1922', '世足賽', '地震', '疫情', '烏克蘭']:
+    keyword = 'demo'
+    main(youtube, keyword, 'demo_vid')
