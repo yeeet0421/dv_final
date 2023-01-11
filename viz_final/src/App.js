@@ -35,7 +35,7 @@ function App() {
       return(
         <div>
           <IntroFrame windowWidth = {windowWidth}
-                      windowHeight = {windowHeight*0.9}
+                      windowHeight = {windowHeight*0.8}
                       setUIProgress = {setUIProgress}
                       trends = {trends}
                       trendNumber = {trendNumber}
@@ -47,11 +47,11 @@ function App() {
     } else if (progress===2){
       return(
         <div>
-          <IconButton style={{float:"right",marginRight: 20,}} color="inherit" aria-label="Close" onClick={()=>setUIProgress(1)}>
+          <IconButton style={{float:"left",marginRight: 20,}} color="inherit" aria-label="Close" onClick={()=>setUIProgress(1)}>
               <ArrowBackIcon />
           </IconButton>
           <WordCloudFrame windowWidth = {windowWidth}
-                      windowHeight = {windowHeight*0.9}
+                      windowHeight = {windowHeight*0.85}
                       trends = {trends}
                       trendNumber = {trendNumber}
                       data = {data} 
@@ -63,12 +63,14 @@ function App() {
     } else if (progress===3){
       return(
         <div>
-          <IconButton style={{float:"right",marginRight: 10,}} color="inherit" aria-label="Close" onClick={()=>setUIProgress(1)}>
+          <IconButton style={{float:"left",marginRight: 10,}} color="inherit" aria-label="Close" onClick={()=>setUIProgress(1)}>
               <ArrowBackIcon />
           </IconButton>
           <MyWordCloud width = {1500}
                       height = {800}
                       data = {data} 
+                      trends = {trends}
+                      trendNumber = {trendNumber}
                       //fontWeight = {(data)=>data.value}
           />
           <button onClick={()=>setUIProgress(1)}>Next UI</button>
