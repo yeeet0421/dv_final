@@ -29,6 +29,7 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
             >
             {trends.map((trend, i) => (
                 <a href="#" 
+                    key={i}
                     onMouseEnter={() => handleMouseEnter(i)}
                     onMouseLeave={() => handleMouseLeave(i)}
                     onClick = {() => setUIProgress(2)}
