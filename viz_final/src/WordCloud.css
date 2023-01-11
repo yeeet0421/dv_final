@@ -1,13 +1,12 @@
 /* for animation */
-.fade-enter {
+.wordcloud-enter {
     opacity: 0;
-  }
-  
-  .fade-enter-active {
-    opacity: 1;
-    transition: opacity 5000ms ease-in;
-  }
+}
 
+.wordcloud-enter-active {
+    opacity: 1;
+    transition: opacity 500ms;
+}
 /* for over-border words*/
  
 .parent-div {
@@ -19,6 +18,22 @@
     justify-content: center;
     display: flex;
     flex-shrink: 0;
-    width:700px;
-    height:600px;
+    width: 910px;
+    height:780px;
   } 
+
+/* for zoom in */
+.zoomable-svg {
+    transform: scale(1.5);
+    transform-origin: center;
+}
+
+/* change opacity*/
+.selected-word {
+    font-weight: bold !important;
+    opacity: 1 !important;
+  }
+
+.word-clicked  text {
+    opacity: 0.5
+}

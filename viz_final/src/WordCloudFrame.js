@@ -30,10 +30,11 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
         <div>
             <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}>{trends[trendNumber]}</div>
             <div style={containerStyles}>
-                <div style={leftDivStyles}>
+                <div style={leftDivStyles} className = "parent-div">
                     <MyWordCloud height = {windowHeight}
                             width = {keyword===false? windowWidth:windowWidth*0.5}
                             data = {data}
+                            keyword = {keyword}
                             setKeyword = {setKeyword}
                             setVideoID = {setVideoID}
                     />
