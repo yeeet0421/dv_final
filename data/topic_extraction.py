@@ -6,14 +6,20 @@ fileName = '烏克蘭'
 titleK = 5
 descriptionK = 5
 topK = 50
-with open(fileName + '_vid.json', encoding='utf8') as jsonfile:
+with open(fileName + '_vid_sentiment.json', encoding='utf8') as jsonfile:
     data = json.load(jsonfile)
 
 keyword = {}
 for video in data:
+    data[video]['topic'] = {}
     # title
     title = data[video]['items'][0]['snippet']['title']
     for k, w in jieba.analyse.textrank(title, topK=titleK, withWeight=True, allowPOS=('ns','n','vn','v','nr')):
+        if k in data[video]['topic']:
+            data[video]['topic'][k] += w
+        else:
+            data[video]['topic'][k] = w
+
         if k in keyword:
             keyword[k] += w
         else:
@@ -22,6 +28,11 @@ for video in data:
     # description
     description = data[video]['items'][0]['snippet']['description']
     for k, w in jieba.analyse.textrank(description, topK=descriptionK, withWeight=True, allowPOS=('ns','n','vn','v','nr')):
+        if k in data[video]['topic']:
+            data[video]['topic'][k] += w
+        else:
+            data[video]['topic'][k] = w
+
         if k in keyword:
             keyword[k] += w
         else:
@@ -45,3 +56,7 @@ for i, (k, v) in enumerate(keyword.items()):
         break
 with open(fileName + '_vid_topic_with_tags.json', 'w', encoding='utf8') as output:
     json.dump(_, output, indent=4, ensure_ascii=False)
+with open(fileName + '_vid_sentiment.json', 'w', encoding='utf8') as jsonfile:
+    json.dump(data, jsonfile, indent=4, ensure_ascii=False)
+
+
