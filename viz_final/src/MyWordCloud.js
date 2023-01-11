@@ -12,7 +12,9 @@ import './WordCloud.css'
 
 const schemeCategory10ScaleOrdinal = scaleOrdinal(schemeCategory10);
 
-const MyWordCloud = ({height, width, data, setKeyword, setUIProgress, setVideoID, keyword}) => {
+
+// heighWeight v.s. fontSize unresolved!!!
+const MyWordCloud = ({height, width, data, setKeyword, setVideoID, trends, trendNumber, keyword}) => {
     const onWordClick = useCallback((word) => {
         setVideoID(false);
         setKeyword(word.syntheticEvent.nativeEvent.srcElement.textContent);
@@ -48,13 +50,11 @@ const MyWordCloud = ({height, width, data, setKeyword, setUIProgress, setVideoID
         justifyContent: "center",
     }
       
-
-
     return(
         <div style={styles} className = {keyword? 'word-clicked':''}>
             
                 <WordCloud
-                    data={data}
+                    data={data[trends[trendNumber]]}
                     //width={width}
                     //height={height}
                     font="Arial"
