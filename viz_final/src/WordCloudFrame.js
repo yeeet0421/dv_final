@@ -13,10 +13,12 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
         display: "flex"
       };
       
-      const leftDivStyles = {
-        flex: 1,
-        overflow: "hidden",
-      };
+    const leftDivStyles = {
+    flex: 1,
+    overflow: "hidden",
+    alignItems: "center",
+    justifyContent: "center",
+    };
       
       const rightDivStyles = {
         flex: 1,
