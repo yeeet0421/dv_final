@@ -36,6 +36,8 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
                             data = {data}
                             setKeyword = {setKeyword}
                             setVideoID = {setVideoID}
+                            trends = {trends}
+                            trendNumber = {trendNumber}
                     />
                 </div>
                 {keyword && (!(videoID)) &&<div style={rightDivStyles}>

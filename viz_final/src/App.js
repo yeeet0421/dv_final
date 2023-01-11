@@ -69,6 +69,8 @@ function App() {
           <MyWordCloud width = {1500}
                       height = {800}
                       data = {data} 
+                      trends = {trends}
+                      trendNumber = {trendNumber}
                       //fontWeight = {(data)=>data.value}
           />
           <button onClick={()=>setUIProgress(1)}>Next UI</button>

@@ -11,14 +11,14 @@ const schemeCategory10ScaleOrdinal = scaleOrdinal(schemeCategory10);
 
 
 // heighWeight v.s. fontSize unresolved!!!
-const MyWordCloud = ({height, width, data, setKeyword, setUIProgress, setVideoID}) => {
+const MyWordCloud = ({height, width, data, setKeyword, setVideoID, trends, trendNumber}) => {
     const onWordClick = useCallback((word) => {
         //const temp =  word.syntheticEvent.nativeEvent.srcElement.textContent;
         //console.log(temp);
         setVideoID(false);
         setKeyword(word.syntheticEvent.nativeEvent.srcElement.textContent);
       }, [setKeyword]);
-    const fontSize = useCallback((word) => Math.log2(word.value) * 5, []);
+    const fontSize = useCallback((word) => Math.log2(word.value) * 7, []);
     const rotate = useCallback(() => 0, []);
     const fill = useCallback((d, i) => schemeCategory10ScaleOrdinal(i), []);
     /*
@@ -34,13 +34,11 @@ const MyWordCloud = ({height, width, data, setKeyword, setUIProgress, setVideoID
     justifyContent: "center",
     }
       
-
-
     return(
         <div style={styles} className = "parent-div">
             <CSSTransition in={true} timeout={1000} classNames="fade">
                 <WordCloud
-                    data={data}
+                    data={data[trends[trendNumber]]}
                     //width={width}
                     //height={height}
                     font="Arial"
