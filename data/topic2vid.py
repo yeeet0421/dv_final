@@ -17,7 +17,7 @@ for topic in topic_data:
     output_data[topic['text']] = []
     for i, k in enumerate(vid_weight):
         output_data[topic['text']].append(k)
-        if i == 4:
+        if i == 3:
             break
 
 with open(fileName + '_topic4vid.json', 'w', encoding='utf8') as jsonfile:
