@@ -3,10 +3,13 @@ import { Row, Col, Card, Icon, CardTitle } from 'react-materialize';
 //import VideoCard from './VideoCard';
 
 
-const VideoCard = ({ height, width, setVideoID }) => {
-    const vid_sent = 0.8
-    let col_r = 255*vid_sent
-    let col_g = 255*(1-vid_sent)
+const VideoCard = ({ height, width, setVideoID, vid, data, cardId, setCardId}) => {
+    // console.log('data:', data)
+    // console.log('data',data, vid)
+    const vid_sent = data[vid]['avg_sentiment']
+    // console.log(vid_sent)
+    let col_g = 255*vid_sent
+    let col_r = 255*(1-vid_sent)
     let col_b = 0
     if((col_r>col_g)){
         let tmp = 255-col_r
@@ -26,28 +29,31 @@ const VideoCard = ({ height, width, setVideoID }) => {
                                             marginLeft:40 + "px",
                                             marginBottom:20 + "px"}}
         >
-            <div className="card horizontal" style ={{height: height*0.2, backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.5)`}}>
-                <div className="card-image" style ={{height: height*0.2}}>
-                    <a href='#'
-                        onClick={() => setVideoID(1)}
-                    >
-                        <img src="https://i.imgur.com/VN0lRU8.png"
-                            style={{ width: "100%", height: "100%", objectFit: "cover" }}
-                        />
-                    </a>
-                </div>
-                <div className="card-stacked">
-                    <div className="card-content">
-                        <p style={{ fontWeight: "bold", fontSize: 2+"em" }}>some Video Title</p>
+            <a href='#'
+                    onClick={() => {setCardId(cardId);setVideoID(vid)}}
+                    style={{color:'black'}}
+                >
+                <div className="card horizontal" style ={{height: height*0.2, backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.5)`}}>
+                    <div className="card-image" style ={{height: height*0.2}}>
+                        
+                            <img src={data[vid]['thumbnail']}
+                                style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                            />
+                        
                     </div>
-                    <div className="card-text" style={{ textAlign: "right" }}>
-                        <a href='#'
-                            onClick={() => setVideoID(1)}
-                        >More info
-                        </a>
+                    <div className="card-stacked">
+                        <div className="card-content">
+                            <p style={{ fontWeight: "bold", fontSize: 1+"em" }}>{data[vid]['vidTitle']}</p>
+                        </div>
+                        {/* <div className="card-text" style={{ textAlign: "right" }}>
+                            <a href='#'
+                                onClick={() => {setCardId(cardId);setVideoID(vid)}}
+                            >More info
+                            </a>
+                        </div> */}
                     </div>
                 </div>
-            </div>
+            </a>
         </div>
     )
 }

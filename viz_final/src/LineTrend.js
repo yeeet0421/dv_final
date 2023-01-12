@@ -44,13 +44,13 @@ const LineTrend = ({trends,trendNumber}) => {
     labels,
     datasets: [
       {
-        label: 'Google Trends',
+        label: 'Google Trends ((highest-lowest)/100)',
         data: line_data[trends[trendNumber]]['line']['google']['val'],
         borderColor: 'rgb(255, 99, 132)',
         backgroundColor: 'rgba(255, 99, 132, 0.5)',
       },
       {
-        label: 'Youtube Upload Trends',
+        label: 'Youtube Upload Trends (video)',
         data: line_data[trends[trendNumber]]['line']['youtube']['val'],
         borderColor: 'rgb(53, 162, 235)',
         backgroundColor: 'rgba(53, 162, 235, 0.5)',

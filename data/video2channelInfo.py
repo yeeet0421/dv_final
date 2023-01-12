@@ -23,11 +23,18 @@ with open('世足賽_vid.json', encoding='utf8') as f:
     for vid in output:
         if output[vid]['keyword'] == '世足賽':
             output[vid]['channelId'] = vid_data[vid]['items'][0]['snippet']['channelId']
+            output[vid]['channelTitle'] = vid_data[vid]['items'][0]['snippet']['channelTitle']
+            output[vid]['vidTitle'] = vid_data[vid]['items'][0]['snippet']['title']
+            output[vid]['thumbnail'] = vid_data[vid]['items'][0]['snippet']['thumbnails']['high']['url']
 with open('疫情_vid.json', encoding='utf8') as f:
     vid_data = json.load(f)
     for vid in output:
         if output[vid]['keyword'] == '疫情':
             output[vid]['channelId'] = vid_data[vid]['items'][0]['snippet']['channelId']
+            output[vid]['channelTitle'] = vid_data[vid]['items'][0]['snippet']['channelTitle']
+            output[vid]['vidTitle'] = vid_data[vid]['items'][0]['snippet']['title']
+            output[vid]['thumbnail'] = vid_data[vid]['items'][0]['snippet']['thumbnails']['high']['url']
+
 
 # get the channel infomation (categories, viewcount, videocount)
 with open('channelInfo.json', encoding='utf8') as f:

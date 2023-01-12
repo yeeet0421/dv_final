@@ -4,8 +4,9 @@ import ReactPlayer from "react-player";
 import PieChart from './PieChart';
 import IconButton from '@material-ui/core/IconButton';
 import CloseIcon from '@material-ui/icons/Close';
-
-const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
+import topic_vid from './topic_vid';
+import { Row, Col} from 'react-materialize';
+const ImageCard = ({ imagePath, width, height, keyword, setVideoID, vid, cardId, trends, trendNumber}) => {
   const styles = ({
     OuterContainer: {
         // position: "fixed",
@@ -60,10 +61,30 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
         display:"flex"
     }
 });
-  const vid = "ClAW97s-h_Q"
-  const vid_sent = 0.8
-  let col_r = 255*vid_sent
-  let col_g = 255*(1-vid_sent)
+  if(trends[trendNumber] == '1922' || trends[trendNumber] == '地震'){
+    trendNumber = 1
+    keyword = '世足賽'
+  }
+  else if(trends[trendNumber] == '烏克蘭'){
+    trendNumber = 3
+    keyword = '中心'
+  }
+  else if(trends[trendNumber] == '世足賽'){
+    if(keyword != '世足賽' & keyword != '台灣'){
+        keyword = '世足賽'
+    }
+  }
+  else if(trends[trendNumber] == '疫情'){
+    if(keyword != '中心' & keyword != '疫苗'){
+        keyword = '中心'
+    }
+  }
+  const data = topic_vid[trends[trendNumber]][keyword][cardId][vid]
+  // console.log(data)
+  // const vid = "ClAW97s-h_Q"
+  const vid_sent = data['avg_sentiment']
+  let col_g = 255*vid_sent
+  let col_r = 255*(1-vid_sent)
   let col_b = 0
   if((col_r>col_g)){
       let tmp = 255-col_r
@@ -79,8 +100,8 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
   }
   return (
     <div className="row">
-      <div className="col s12 m7" style={{ width: width * 0.48, height: height, backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.5)`}}>
-        <div className="card" style={{ width: width * 0.45, height: height*0.95,overflow:'scroll'}}>
+      <div className="col s12 m7" style={{ width: width * 0.5, height: height, backgroundColor:`rgb(${col_r},${col_g},${col_b}, 0.5)`}}>
+        <div className="card" style={{ width: width * 0.48, height: height*0.95,overflow:'scroll'}}>
         <div style={{paddingBottom:20,
         textAlign:"center",
         fontSize:36,
@@ -94,8 +115,8 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
             {/* <img src="images/sample-1.jpg"/>
             <img src={imagePath} /> */}
             <ReactPlayer    url={"https://www.youtube.com/watch?v="+vid}
-                                        width={width * 0.45}
-                                        height={width * 0.45*9/16}
+                                        width={width * 0.48}
+                                        height={width * 0.48*9/16}
                                         controls = {true} />
           </div>
           {/* <div className="card-content">
@@ -107,9 +128,23 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID}) => {
               <img src="https://i.imgur.com/HhqZIBb.png" />
               Some descriptions with link
             </a> */}
-            <p>channel name, total video, total view count</p>
+            <p style={{fontWeight: "bold", fontSize: 1.5+'em'}}>{data['channelTitle']}</p>
+            <Row>
+                    <Col
+                        m={6}
+                        s={6}
+                    >
+                        <span>總影片量：{data['total_video']}</span>
+                    </Col>
+                    <Col
+                        m={6}
+                        s={6}
+                    >
+                        <span>總觀看數：{data['total_view']}</span>
+                    </Col>
+                </Row>
             <div style={{width: width * 0.45}}>
-            <PieChart height={height*0.1}>
+            <PieChart height={height*0.5} data_ = {data['channel_chart']}>
             </PieChart>
             </div>
             {/* <p>Some Statistics</p>

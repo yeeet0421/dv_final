@@ -35,7 +35,7 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
                     onClick = {() => setUIProgress(2)}
                     >
                         <CardPanel className={classNames[i]} style={{ width: windowWidth*0.4 ,
-                                                                        height : windowHeight*0.12,
+                                                                        height : windowHeight*0.16,
                                                                         textAlign : 'center',
                                                                         marginTop: windowHeight*0.07,
                                                                         marginBottom: windowHeight*0.07 }}

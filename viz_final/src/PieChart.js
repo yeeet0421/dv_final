@@ -51,13 +51,44 @@ export const data = {
       },
   ],
 };
-
-const PieChart = ({trends,trendNumber, height}) => {
-  return <Pie data={data} 
+const PieChart = ({height, data_}) => {
+  console.log(data)
+  let tmp = {
+    labels:data_['categories'],
+    datasets:[
+      {
+        label: 'videos',
+        data: data_['videocount'],
+        backgroundColor: [
+          'rgba(255, 99, 132, 0.2)',
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(255, 206, 86, 0.2)',
+          'rgba(75, 192, 192, 0.2)',
+          'rgba(153, 102, 255, 0.2)',
+          'rgba(255, 159, 64, 0.2)',
+        ],
+        borderWidth: 1,
+      },
+      {
+        label: 'views',
+        data: data_['viewcount'],
+        backgroundColor: [
+          'rgba(255, 99, 132, 0.2)',
+          'rgba(54, 162, 235, 0.2)',
+          'rgba(255, 206, 86, 0.2)',
+          'rgba(75, 192, 192, 0.2)',
+          'rgba(153, 102, 255, 0.2)',
+          'rgba(255, 159, 64, 0.2)',
+        ],
+        borderWidth: 1,
+      }
+    ]
+  }
+  return <Pie data={tmp} 
             //   width={50}
             //   height={50}
             
-              options={{ maintainAspectRatio: false }}
-              />;
+            // options={{ maintainAspectRatio: false }}
+          />;
 }
 export default PieChart;

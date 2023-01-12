@@ -8,6 +8,7 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
 
     const [keyword, setKeyword] = useState(false);
     const [videoID, setVideoID] = useState(false);
+    const [cardId, setCardId] = useState(false);
     //const [cardDetailNumber, setCardDetailNumber] = useState(0);
     const containerStyles = {
         display: "flex"
@@ -44,7 +45,12 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
                 {keyword && (!(videoID)) &&<div style={rightDivStyles}>
                     <VideoList height = {windowHeight}
                                 width = {windowWidth} 
+                                trends = {trends}
+                                trendNumber = {trendNumber}
                                 setVideoID = {setVideoID}
+                                keyword = {keyword}
+                                setCardId = {setCardId}
+                                cardId = {cardId}
                     />
                 </div>}
                 {videoID && <div style={rightDivStyles}>
@@ -53,6 +59,10 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
                             width = {windowWidth}
                             keyword = {keyword}
                             setVideoID = {setVideoID}
+                            trends = {trends}
+                            trendNumber = {trendNumber}
+                            vid = {videoID}
+                            cardId = {cardId}
                     />
                 </div>}
             </div>
