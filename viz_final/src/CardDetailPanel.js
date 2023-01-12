@@ -134,7 +134,11 @@ const styles = ({
                     <div style={styles.rootTitle}> Hover a keyword to get its overview</div>
                     <div style={styles.rootTitle}> Click a keyword to get its insights</div>
                 </div>
-                
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
                 </Paper>  
             </div>
         );
