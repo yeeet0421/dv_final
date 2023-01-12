@@ -3,6 +3,7 @@ import { useState } from 'react';
 import MyWordCloud from './MyWordCloud';
 import ImageCard from './ImageCard';
 import VideoList from './VideoList';
+import CloudLegend from './CloudLegend';
 
 const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress, trendNumber}) => {
 
@@ -37,10 +38,21 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
     
     return(
         <div>
-            <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}>{trends[trendNumber]}</div>
+            <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}
+                height={windowHeight*0.1}
+            >
+                {trends[trendNumber]}
+            </div>
+            <div style={{float:'left'}}>
+                <CloudLegend
+                    trends = {trends}
+                    trendNumber = {trendNumber}
+                ></CloudLegend>
+                </div>
             <div style={containerStyles}>
-            <button style={buttonStyle} onClick={handleButtonClick}>Toggle font size</button>
+            {/* <button style={buttonStyle} onClick={handleButtonClick}>Toggle font size</button> */}
                 <div style={leftDivStyles} className = "parent-div">
+                    
                     <MyWordCloud height = {windowHeight}
                             width = {keyword===false? windowWidth:windowWidth*0.5}
                             data = {data}
