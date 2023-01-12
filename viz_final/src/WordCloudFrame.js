@@ -10,6 +10,10 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
     const [videoID, setVideoID] = useState(false);
     const [cardId, setCardId] = useState(false);
     //const [cardDetailNumber, setCardDetailNumber] = useState(0);
+    
+    const handleButtonClick = () => {
+    }
+
     const containerStyles = {
         display: "flex"
       };
@@ -26,11 +30,16 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
         overflow: "auto"
 
       };
+    const buttonStyle = {
+        width: '100px',
+        height: '50px'
+    }
     
     return(
         <div>
             <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}>{trends[trendNumber]}</div>
             <div style={containerStyles}>
+            <button style={buttonStyle} onClick={handleButtonClick}>Toggle font size</button>
                 <div style={leftDivStyles} className = "parent-div">
                     <MyWordCloud height = {windowHeight}
                             width = {keyword===false? windowWidth:windowWidth*0.5}

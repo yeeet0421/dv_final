@@ -32,6 +32,7 @@
 .selected-word {
     font-weight: bold !important;
     opacity: 1 !important;
+    font-size: 50px !important;
   }
 
 .word-clicked  text {

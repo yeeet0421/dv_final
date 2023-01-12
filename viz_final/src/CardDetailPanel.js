@@ -76,7 +76,7 @@ const styles = ({
                 </IconButton>
                 </div>
                 <div style = {styles.paper2_UpperContainer}>
-                    <div style={styles.rootTitle}> {trends[trendNumber]} 2022 Overview</div>
+                    <div style={styles.rootTitle}> {trends[trendNumber]} Overview</div>
                 </div>
                 <div height="5"><hr></hr></div>
                 <div style = {styles.paper2_BelowContainer}>

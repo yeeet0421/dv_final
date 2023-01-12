@@ -7,6 +7,7 @@ import data from "./word.js";
 import IconButton from '@material-ui/core/IconButton';
 import ArrowBackIcon from '@material-ui/icons/ArrowBack';
 
+//'世足賽': ['世足賽', '台灣'], '疫情'🙁'中心', '疫苗']
 function App() {
   const trends = ['1922', '世足賽', '地震', '疫情', '烏克蘭'];
   const [progress, setProgress] = useState(1);
