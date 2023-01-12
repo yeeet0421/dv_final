@@ -1,278 +1,429 @@
 {
-    "地震": [
-        "5Tsrn270Syo",
-        "P9jHRVkVAfU",
-        "AqddxTP9-N4",
-        "MO5eIZQivN8"
-    ],
-    "新聞": [
-        "OW2KwDXIuN4",
-        "20WXKH_G6vM",
-        "RIEqR09F6QQ",
-        "qZSFESOXFdY"
-    ],
-    "規模": [
-        "qTUhWYBn74s",
-        "ctz9mlRtju4",
-        "5Zd6OFnAouE",
-        "gpY6w-OMKIA"
-    ],
-    "發生": [
-        "J1GZnW_g63E",
-        "I4rioyzkWfc",
-        "qTUhWYBn74s",
-        "UYH85IDsPI8"
-    ],
-    "強震": [
-        "cvmxafytsiM",
-        "eKlfazqJsTE",
-        "HHHcSjkfn5w",
-        "a9DjcZsA-uM"
-    ],
-    "台東": [
-        "cvmxafytsiM",
-        "TnAxP-C01JI",
-        "vU2ryKJFi2g",
-        "40F0U1hAYdY"
-    ],
-    "國際": [
-        "s8tWRUoeWF0",
-        "weklcn1iJ0I",
-        "2dapBmfGkgY",
-        "c_Uxemwe3Y8"
-    ],
-    "東森": [
-        "5Zd6OFnAouE",
-        "vU2ryKJFi2g",
-        "PAzoAWHDOT4",
-        "Z_MoYeaG428"
-    ],
-    "台灣": [
-        "-QSIBnlQxtA",
-        "rbT-Bvs_yz4",
-        "YuejEyTDRlk",
-        "s8tWRUoeWF0"
-    ],
-    "頻道": [
-        "4RhbUDR3gpo",
-        "xXZWx8oFYjE",
-        "mL6_Vz7hiSs",
-        "YuejEyTDRlk"
-    ],
-    "斷層": [
-        "eKxwyc61Jbk",
-        "IarHtjJuH6Q",
-        "J3hNBnRx96I",
-        "ReXDraPIIZs"
-    ],
-    "花蓮": [
-        "RIEqR09F6QQ",
-        "m5TKA2dDkfc",
-        "R5JwM4yHxQE",
-        "txH1B1-jQEU"
-    ],
-    "掌握": [
-        "c_Uxemwe3Y8",
-        "weklcn1iJ0I",
-        "2dapBmfGkgY",
-        "AjX5ylFhvDI"
-    ],
-    "禁止": [
-        "m5TKA2dDkfc",
-        "R5JwM4yHxQE",
-        "eqEVJ0O5lnY",
-        "MZHFNOKh4og"
-    ],
-    "公視": [
-        "eKxwyc61Jbk",
-        "IarHtjJuH6Q",
-        "HIDctI72T4o",
-        "eKlfazqJsTE"
-    ],
-    "專家": [
-        "nU_4RPW4tUQ",
-        "ReXDraPIIZs",
-        "GCIfLklKzCM",
-        "qTUhWYBn74s"
-    ],
-    "氣象": [
-        "MO5eIZQivN8",
-        "a9DjcZsA-uM",
-        "MZHFNOKh4og",
-        "2dapBmfGkgY"
-    ],
-    "時間": [
-        "aeXag3PH45s",
-        "c_Uxemwe3Y8",
-        "2dapBmfGkgY",
-        "weklcn1iJ0I"
-    ],
-    "餘震": [
-        "2dapBmfGkgY",
-        "MO5eIZQivN8",
-        "QNHkf0F9yAI",
-        "MZHFNOKh4og"
-    ],
-    "主持人": [
-        "YuejEyTDRlk",
-        "wMFKmOsv-0s",
-        "1sCgM1F_EaU",
-        "Q17cuW_h2Zk"
-    ],
-    "速報": [
-        "AqddxTP9-N4",
-        "uhXvdHzTDP0",
-        "YYevKwYZLio"
-    ],
-    "倒塌": [
-        "sr2eRhbZOEQ",
-        "f6BJStRmz24",
-        "gae5S1PgL9k",
-        "cvmxafytsiM"
-    ],
-    "故事": [],
-    "高雄": [
-        "5Zd6OFnAouE",
-        "hLknEClGaoM"
-    ],
-    "官方": [
-        "-_KmZ_dSPQA",
-        "4RhbUDR3gpo",
-        "YuejEyTDRlk",
-        "UkiPCPxkoiM"
-    ],
-    "震度": [
-        "YYevKwYZLio",
-        "a9DjcZsA-uM",
-        "R5JwM4yHxQE",
-        "uhXvdHzTDP0"
-    ],
-    "關鍵": [
-        "aeXag3PH45s",
-        "-QSIBnlQxtA",
-        "Jl0nsH2LEkM"
-    ],
-    "日本": [
-        "AjX5ylFhvDI",
-        "_-dlN-CkUrM",
-        "s8tWRUoeWF0"
-    ],
-    "知道": [
-        "PVB-y48tMVQ",
-        "p1jf0KC8yZU",
-        "bF3nl-zcMl0",
-        "xXZWx8oFYjE"
-    ],
-    "民眾": [
-        "CgRALtmMCjo",
-        "LHPPC-uePFk",
-        "p1jf0KC8yZU",
-        "IWnzsFjhjnQ"
-    ],
-    "預警": [
-        "ReXDraPIIZs",
-        "GCIfLklKzCM",
-        "J3hNBnRx96I"
-    ],
-    "直播": [
-        "b7SCEbnfp0g",
-        "PVB-y48tMVQ",
-        "p1jf0KC8yZU",
-        "bF3nl-zcMl0"
-    ],
-    "警報": [
-        "IWnzsFjhjnQ",
-        "AqddxTP9-N4",
-        "uhXvdHzTDP0"
-    ],
-    "全台": [
-        "UkiPCPxkoiM",
-        "YuejEyTDRlk",
-        "eqEVJ0O5lnY",
-        "YYevKwYZLio"
-    ],
-    "支持": [
-        "xXZWx8oFYjE",
-        "mL6_Vz7hiSs",
-        "MZHFNOKh4og",
-        "m5TKA2dDkfc"
-    ],
-    "活躍": [
-        "P9jHRVkVAfU",
-        "AjX5ylFhvDI",
-        "_-dlN-CkUrM"
-    ],
-    "舉動": [
-        "RIEqR09F6QQ",
-        "txH1B1-jQEU",
-        "-_KmZ_dSPQA"
-    ],
-    "高寮": [
-        "oDEZNNYaRR8",
-        "sr2eRhbZOEQ"
-    ],
-    "嚴選": [
-        "MZHFNOKh4og",
-        "sr2eRhbZOEQ",
-        "m5TKA2dDkfc",
-        "R5JwM4yHxQE"
-    ],
-    "花蓮玉": [
-        "44WmNhAMi-o",
-        "CgRALtmMCjo",
-        "sr2eRhbZOEQ"
-    ],
-    "房屋": [
-        "J1GZnW_g63E",
-        "ctz9mlRtju4",
-        "1MLfPVE9UHY",
-        "S-yIbvvjI1E"
-    ],
-    "大橋": [
-        "ctz9mlRtju4",
-        "oDEZNNYaRR8",
-        "sr2eRhbZOEQ"
-    ],
-    "學者": [
-        "qTUhWYBn74s",
-        "40F0U1hAYdY",
-        "3al9S2PAIPM"
-    ],
-    "斷裂": [
-        "ctz9mlRtju4",
-        "oDEZNNYaRR8",
-        "gae5S1PgL9k"
-    ],
-    "會員": [
-        "HHHcSjkfn5w",
-        "Z_MoYeaG428",
-        "mL6_Vz7hiSs",
-        "vU2ryKJFi2g"
-    ],
-    "時刻": [
-        "-QSIBnlQxtA",
-        "aeXag3PH45s",
-        "Jl0nsH2LEkM"
-    ],
-    "超商": [
-        "f6BJStRmz24",
-        "cvmxafytsiM"
-    ],
-    "活動": [
-        "ReXDraPIIZs",
-        "GCIfLklKzCM",
-        "IarHtjJuH6Q"
-    ],
-    "避難": [
-        "EnB7WFR5UMQ"
-    ],
-    "加入": [
-        "-BbWc_Y7DNA",
-        "R5JwM4yHxQE",
-        "eqEVJ0O5lnY"
-    ],
-    "機率": [
-        "37y13RNMYUI",
-        "I4rioyzkWfc"
-    ]
+    "地震": {
+        "videoId": [
+            "5Tsrn270Syo",
+            "P9jHRVkVAfU",
+            "AqddxTP9-N4",
+            "MO5eIZQivN8"
+        ],
+        "topic": "Society"
+    },
+    "新聞": {
+        "videoId": [
+            "OW2KwDXIuN4",
+            "20WXKH_G6vM",
+            "RIEqR09F6QQ",
+            "qZSFESOXFdY"
+        ],
+        "topic": "Society"
+    },
+    "規模": {
+        "videoId": [
+            "qTUhWYBn74s",
+            "ctz9mlRtju4",
+            "5Zd6OFnAouE",
+            "gpY6w-OMKIA"
+        ],
+        "topic": "Society"
+    },
+    "發生": {
+        "videoId": [
+            "J1GZnW_g63E",
+            "I4rioyzkWfc",
+            "qTUhWYBn74s",
+            "UYH85IDsPI8"
+        ],
+        "topic": "Society"
+    },
+    "強震": {
+        "videoId": [
+            "cvmxafytsiM",
+            "eKlfazqJsTE",
+            "HHHcSjkfn5w",
+            "a9DjcZsA-uM"
+        ],
+        "topic": "Society"
+    },
+    "台東": {
+        "videoId": [
+            "cvmxafytsiM",
+            "TnAxP-C01JI",
+            "vU2ryKJFi2g",
+            "40F0U1hAYdY"
+        ],
+        "topic": "Society"
+    },
+    "國際": {
+        "videoId": [
+            "s8tWRUoeWF0",
+            "weklcn1iJ0I",
+            "2dapBmfGkgY",
+            "c_Uxemwe3Y8"
+        ],
+        "topic": "Society"
+    },
+    "東森": {
+        "videoId": [
+            "5Zd6OFnAouE",
+            "vU2ryKJFi2g",
+            "PAzoAWHDOT4",
+            "Z_MoYeaG428"
+        ],
+        "topic": "Society"
+    },
+    "台灣": {
+        "videoId": [
+            "-QSIBnlQxtA",
+            "rbT-Bvs_yz4",
+            "YuejEyTDRlk",
+            "s8tWRUoeWF0"
+        ],
+        "topic": "Society"
+    },
+    "頻道": {
+        "videoId": [
+            "4RhbUDR3gpo",
+            "xXZWx8oFYjE",
+            "mL6_Vz7hiSs",
+            "YuejEyTDRlk"
+        ],
+        "topic": "Society"
+    },
+    "斷層": {
+        "videoId": [
+            "eKxwyc61Jbk",
+            "IarHtjJuH6Q",
+            "J3hNBnRx96I",
+            "ReXDraPIIZs"
+        ],
+        "topic": "Society"
+    },
+    "花蓮": {
+        "videoId": [
+            "RIEqR09F6QQ",
+            "m5TKA2dDkfc",
+            "R5JwM4yHxQE",
+            "txH1B1-jQEU"
+        ],
+        "topic": "Society"
+    },
+    "掌握": {
+        "videoId": [
+            "c_Uxemwe3Y8",
+            "weklcn1iJ0I",
+            "2dapBmfGkgY",
+            "AjX5ylFhvDI"
+        ],
+        "topic": "Society"
+    },
+    "禁止": {
+        "videoId": [
+            "m5TKA2dDkfc",
+            "R5JwM4yHxQE",
+            "eqEVJ0O5lnY",
+            "MZHFNOKh4og"
+        ],
+        "topic": "Society"
+    },
+    "公視": {
+        "videoId": [
+            "eKxwyc61Jbk",
+            "IarHtjJuH6Q",
+            "HIDctI72T4o",
+            "eKlfazqJsTE"
+        ],
+        "topic": "Society"
+    },
+    "專家": {
+        "videoId": [
+            "nU_4RPW4tUQ",
+            "ReXDraPIIZs",
+            "GCIfLklKzCM",
+            "qTUhWYBn74s"
+        ],
+        "topic": "Society"
+    },
+    "氣象": {
+        "videoId": [
+            "MO5eIZQivN8",
+            "a9DjcZsA-uM",
+            "MZHFNOKh4og",
+            "2dapBmfGkgY"
+        ],
+        "topic": "Society"
+    },
+    "時間": {
+        "videoId": [
+            "aeXag3PH45s",
+            "c_Uxemwe3Y8",
+            "2dapBmfGkgY",
+            "weklcn1iJ0I"
+        ],
+        "topic": "Society"
+    },
+    "餘震": {
+        "videoId": [
+            "2dapBmfGkgY",
+            "MO5eIZQivN8",
+            "QNHkf0F9yAI",
+            "MZHFNOKh4og"
+        ],
+        "topic": "Society"
+    },
+    "主持人": {
+        "videoId": [
+            "YuejEyTDRlk",
+            "wMFKmOsv-0s",
+            "1sCgM1F_EaU",
+            "Q17cuW_h2Zk"
+        ],
+        "topic": "Society"
+    },
+    "速報": {
+        "videoId": [
+            "AqddxTP9-N4",
+            "uhXvdHzTDP0",
+            "YYevKwYZLio"
+        ]
+    },
+    "倒塌": {
+        "videoId": [
+            "sr2eRhbZOEQ",
+            "f6BJStRmz24",
+            "gae5S1PgL9k",
+            "cvmxafytsiM"
+        ],
+        "topic": "Society"
+    },
+    "故事": {
+        "videoId": []
+    },
+    "高雄": {
+        "videoId": [
+            "5Zd6OFnAouE",
+            "hLknEClGaoM"
+        ],
+        "topic": "Society"
+    },
+    "官方": {
+        "videoId": [
+            "-_KmZ_dSPQA",
+            "4RhbUDR3gpo",
+            "YuejEyTDRlk",
+            "UkiPCPxkoiM"
+        ],
+        "topic": "Lifestyle_(sociology)"
+    },
+    "震度": {
+        "videoId": [
+            "YYevKwYZLio",
+            "a9DjcZsA-uM",
+            "R5JwM4yHxQE",
+            "uhXvdHzTDP0"
+        ],
+        "topic": "Society"
+    },
+    "關鍵": {
+        "videoId": [
+            "aeXag3PH45s",
+            "-QSIBnlQxtA",
+            "Jl0nsH2LEkM"
+        ],
+        "topic": "Society"
+    },
+    "日本": {
+        "videoId": [
+            "AjX5ylFhvDI",
+            "_-dlN-CkUrM",
+            "s8tWRUoeWF0"
+        ],
+        "topic": "Society"
+    },
+    "知道": {
+        "videoId": [
+            "PVB-y48tMVQ",
+            "p1jf0KC8yZU",
+            "bF3nl-zcMl0",
+            "xXZWx8oFYjE"
+        ],
+        "topic": "Society"
+    },
+    "民眾": {
+        "videoId": [
+            "CgRALtmMCjo",
+            "LHPPC-uePFk",
+            "p1jf0KC8yZU",
+            "IWnzsFjhjnQ"
+        ],
+        "topic": "Society"
+    },
+    "預警": {
+        "videoId": [
+            "ReXDraPIIZs",
+            "GCIfLklKzCM",
+            "J3hNBnRx96I"
+        ],
+        "topic": "Society"
+    },
+    "直播": {
+        "videoId": [
+            "b7SCEbnfp0g",
+            "PVB-y48tMVQ",
+            "p1jf0KC8yZU",
+            "bF3nl-zcMl0"
+        ],
+        "topic": "Society"
+    },
+    "警報": {
+        "videoId": [
+            "IWnzsFjhjnQ",
+            "AqddxTP9-N4",
+            "uhXvdHzTDP0"
+        ],
+        "topic": "Society"
+    },
+    "全台": {
+        "videoId": [
+            "UkiPCPxkoiM",
+            "YuejEyTDRlk",
+            "eqEVJ0O5lnY",
+            "YYevKwYZLio"
+        ],
+        "topic": "Society"
+    },
+    "支持": {
+        "videoId": [
+            "xXZWx8oFYjE",
+            "mL6_Vz7hiSs",
+            "MZHFNOKh4og",
+            "m5TKA2dDkfc"
+        ],
+        "topic": "Society"
+    },
+    "活躍": {
+        "videoId": [
+            "P9jHRVkVAfU",
+            "AjX5ylFhvDI",
+            "_-dlN-CkUrM"
+        ],
+        "topic": "Society"
+    },
+    "舉動": {
+        "videoId": [
+            "RIEqR09F6QQ",
+            "txH1B1-jQEU",
+            "-_KmZ_dSPQA"
+        ],
+        "topic": "Lifestyle_(sociology)"
+    },
+    "高寮": {
+        "videoId": [
+            "oDEZNNYaRR8",
+            "sr2eRhbZOEQ"
+        ],
+        "topic": "Society"
+    },
+    "嚴選": {
+        "videoId": [
+            "MZHFNOKh4og",
+            "sr2eRhbZOEQ",
+            "m5TKA2dDkfc",
+            "R5JwM4yHxQE"
+        ],
+        "topic": "Society"
+    },
+    "花蓮玉": {
+        "videoId": [
+            "44WmNhAMi-o",
+            "CgRALtmMCjo",
+            "sr2eRhbZOEQ"
+        ],
+        "topic": "Society"
+    },
+    "房屋": {
+        "videoId": [
+            "J1GZnW_g63E",
+            "ctz9mlRtju4",
+            "1MLfPVE9UHY",
+            "S-yIbvvjI1E"
+        ],
+        "topic": "Society"
+    },
+    "大橋": {
+        "videoId": [
+            "ctz9mlRtju4",
+            "oDEZNNYaRR8",
+            "sr2eRhbZOEQ"
+        ],
+        "topic": "Society"
+    },
+    "學者": {
+        "videoId": [
+            "qTUhWYBn74s",
+            "40F0U1hAYdY",
+            "3al9S2PAIPM"
+        ],
+        "topic": "Society"
+    },
+    "斷裂": {
+        "videoId": [
+            "ctz9mlRtju4",
+            "oDEZNNYaRR8",
+            "gae5S1PgL9k"
+        ],
+        "topic": "Society"
+    },
+    "會員": {
+        "videoId": [
+            "HHHcSjkfn5w",
+            "Z_MoYeaG428",
+            "mL6_Vz7hiSs",
+            "vU2ryKJFi2g"
+        ],
+        "topic": "Society"
+    },
+    "時刻": {
+        "videoId": [
+            "-QSIBnlQxtA",
+            "aeXag3PH45s",
+            "Jl0nsH2LEkM"
+        ],
+        "topic": "Society"
+    },
+    "超商": {
+        "videoId": [
+            "f6BJStRmz24",
+            "cvmxafytsiM"
+        ],
+        "topic": "Society"
+    },
+    "活動": {
+        "videoId": [
+            "ReXDraPIIZs",
+            "GCIfLklKzCM",
+            "IarHtjJuH6Q"
+        ],
+        "topic": "Society"
+    },
+    "避難": {
+        "videoId": [
+            "EnB7WFR5UMQ"
+        ],
+        "topic": "Society"
+    },
+    "加入": {
+        "videoId": [
+            "-BbWc_Y7DNA",
+            "R5JwM4yHxQE",
+            "eqEVJ0O5lnY"
+        ],
+        "topic": "Society"
+    },
+    "機率": {
+        "videoId": [
+            "37y13RNMYUI",
+            "I4rioyzkWfc"
+        ],
+        "topic": "Society"
+    }
 }
