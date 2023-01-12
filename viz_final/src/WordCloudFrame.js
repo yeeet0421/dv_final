@@ -31,17 +31,17 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
 
       };
     const buttonStyle = {
-        width: '100px',
+        width: '400px',
         height: '50px'
     }
-    
+    const ref = React.createRef();
     return(
         <div>
             <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}>{trends[trendNumber]}</div>
             <div style={containerStyles}>
-            <button style={buttonStyle} onClick={handleButtonClick}>Toggle font size</button>
                 <div style={leftDivStyles} className = "parent-div">
-                    <MyWordCloud height = {windowHeight}
+                    <MyWordCloud ref = {ref}
+                            height = {windowHeight}
                             width = {keyword===false? windowWidth:windowWidth*0.5}
                             data = {data}
                             keyword = {keyword}

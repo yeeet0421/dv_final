@@ -1,19 +1,12 @@
-import React , { useCallback, useState } from 'react';
+import React , { useCallback, useState, forwardRef} from 'react';
 //import { render } from 'react-dom';
 import WordCloud from 'react-d3-cloud';
 import { scaleOrdinal } from 'd3-scale';
 import { schemeCategory10 } from 'd3-scale-chromatic';
 import './WordCloud.css'
-//import words from "./word.js";
-
-
-
 
 const schemeCategory10ScaleOrdinal = scaleOrdinal(schemeCategory10);
-
-
-// heighWeight v.s. fontSize unresolved!!!
-const MyWordCloud = ({height, width, data, setKeyword, setVideoID, trends, trendNumber, keyword}) => {
+const MyWordCloud = forwardRef(({height, width, data, setKeyword, setVideoID, trends, trendNumber, keyword}, ref) => {
     const onWordClick = useCallback((word) => {
         setVideoID(false);
         setKeyword(word.syntheticEvent.nativeEvent.srcElement.textContent);
@@ -32,48 +25,81 @@ const MyWordCloud = ({height, width, data, setKeyword, setVideoID, trends, trend
         console.log(word);
 
       }, [setKeyword, setVideoID]);
-    const fontSize = useCallback((word) => Math.log2((word.value*5)^100) * 5 
-                                            , []);
+
+    const [buttonPressed, setButtonPressed] = useState(false);
+    const fontSize1 = useCallback((word) => Math.log2((word.value*5)^100) * 5, []);
+    const fontSize2 = useCallback((word) => Math.log2(10000/(word.value*5)) * 5, []);
+    //const fontSize = () => buttonPressed? fontSize1:fontSize2;
+    const toggleButtonPressed = () => {
+        setButtonPressed(!buttonPressed);
+    }
+    
     const rotate = useCallback(() => 0, []);
     const fill = useCallback((d, i) => schemeCategory10ScaleOrdinal(i), []);
     const fontWeight = useCallback((d) => {
         return (d.text===keyword)?"bold":"normal";
     },[]);
 
-    
-    /*
-    const styles = {
-        height: width*(7/6),
-        width: width
-    }
-    */
     const styles = {
         height: height,
         width: height *(6/7),
         alignItems: "center",
         justifyContent: "center",
     }
-      
+// newly add for adding class based on font-size ---------------------------
+    const buttonStyle = {
+        width: '500px',
+        height: '80px',
+        paddingTop: '40px',
+        paddingLeft:'50px',
+        left:'50px'
+    }
+
+
+
+
+//-----------------------------------------------------------------------------
     return(
-        <div>
+        <div className="container">
+            {(!buttonPressed&&<a class="waves-effect waves-light btn" 
+                style = {buttonStyle}
+                onClick={toggleButtonPressed}>I want to see few-uploaded topics</a>)}
+            {(buttonPressed&&<a class="waves-effect waves-light btn" 
+                style = {buttonStyle}
+                onClick={toggleButtonPressed}>I want to see most-uploaded topics</a>)}
             <div style={styles} className = {keyword? 'word-clicked':''}>
-            <WordCloud
+            {(!buttonPressed&&<WordCloud
                 data={data[trends[trendNumber]]}
                 //width={width}
                 //height={height}
                 font="Arial"
                 fontStyle="italic"
                 fontWeight={fontWeight}
-                fontSize={fontSize}
+                fontSize={fontSize1}
                 spiral="rectangular"
                 rotate={rotate}
                 padding={2}
                 fill={fill}
                 onWordClick={onWordClick}
-            />
+            />)}
+            {(buttonPressed&&<WordCloud
+                data={data[trends[trendNumber]]}
+                //width={width}
+                //height={height}
+                font="Arial"
+                fontStyle="italic"
+                fontWeight={fontWeight}
+                fontSize={fontSize2}
+                spiral="rectangular"
+                rotate={rotate}
+                padding={2}
+                fill={fill}
+                onWordClick={onWordClick}
+            />)}
             </div>
+            
         </div>
         
     );
-    };
+});
 export default MyWordCloud;

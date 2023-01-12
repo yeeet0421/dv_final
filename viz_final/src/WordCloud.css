@@ -38,3 +38,13 @@
 .word-clicked  text {
     opacity: 0.5
 }
+/* for button's position*/
+.container {
+  display: flex;
+  flex-direction: column;
+}
+/*
+button {
+  align-self: flex-start;
+}
+*/
