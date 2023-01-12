@@ -7,6 +7,7 @@ import CloseIcon from '@material-ui/icons/Close';
 import topic_vid from './topic_vid';
 import { Row, Col} from 'react-materialize';
 import BarChart from './BarChart';
+
 const ImageCard = ({ imagePath, width, height, keyword, setVideoID, vid, cardId, trends, trendNumber}) => {
   const styles = ({
     OuterContainer: {
@@ -130,12 +131,14 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID, vid, cardId,
               Some descriptions with link
             </a> */}
             <p style={{fontWeight: "bold", fontSize: 1.5+'em'}}>Comment Sentiment Overview</p>
+            <div height='80%'>
             <BarChart 
               labels={[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]}
               data_={data['com_bar']}
               color={['rgba(255, 0, 0, 0.5)', 'rgba(255, 50, 0, 0.5)', 'rgba(255, 100, 0, 0.5)', 'rgba(255, 150, 0, 0.5)', 'rgba(255, 200, 0, 0.5)', 'rgba(200, 255, 0, 0.5)', 'rgba(150, 255, 0, 0.5)', 'rgba(100, 255, 0, 0.5)', 'rgba(50, 255, 0, 0.5)', 'rgba(0, 255, 0, 0.5)']}
               >
             </BarChart>
+            </div>
             <p style={{fontWeight: "bold", fontSize: 1.5+'em'}}>{data['channelTitle']} Overview</p>
             <Row>
                     <Col
