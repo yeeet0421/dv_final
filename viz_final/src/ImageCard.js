@@ -134,13 +134,13 @@ const ImageCard = ({ imagePath, width, height, keyword, setVideoID, vid, cardId,
                         m={6}
                         s={6}
                     >
-                        <span>總影片量：{data['total_video']}</span>
+                        <span>總影片量(外圈)：{data['total_video']}</span>
                     </Col>
                     <Col
                         m={6}
                         s={6}
                     >
-                        <span>總觀看數：{data['total_view']}</span>
+                        <span>總觀看數(內圈)：{data['total_view']}</span>
                     </Col>
                 </Row>
             <div style={{width: width * 0.45}}>
