@@ -24,11 +24,12 @@ const options = {
   responsive: true,
   plugins: {
     legend: {
-      position: 'top',
+        display: false,
+    //   position: 'top',
     },
     title: {
     //   display: true,
-        display: false,
+      display: false,
       text: 'Chart.js Bar Chart',
     },
   },
@@ -64,12 +65,13 @@ const BarChart = ({labels, data_, color}) => {
         backgroundColor: color
         }
     ],
+    // options:options
     };
     return <Bar data={data} 
               //   width={50}
               //   height={50}
-              
-              // options={{ maintainAspectRatio: false }}
+              options={options}
+            //   options={{ maintainAspectRatio: false }}
             />;
   }
   export default BarChart;
