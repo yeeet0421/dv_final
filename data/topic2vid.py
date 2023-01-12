@@ -1,6 +1,6 @@
 import json
 
-fileName = '烏克蘭'
+fileName = '疫情'
 with open(fileName + '_vid_sentiment.json', encoding='utf8') as jsonfile:
     vid_data = json.load(jsonfile)
 with open(fileName + '_vid_topic_without_tags.json', encoding='utf8') as jsonfile:
