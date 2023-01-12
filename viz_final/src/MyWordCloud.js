@@ -35,7 +35,7 @@ const MyWordCloud = forwardRef(({height, width, data, setKeyword, setVideoID, tr
     }
     
     const rotate = useCallback(() => 0, []);
-    const fill = useCallback((d, i) => schemeCategory10ScaleOrdinal(i), []);
+    const fill = useCallback(((d, i) => d.color));
     const fontWeight = useCallback((d) => {
         return (d.text===keyword)?"bold":"normal";
     },[]);

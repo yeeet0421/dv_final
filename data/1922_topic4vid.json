@@ -1,179 +1,302 @@
 {
-    "新聞": [
-        "BvTpaErt_WI",
-        "VBlv9r5AfaA",
-        "eUAKlIns29M",
-        "4BYfQfTkan4"
-    ],
-    "公權力": [
-        "lWVdvRb2y8I",
-        "eUAKlIns29M",
-        "IcKusjgz2Xg",
-        "0_1uJsPazt0"
-    ],
-    "中心": [
-        "yiw26hu54_4",
-        "IcKusjgz2Xg",
-        "DvZMzq0hphA",
-        "0_1uJsPazt0"
-    ],
-    "國際": [
-        "mEsccQphoXo",
-        "PamPMegFPug",
-        "BvTpaErt_WI",
-        "uMZ-wde4hQU"
-    ],
-    "掌握": [
-        "mEsccQphoXo",
-        "PamPMegFPug",
-        "uMZ-wde4hQU",
-        "BvTpaErt_WI"
-    ],
-    "指揮": [
-        "IcKusjgz2Xg",
-        "DvZMzq0hphA",
-        "0_1uJsPazt0"
-    ],
-    "專線": [
-        "lWVdvRb2y8I",
-        "2DLRXscxcT0"
-    ],
-    "預約": [
-        "uMZ-wde4hQU"
-    ],
-    "防疫": [
-        "eUAKlIns29M",
-        "2DLRXscxcT0"
-    ],
-    "通報": [
-        "lWVdvRb2y8I",
-        "2DLRXscxcT0"
-    ],
-    "卸責": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "關懷": [
-        "yiw26hu54_4"
-    ],
-    "篩陽": [
-        "uMZ-wde4hQU",
-        "yiw26hu54_4"
-    ],
-    "恩恩": [
-        "DvZMzq0hphA",
-        "IcKusjgz2Xg"
-    ],
-    "確診": [
-        "0AlX82OCAYw"
-    ],
-    "影片": [
-        "TZy7pMTBtXU",
-        "eUAKlIns29M"
-    ],
-    "沒有": [
-        "eUAKlIns29M",
-        "lWVdvRb2y8I"
-    ],
-    "疫情": [
-        "0AlX82OCAYw",
-        "2DLRXscxcT0"
-    ],
-    "陽性": [
-        "VBlv9r5AfaA",
-        "4BYfQfTkan4"
-    ],
-    "疫苗": [],
-    "公視": [],
-    "超強": [
-        "gT59L9LzJEw"
-    ],
-    "病人": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "頻道": [
-        "TZy7pMTBtXU",
-        "VBlv9r5AfaA"
-    ],
-    "發燒": [
-        "yiw26hu54_4",
-        "uMZ-wde4hQU"
-    ],
-    "媽媽": [
-        "gT59L9LzJEw"
-    ],
-    "篩檢": [
-        "4BYfQfTkan4",
-        "uMZ-wde4hQU"
-    ],
-    "兒子": [
-        "gT59L9LzJEw"
-    ],
-    "通知": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "入案": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "狀況": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "實務": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "民眾": [
-        "0_1uJsPazt0"
-    ],
-    "溝通": [
-        "mEsccQphoXo",
-        "PamPMegFPug"
-    ],
-    "解釋": [
-        "eUAKlIns29M"
-    ],
-    "包接": [
-        "2DLRXscxcT0"
-    ],
-    "人員": [
-        "2DLRXscxcT0"
-    ],
-    "專家": [],
-    "落地": [
-        "4BYfQfTkan4"
-    ],
-    "槓上": [
-        "0_1uJsPazt0"
-    ],
-    "規定": [
-        "IcKusjgz2Xg"
-    ],
-    "重症": [
-        "0AlX82OCAYw"
-    ],
-    "恩恩案": [
-        "TZy7pMTBtXU"
-    ],
-    "踢皮球": [],
-    "電視": [],
-    "新北市": [
-        "DvZMzq0hphA"
-    ],
-    "重啟": [],
-    "完整版": [
-        "TZy7pMTBtXU"
-    ],
-    "條線": [
-        "VBlv9r5AfaA"
-    ],
-    "不知": [
-        "BvTpaErt_WI"
-    ],
-    "北市": [
-        "yiw26hu54_4"
-    ]
+    "新聞": {
+        "videoId": [
+            "BvTpaErt_WI",
+            "VBlv9r5AfaA",
+            "eUAKlIns29M",
+            "4BYfQfTkan4"
+        ],
+        "topic": "Society"
+    },
+    "公權力": {
+        "videoId": [
+            "lWVdvRb2y8I",
+            "eUAKlIns29M",
+            "IcKusjgz2Xg",
+            "0_1uJsPazt0"
+        ],
+        "topic": "Society"
+    },
+    "中心": {
+        "videoId": [
+            "yiw26hu54_4",
+            "IcKusjgz2Xg",
+            "DvZMzq0hphA",
+            "0_1uJsPazt0"
+        ],
+        "topic": "Society"
+    },
+    "國際": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug",
+            "BvTpaErt_WI",
+            "uMZ-wde4hQU"
+        ],
+        "topic": "Society"
+    },
+    "掌握": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug",
+            "uMZ-wde4hQU",
+            "BvTpaErt_WI"
+        ],
+        "topic": "Society"
+    },
+    "指揮": {
+        "videoId": [
+            "IcKusjgz2Xg",
+            "DvZMzq0hphA",
+            "0_1uJsPazt0"
+        ],
+        "topic": "Society"
+    },
+    "專線": {
+        "videoId": [
+            "lWVdvRb2y8I",
+            "2DLRXscxcT0"
+        ],
+        "topic": "Society"
+    },
+    "預約": {
+        "videoId": [
+            "uMZ-wde4hQU"
+        ],
+        "topic": "Society"
+    },
+    "防疫": {
+        "videoId": [
+            "eUAKlIns29M",
+            "2DLRXscxcT0"
+        ],
+        "topic": "Society"
+    },
+    "通報": {
+        "videoId": [
+            "lWVdvRb2y8I",
+            "2DLRXscxcT0"
+        ],
+        "topic": "Society"
+    },
+    "卸責": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "關懷": {
+        "videoId": [
+            "yiw26hu54_4"
+        ],
+        "topic": "Society"
+    },
+    "篩陽": {
+        "videoId": [
+            "uMZ-wde4hQU",
+            "yiw26hu54_4"
+        ],
+        "topic": "Society"
+    },
+    "恩恩": {
+        "videoId": [
+            "DvZMzq0hphA",
+            "IcKusjgz2Xg"
+        ],
+        "topic": "Society"
+    },
+    "確診": {
+        "videoId": [
+            "0AlX82OCAYw"
+        ],
+        "topic": "Society"
+    },
+    "影片": {
+        "videoId": [
+            "TZy7pMTBtXU",
+            "eUAKlIns29M"
+        ],
+        "topic": "Society"
+    },
+    "沒有": {
+        "videoId": [
+            "eUAKlIns29M",
+            "lWVdvRb2y8I"
+        ],
+        "topic": "Society"
+    },
+    "疫情": {
+        "videoId": [
+            "0AlX82OCAYw",
+            "2DLRXscxcT0"
+        ],
+        "topic": "Society"
+    },
+    "陽性": {
+        "videoId": [
+            "VBlv9r5AfaA",
+            "4BYfQfTkan4"
+        ],
+        "topic": "Society"
+    },
+    "超強": {
+        "videoId": [
+            "gT59L9LzJEw"
+        ],
+        "topic": "Society"
+    },
+    "病人": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "頻道": {
+        "videoId": [
+            "TZy7pMTBtXU",
+            "VBlv9r5AfaA"
+        ],
+        "topic": "Society"
+    },
+    "發燒": {
+        "videoId": [
+            "yiw26hu54_4",
+            "uMZ-wde4hQU"
+        ],
+        "topic": "Society"
+    },
+    "媽媽": {
+        "videoId": [
+            "gT59L9LzJEw"
+        ],
+        "topic": "Society"
+    },
+    "篩檢": {
+        "videoId": [
+            "4BYfQfTkan4",
+            "uMZ-wde4hQU"
+        ],
+        "topic": "Society"
+    },
+    "兒子": {
+        "videoId": [
+            "gT59L9LzJEw"
+        ],
+        "topic": "Society"
+    },
+    "通知": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "入案": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "狀況": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "實務": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "民眾": {
+        "videoId": [
+            "0_1uJsPazt0"
+        ],
+        "topic": "Society"
+    },
+    "溝通": {
+        "videoId": [
+            "mEsccQphoXo",
+            "PamPMegFPug"
+        ],
+        "topic": "Society"
+    },
+    "解釋": {
+        "videoId": [
+            "eUAKlIns29M"
+        ],
+        "topic": "Society"
+    },
+    "包接": {
+        "videoId": [
+            "2DLRXscxcT0"
+        ],
+        "topic": "Society"
+    },
+    "人員": {
+        "videoId": [
+            "2DLRXscxcT0"
+        ],
+        "topic": "Society"
+    },
+    "落地": {
+        "videoId": [
+            "4BYfQfTkan4"
+        ],
+        "topic": "Society"
+    },
+    "槓上": {
+        "videoId": [
+            "0_1uJsPazt0"
+        ],
+        "topic": "Society"
+    },
+    "重症": {
+        "videoId": [
+            "0AlX82OCAYw"
+        ],
+        "topic": "Society"
+    },
+    "恩恩案": {
+        "videoId": [
+            "TZy7pMTBtXU"
+        ],
+        "topic": "Society"
+    },
+    "新北市": {
+        "videoId": [
+            "DvZMzq0hphA"
+        ],
+        "topic": "Society"
+    },
+    "完整版": {
+        "videoId": [
+            "TZy7pMTBtXU"
+        ],
+        "topic": "Society"
+    },
+    "條線": {
+        "videoId": [
+            "VBlv9r5AfaA"
+        ],
+        "topic": "Society"
+    },
+    "不知": {
+        "videoId": [
+            "BvTpaErt_WI"
+        ],
+        "topic": "Politics"
+    },
+    "北市": {
+        "videoId": [
+            "yiw26hu54_4"
+        ],
+        "topic": "Society"
+    }
 }

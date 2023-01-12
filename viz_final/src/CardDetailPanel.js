@@ -4,9 +4,8 @@ import Paper from '@material-ui/core/Paper';
 import IconButton from '@material-ui/core/IconButton';
 import CloseIcon from '@material-ui/icons/Close';
 import LineTrend from './LineTrend';
-import { Row, Col} from 'react-materialize';
-
-import line_data from './line_data.js';
+// import { Row, Col} from 'react-materialize';
+// import line_data from './line_data.js';
 
 const CardDetailPanel =( {width, trends, setTrendNumber, trendNumber} ) => {
 const halfWidth = width*0.5;
@@ -25,18 +24,19 @@ const styles = ({
     },
     rootTitle:{
         // margin:10,
+        paddingTop:20,
         paddingBottom:20,
         textAlign:"center",
-        fontSize:36,
+        fontSize:18,
         fontFamily:"Cambria"
     },
     paper2: {
-        width:{width},
+        width:{width}-50,
         // height: 850,
         overflowX: "hidden",
         overflowY: "scroll",
-        padding: 15,
-        margin : 15,
+        // padding: 15,
+        // margin : 15,
     },
     paper2_UpperContainer: {
         display: 'flex',
@@ -69,15 +69,16 @@ const styles = ({
         return (
             <div style = {styles.OuterContainer}>
                 {/* <Paper style={styles.paper2} elevation={13}> */}
-                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width, {height:window.innerHeight-50})} elevation={3}>
+                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width)} elevation={3}>
                 <div style={styles.rootTitle}>
-                <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>setTrendNumber(6)}>
+                {trends[trendNumber]} Overview
+                {/* <IconButton style={styles.CloseBotton} color="inherit" aria-label="Close" onClick={()=>setTrendNumber(6)}>
                     <CloseIcon />
-                </IconButton>
+                </IconButton> */}
                 </div>
-                <div style = {styles.paper2_UpperContainer}>
+                {/* <div style = {styles.paper2_UpperContainer}>
                     <div style={styles.rootTitle}> {trends[trendNumber]} Overview</div>
-                </div>
+                </div> */}
                 <div height="5"><hr></hr></div>
                 <div style = {styles.paper2_BelowContainer}>
                     <div style = {{width: width}}>
@@ -92,7 +93,7 @@ const styles = ({
                 {/* <div style = {styles.containerTitle}>
                     Statistics
                 </div> */}
-                <Row>
+                {/* <Row>
                     <Col
                         m={7}
                         s={7}
@@ -119,7 +120,7 @@ const styles = ({
                     >
                         <span>總評論量：{line_data[trends[trendNumber]]['stat']['comCount']}</span>
                     </Col>
-                </Row>
+                </Row> */}
                 </Paper>  
             </div>
         );
@@ -128,12 +129,16 @@ const styles = ({
         return (
             <div style = {styles.OuterContainer}>
                 {/* <Paper style={styles.paper2} elevation={13}> */}
-                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width, {height:window.innerHeight-50})} elevation={3}>
+                <Paper style= {Object.assign({}, styles.paper2, styles.paper2.width)} elevation={3}>
                 <div style = {styles.paper2_UpperContainer}>
-                    <div style={styles.rootTitle}> Hover keywords to get an overview</div>
-                    <div style={styles.rootTitle}> Click keywords to get more insights</div>
+                    <div style={styles.rootTitle}> Hover a keyword to get its overview</div>
+                    <div style={styles.rootTitle}> Click a keyword to get its insights</div>
                 </div>
-                
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
+                <br></br>
                 </Paper>  
             </div>
         );

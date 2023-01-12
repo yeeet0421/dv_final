@@ -3,6 +3,7 @@ import { useState } from 'react';
 import MyWordCloud from './MyWordCloud';
 import ImageCard from './ImageCard';
 import VideoList from './VideoList';
+import CloudLegend from './CloudLegend';
 
 const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress, trendNumber}) => {
 
@@ -37,7 +38,17 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
     const ref = React.createRef();
     return(
         <div>
-            <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}>{trends[trendNumber]}</div>
+            <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}
+                height={windowHeight*0.1}
+            >
+                {trends[trendNumber]}
+            </div>
+            <div style={{float:'left'}}>
+                <CloudLegend
+                    trends = {trends}
+                    trendNumber = {trendNumber}
+                ></CloudLegend>
+                </div>
             <div style={containerStyles}>
                 <div style={leftDivStyles} className = "parent-div">
                     <MyWordCloud ref = {ref}

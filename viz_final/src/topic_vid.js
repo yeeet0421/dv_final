@@ -31,7 +31,20 @@ export default{
                         ]
                     },
                     "total_view": 2199643,
-                    "total_video": 405
+                    "total_video": 405,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        1,
+                        1,
+                        1
+                    ],
+                    "total_com": 4
                 }
             },
             {
@@ -64,7 +77,20 @@ export default{
                         ]
                     },
                     "total_view": 2199643,
-                    "total_video": 405
+                    "total_video": 405,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        1,
+                        0,
+                        0
+                    ],
+                    "total_com": 2
                 }
             },
             {
@@ -97,7 +123,20 @@ export default{
                         ]
                     },
                     "total_view": 2199643,
-                    "total_video": 405
+                    "total_video": 405,
+                    "com_bar": [
+                        0,
+                        1,
+                        1,
+                        0,
+                        1,
+                        3,
+                        0,
+                        1,
+                        0,
+                        1
+                    ],
+                    "total_com": 8
                 }
             },
             {
@@ -178,7 +217,20 @@ export default{
                         ]
                     },
                     "total_view": 19820868,
-                    "total_video": 1155
+                    "total_video": 1155,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "total_com": 1
                 }
             }
         ],
@@ -228,7 +280,20 @@ export default{
                         ]
                     },
                     "total_view": 64950,
-                    "total_video": 59
+                    "total_video": 59,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1
+                    ],
+                    "total_com": 1
                 }
             },
             {
@@ -291,7 +356,20 @@ export default{
                         ]
                     },
                     "total_view": 18499751,
-                    "total_video": 1140
+                    "total_video": 1140,
+                    "com_bar": [
+                        3,
+                        2,
+                        1,
+                        1,
+                        1,
+                        6,
+                        5,
+                        2,
+                        5,
+                        5
+                    ],
+                    "total_com": 31
                 }
             },
             {
@@ -354,7 +432,20 @@ export default{
                         ]
                     },
                     "total_view": 18499751,
-                    "total_video": 1140
+                    "total_video": 1140,
+                    "com_bar": [
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0
+                    ],
+                    "total_com": 2
                 }
             },
             {
@@ -450,7 +541,20 @@ export default{
                         ]
                     },
                     "total_view": 3757314,
-                    "total_video": 1137
+                    "total_video": 1137,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "total_com": 1
                 }
             }
         ]
@@ -541,7 +645,20 @@ export default{
                         ]
                     },
                     "total_view": 47036209,
-                    "total_video": 675
+                    "total_video": 675,
+                    "com_bar": [
+                        1,
+                        1,
+                        1,
+                        0,
+                        2,
+                        1,
+                        2,
+                        2,
+                        0,
+                        3
+                    ],
+                    "total_com": 13
                 }
             },
             {
@@ -628,7 +745,20 @@ export default{
                         ]
                     },
                     "total_view": 47036209,
-                    "total_video": 675
+                    "total_video": 675,
+                    "com_bar": [
+                        2,
+                        1,
+                        1,
+                        0,
+                        1,
+                        0,
+                        2,
+                        1,
+                        0,
+                        3
+                    ],
+                    "total_com": 11
                 }
             },
             {
@@ -715,7 +845,20 @@ export default{
                         ]
                     },
                     "total_view": 47036209,
-                    "total_video": 675
+                    "total_video": 675,
+                    "com_bar": [
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        2,
+                        1,
+                        1,
+                        1,
+                        4
+                    ],
+                    "total_com": 10
                 }
             },
             {
@@ -802,7 +945,20 @@ export default{
                         ]
                     },
                     "total_view": 47036209,
-                    "total_video": 675
+                    "total_video": 675,
+                    "com_bar": [
+                        2,
+                        0,
+                        2,
+                        2,
+                        3,
+                        3,
+                        1,
+                        1,
+                        0,
+                        2
+                    ],
+                    "total_com": 16
                 }
             }
         ],
@@ -888,7 +1044,20 @@ export default{
                         ]
                     },
                     "total_view": 42929904,
-                    "total_video": 1235
+                    "total_video": 1235,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        2,
+                        0,
+                        1,
+                        4,
+                        4,
+                        2,
+                        3
+                    ],
+                    "total_com": 16
                 }
             },
             {
@@ -987,7 +1156,20 @@ export default{
                         ]
                     },
                     "total_view": 28727345,
-                    "total_video": 1225
+                    "total_video": 1225,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "total_com": 1
                 }
             },
             {
@@ -1089,7 +1271,20 @@ export default{
                         ]
                     },
                     "total_view": 12762287,
-                    "total_video": 1179
+                    "total_video": 1179,
+                    "com_bar": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        1,
+                        1,
+                        1,
+                        0,
+                        0,
+                        0
+                    ],
+                    "total_com": 3
                 }
             },
             {
@@ -1197,7 +1392,20 @@ export default{
                         ]
                     },
                     "total_view": 144310496,
-                    "total_video": 895
+                    "total_video": 895,
+                    "com_bar": [
+                        17,
+                        15,
+                        26,
+                        35,
+                        45,
+                        56,
+                        59,
+                        51,
+                        41,
+                        89
+                    ],
+                    "total_com": 434
                 }
             }
         ]

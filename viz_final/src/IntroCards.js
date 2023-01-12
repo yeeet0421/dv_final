@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import { Row, Col, CardPanel } from 'react-materialize';
 
-const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, trendNumber, trends}) => {
+const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, trendNumber, trends, setHover}) => {
     const [classNames, setClassNames] = useState(['teal', 'teal', 'teal', 'teal', 'teal', 'teal']); // Initialize the classNames array with 'teal'
     
     // Create event handler functions to update the className of the hovered CardPanel
@@ -9,13 +9,14 @@ const IntroCards = ({ setTrendNumber, windowHeight, windowWidth, setUIProgress, 
         const newClassNames = [...classNames]; // Create a copy of the classNames array
         newClassNames[index] = 'red'; // Update the className of the hovered CardPanel
         setClassNames(newClassNames); // Update the state with the new classNames array
-
+        setHover(true);
         setTrendNumber(index);
     };
     const handleMouseLeave = (index) => {
         const newClassNames = [...classNames]; // Create a copy of the classNames array
         newClassNames[index] = 'teal'; // Update the className of the hovered CardPanel
         setClassNames(newClassNames); // Update the state with the new classNames array
+        setHover(false);
     };
     
     // const cards = 
