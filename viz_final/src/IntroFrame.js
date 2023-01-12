@@ -14,7 +14,7 @@ import CommentIcon from '@material-ui/icons/Comment';
 const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumber, setTrendNumber}) => {
 
     const [isVisible, setIsVisible] = useState(false);
-    
+    const [isHover, setHover] = useState(false)
     return (
         <div style={{display:'flex'}}>
             <IntroCards setCardDetailNumber = {setTrendNumber}
@@ -24,6 +24,7 @@ const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumb
                         windowHeight = {windowHeight}
                         setUIProgress = {setUIProgress}
                         setTrendNumber = {setTrendNumber}
+                        setHover = {setHover}
             />
             <div style={{width:'50%', height:'100%'}}>
                 <div style={{width:'100%',height:'50%'}}>
@@ -35,6 +36,7 @@ const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumb
                                 style={{marginTop:10}}>
                             <YouTubeIcon/>
                             <span>Video Quantity</span>
+                            {isHover && <span> ({trends[trendNumber]}: {overview["vid"][trendNumber]})</span>}
                         </Grid>
                         <Grid item xs={6} 
                                 container
@@ -43,6 +45,7 @@ const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumb
                                 style={{marginTop:10}}>
                             <VisibilityIcon/>
                             <span>Views</span>
+                            {isHover && <span> ({trends[trendNumber]}: {overview["view"][trendNumber]})</span>}
                         </Grid>
                         <Grid item xs={6}>
                             <BarChart 
@@ -73,6 +76,7 @@ const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumb
                                 style={{marginTop:10}}>
                             <ThumbUpIcon/>
                             <span>Like Count</span>
+                            {isHover && <span> ({trends[trendNumber]}: {overview["like"][trendNumber]})</span>}
                         </Grid>
                         <Grid item xs={6} 
                                 container
@@ -81,6 +85,7 @@ const IntroFrame = ({windowWidth, windowHeight, setUIProgress, trends, trendNumb
                                 style={{marginTop:10}}>
                             <CommentIcon/>
                             <span>Comment Count</span>
+                            {isHover && <span> ({trends[trendNumber]}: {overview["com"][trendNumber]})</span>}
                         </Grid>
                         <Grid item xs={6}>
                             <BarChart 
