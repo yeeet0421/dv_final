@@ -35,7 +35,7 @@ const MyWordCloud = ({height, width, data, setKeyword, setVideoID, trends, trend
     const fontSize = useCallback((word) => Math.log2((word.value*5)^100) * 5 
                                             , []);
     const rotate = useCallback(() => 0, []);
-    const fill = useCallback((d, i) => schemeCategory10ScaleOrdinal(i), []);
+    const fill = useCallback(((d, i) => d.color));
     const fontWeight = useCallback((d) => {
         return (d.text===keyword)?"bold":"normal";
     },[]);
