@@ -6,10 +6,10 @@ import { schemeCategory10 } from 'd3-scale-chromatic';
 import './WordCloud.css'
 
 const schemeCategory10ScaleOrdinal = scaleOrdinal(schemeCategory10);
-const MyWordCloud = forwardRef(({height, width, data, setKeyword, setVideoID, trends, trendNumber, keyword}, ref) => {
+const MyWordCloud = ({height, width, data, setKeyword, setVideoID, trends, trendNumber, keyword}) => {
     const onWordClick = useCallback((word) => {
         setVideoID(false);
-        setKeyword(word.syntheticEvent.nativeEvent.srcElement.textContent);
+        setKeywordWrapper(word.syntheticEvent.nativeEvent.srcElement.textContent);
         
 
         //const temp =  word.syntheticEvent.nativeEvent.srcElement.textContent;
@@ -22,10 +22,9 @@ const MyWordCloud = forwardRef(({height, width, data, setKeyword, setVideoID, tr
         }
         //temp.classList.remove('word-clicked');
         temp.classList.add('selected-word');
-        console.log(word);
 
-      }, [setKeyword, setVideoID]);
-
+      }, []);
+    const setKeywordWrapper = useCallback((word) => setKeyword(word), []);
     const [buttonPressed, setButtonPressed] = useState(false);
     const fontSize1 = useCallback((word) => Math.log2((word.value*5)^100) * 5, []);
     const fontSize2 = useCallback((word) => Math.log2(10000/(word.value*5)) * 5, []);
@@ -101,5 +100,5 @@ const MyWordCloud = forwardRef(({height, width, data, setKeyword, setVideoID, tr
         </div>
         
     );
-});
+}
 export default MyWordCloud;

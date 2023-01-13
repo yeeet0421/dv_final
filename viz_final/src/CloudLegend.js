@@ -6,7 +6,15 @@ const CloudLegend = ({trends,trendNumber}) => {
     const legend_col = Object.keys(legend_data[trends[trendNumber]]);
     return legend_col.map((d, i) => {
         return (
-          <div style={{transform:`translate(${20}px, ${0}px)`}} width={50} height={50+i*10}
+          <div style={{
+            width: '10px',
+            height: '10px',
+            backgroundColor: legend_col[i],
+            borderRadius: '50%',
+            position: 'absolute',
+            left: '5px',
+            top: `${90+i*20}px`,
+          }} width={50} height={50+i*30}
           >
             <div
                 style={{width: '10px',

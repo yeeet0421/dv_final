@@ -12,9 +12,6 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
     const [cardId, setCardId] = useState(false);
     //const [cardDetailNumber, setCardDetailNumber] = useState(0);
     
-    const handleButtonClick = () => {
-    }
-
     const containerStyles = {
         display: "flex"
       };
@@ -35,7 +32,6 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
         width: '400px',
         height: '50px'
     }
-    const ref = React.createRef();
     return(
         <div>
             <div style={{textAlign:"center", fontSize:36, fontFamily:"Cambria",marginTop: "30px"}}
@@ -51,7 +47,7 @@ const WordCloudFrame = ({windowWidth, windowHeight, data, trends, setUIProgress,
                 </div>
             <div style={containerStyles}>
                 <div style={leftDivStyles} className = "parent-div">
-                    <MyWordCloud ref = {ref}
+                    <MyWordCloud
                             height = {windowHeight}
                             width = {keyword===false? windowWidth:windowWidth*0.5}
                             data = {data}
